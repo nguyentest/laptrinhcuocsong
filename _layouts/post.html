@@ -1,0 +1,38 @@
+---
+layout: default
+---
+
+<article class="post">
+  <h1>{{ page.title }}</h1>
+  <div class="date">
+    Written on {{ page.date | date: "%B %e, %Y" }}
+  </div>
+
+  <div class="entry">
+    {{ content }}
+    {{ page.categories }}
+    <div class="social-share">
+        <span class='st_facebook_large' displayText='Facebook'></span>
+        <span class='st_googleplus_large' displayText='Google +'></span>
+        <span class='st_twitter_large' displayText='Tưêt'></span>
+        <span class='st_linkedin_large' displayText='LinkedIn'></span>
+        <span class='st_pinterest_large' displayText='Pinterest'></span>
+        <span class='st_blogger_large' displayText='Blogger'></span>
+        <span class='st_email_large' displayText='Email'></span>
+    </div>
+  </div>
+  <div class="fb-comments" data-href="{{ site.baseurl }}{{ page.url }}" data-numposts="10"></div>
+</article>
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v2.7&appId=299675953750632";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<script type="text/javascript">var switchTo5x=true;</script>
+<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+<script type="text/javascript">stLight.options({publisher: "d9a9b6e9-ea83-48fa-8dcf-126cd71ca510", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

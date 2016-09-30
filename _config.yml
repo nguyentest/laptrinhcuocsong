@@ -1,0 +1,44 @@
+name: Lập trình cuộc sống
+description: Chỉ là blog của một thằng coder
+avatar: images/logo.gif
+footer-links:
+  dribbble:
+  email:
+  facebook:
+  flickr:
+  github: bvnguyen/laptrinhcuocsong
+  instagram:
+  linkedin:
+  pinterest:
+  rss: # just type anything here for a working RSS icon
+  twitter: jekyllrb
+  stackoverflow:
+  youtube: buivannguyen
+  googleplus:
+disqus:
+google_analytics:
+url:
+baseurl: "http://laptrinhcuocsong.com"
+permalink: /:categories/:title.html
+version: v1.2.0
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    css_class: 'highlight'
+sass:
+  style: :compressed # You might prefer to minify using :compressed
+gems:
+  - jekyll-sitemap
+  - jekyll-feed
+
+# Exclude these files from your production _site
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - CNAME
+  
+# paginate
+paginate: 10
