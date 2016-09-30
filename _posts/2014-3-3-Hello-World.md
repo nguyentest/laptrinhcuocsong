@@ -1,8 +1,7 @@
 ---
 layout: post
-title: You're up and running!
+title: Thử xem tiếng việt thôi mà
 thumbnail: images/image.png
-permalink: you-up-and-runing
 category: Học-lập-trình
 ---
 
