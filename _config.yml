@@ -1,17 +1,17 @@
 name: Lập trình cuộc sống
 description: Chỉ là blog của một thằng coder
-avatar: images/logo.gif
+avatar: http://laptrinhcuocsong/images/logo.gif
 footer-links:
   dribbble:
   email:
   facebook:
   flickr:
   github: bvnguyen/laptrinhcuocsong
-  instagram:
+  instagram: buivannguyen
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter: bui_van_nguyen
   stackoverflow:
   youtube: buivannguyen
   googleplus:
@@ -19,7 +19,7 @@ disqus:
 google_analytics:
 url:
 baseurl: "http://laptrinhcuocsong.com"
-permalink: /:categories/:title.html
+permalink: /:title.html
 version: v1.2.0
 kramdown:
   input: GFM
