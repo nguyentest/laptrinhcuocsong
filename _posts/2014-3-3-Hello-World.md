@@ -2,6 +2,7 @@
 layout: post
 title: You're up and running!
 thumbnail: images/image.png
+permalink: you-up-and-runing
 category: Học-lập-trình
 ---
 
