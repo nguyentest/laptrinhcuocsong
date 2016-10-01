@@ -286,4 +286,7 @@ a:hover, a:active {
 	#sidebar ul {
 		display: none;
 	}
+	h1 {
+    	font-size: 20px;
+    }
 }
