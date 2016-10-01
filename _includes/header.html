@@ -1,12 +1,17 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-	<title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
+	<title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }}</title>
 	<meta content='index, follow' name='robots'/>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
     <meta content='text/html; charset=UTF-8' http-equiv='Content-Type'/>
-    <meta content='Bùi văn nguyện, bui van nguyen, blog của Bùi văn Nguyện, tôi dám nghĩ khác, cười nhạt' name='keywords'/>
-    <meta content='Website chính thức của Bùi văn Nguyện, tôi dám nghĩ khác. Tôi chỉ là một người đam mê máy tính và thế giới web, tôi hâm mộ Google, facebook cũng như mọi website mang lại lợi ích và kết nối mọi người.' name='description'/>    
+    {% if page.excerpt %}
+    <meta name="description" content="{{ page.excerpt| strip_html }}" />
+    <meta property="og:description" content="{{ page.excerpt| strip_html }}" />
+    {% else %}
+    <meta name="description" content="{{ site.description }}">
+    <meta property="og:description" content="{{ site.description }}" />
+    {% endif %}
     <meta http-equiv="Cache-control" content="public">
     <link rel='stylesheet' type='text/css' href='{{ site.baseurl }}/style.css'>
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
