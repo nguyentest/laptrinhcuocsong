@@ -15,9 +15,9 @@ layout: default
 
 <div class="pagination">
   {% if paginator.previous_page %}
-  <a href="#" class="button">&laquo; Trang truoc</a>
+  <a href="{{ paginator.previous_page_path }}" class="button">&laquo; Trang truoc</a>
   {% endif %}
   {% if paginator.next_page %}
-  <a href="#" class="button">Trang sau &raquo;</a>
+  <a href="{{ paginator.next_page_path }}" class="button">Trang sau &raquo;</a>
   {% endif %}
 </div>
