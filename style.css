@@ -101,6 +101,16 @@ a:hover, a:active {
 	max-width: 960px;
 	margin: 0px auto;
 }
+.button{
+    display: inline-block;
+    font-weight: 500;
+    color: #1b1b1b;
+    padding: 0 20px;
+    border-radius: 18px;
+    height: 36px;
+    line-height: 36px;
+    border: 1px solid #bfbfbf;
+}
 #header-outer {
 	background-color: #F5F5F5;
 	border-bottom: 1px solid #e5e5e5;
@@ -203,15 +213,8 @@ a:hover, a:active {
 .post {
 	line-height: 25px;
 }
-.button{
-    display: inline-block;
-    font-weight: 500;
-    color: #1b1b1b;
-    padding: 0 20px;
-    border-radius: 18px;
-    height: 36px;
-    line-height: 36px;
-    border: 1px solid #bfbfbf;
+.social-share {
+	margin-top: 25px;
 }
 .pagination {
     margin-bottom: 30px;
