@@ -13,7 +13,7 @@
     <meta property="og:description" content="{{ site.description }}" />
     {% endif %}
     {% if page.url %}
-    <meta property="og:url" content="{{ page.url }}" />
+    <meta property="og:url" content="{{ page.url }}{{ site.baseurl }}" />
     {% endif %}
   	{% if page.thumbnail %}
     <meta property='og:image' content='{{ site.baseurl }}/images/{{ page.thumbnail }}' />
