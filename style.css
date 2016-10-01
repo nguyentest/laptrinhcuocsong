@@ -264,10 +264,11 @@ a:hover, a:active {
 	}
 	#sidebar ul li {
 		display: inline-block;
+		margin-bottom: 0px;
 	}
 	#sidebar ul li a {
 		display: inline;
-		padding: 10px;
+		padding: 5px 7px;
     	border: 1px solid #e5e5e5;
     	border-radius: 4px;
     	text-align: center;
