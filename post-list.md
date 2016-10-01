@@ -12,7 +12,7 @@ permalink: /danh-muc-bai-viet.html
 <a name="{{ category[0] }}"></a><h2>{{ category[0] }}</h2>
 {% assign sorted_posts = site.posts | sort: 'title' %}
 {% for post in sorted_posts %}
-{%if post.categories contains category[0]%}
+{%if post.categories contains 'Học-lập-trình' %}
 
   <h3>
   <a href="{{ site.url }}{{site.baseurl}}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
