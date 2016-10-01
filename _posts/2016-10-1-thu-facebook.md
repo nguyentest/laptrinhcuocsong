@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Thử xem tiếng việt thôi mà 2
-thumbnail: nguyen.png
+thumbnail: nguyen.jpg
 category: Học-lập-trình
 ---
 
