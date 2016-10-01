@@ -9,7 +9,7 @@ permalink: /danh-muc-bai-viet.html
 <div id="index">
 
 {% for category in categories %}
-<a name="{{ category}}"></a><h2>{{ category}}</h2>
+<a name="{{ category[0] }}"></a><h2>{{ category[0] }}</h2>
 {% assign sorted_posts = site.posts | sort: 'title' %}
 {% for post in sorted_posts %}
 {%if post.categories contains category[0]%}
