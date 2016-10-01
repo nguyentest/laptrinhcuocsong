@@ -4,6 +4,8 @@ title: Danh mục bài viết
 permalink: /danh-muc-bai-viet.html
 ---
 
+
+{% assign categories = site.categories | sort %}
 <div id="index">
 
 {% for category in categories %}
