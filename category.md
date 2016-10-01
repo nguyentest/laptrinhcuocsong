@@ -6,8 +6,7 @@ permalink: danhmuc.html
 <h1>2</h1>
 <div class="posts">
 {% for category in site.categories %}
-{% raw %} {{ category }} {% endraw %}
-  <li><a name="{{ category | first }}">{{ category | first }}</a>
+  <li><a name="{{ category }}">{{ category}}</a>
     <ul>
     {% for posts in category %}
     a
