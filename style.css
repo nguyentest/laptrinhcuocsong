@@ -282,7 +282,7 @@ a:hover, a:active {
 		margin-left: 0px;
 	}
 }
-@media (max-width:640px){
+@media (max-width:720px){
 	#sidebar ul {
 		display: none;
 	}
