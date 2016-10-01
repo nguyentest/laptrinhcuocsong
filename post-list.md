@@ -14,7 +14,7 @@ permalink: /danh-muc-bai-viet.html
 {% for post in sorted_posts %}
 {%if post.categories contains category[0]%}
 
-  <h3><a href="{{ site.url }}{{site.baseurl}}{{ post.url }}" title="{{ post.title }}">{{ post.title }} <p class="date">{{ post.date |  date: "%B %e, %Y" }}</p></a></h3>
+  <h3><a href="{{ site.url }}{{site.baseurl}}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</h3>
 {%endif%}
 {% endfor %}
 
