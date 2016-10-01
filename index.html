@@ -3,12 +3,12 @@ layout: default
 ---
 
 {% for post in paginator.posts %}
-<article class="post">
-  <h1><a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h1>
+<article class="post" itemscope itemtype="http://schema.org/Article">
+  <h1 itemprop="name"><a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}" >{{ post.title }}</a></h1>
   {% if post.thumbnail %}
   <a href="#"><img src="{{ site.baseurl }}/images/{{ post.thumbnail }}" alt="{{ post.title }}" class="post_thumbnail"></a>
   {% endif %}
-  <div class="excerpt">
+  <div class="excerpt" itemprop="description">
     {{ post.excerpt }}
   </div>
   <div class="clear"></div>
