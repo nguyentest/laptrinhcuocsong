@@ -15,12 +15,13 @@
     <meta http-equiv="Cache-control" content="public">
     <link rel='stylesheet' type='text/css' href='{{ site.baseurl }}/style.css'>
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
-    {% if page.image %}
-		image: {{page.image}}
+  	{% if page.thumbnail %}
+    <meta property='og:image' content='{{ site.baseurl }}/images/{{ page.thumbnail }}' />
+    <meta property="og:image:type" content="image/jpeg" /> 
+    <meta property="og:image:width" content="250" />
+    <meta property="og:image:height" content="250" />
     {% endif %}
-    {% if page.thumbnail %}
-		thumbnail: {{page.thumbnail}}
-    {% endif %}
+
 </head>
 <body>
 <div id="header-outer">
