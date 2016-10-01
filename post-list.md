@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Danh mục bài viết
-permalink: /danh-muc-bai-viet.html
+permalink: danh-muc-bai-viet.html
 ---
 
 
