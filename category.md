@@ -18,4 +18,3 @@ permalink: danhmuc.html
   </li>
 {% endfor %}
 </div>
-
