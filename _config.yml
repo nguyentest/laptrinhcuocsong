@@ -6,11 +6,8 @@ baseurl: "http://laptrinhcuocsong.com"
 default_post_avatar: images/logo.gif
 permalink: /:title.html
 version: v1.2.0
-kramdown:
-  input: GFM
-  syntax_highlighter: rouge
-  syntax_highlighter_opts:
-    css_class: 'highlight'
+markdown: kramdown
+highlighter: rouge
 sass:
   style: :compressed # You might prefer to minify using :compressed
 gems:
