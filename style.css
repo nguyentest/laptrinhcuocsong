@@ -220,6 +220,10 @@ a:hover, a:active {
 .post {
 	line-height: 25px;
 }
+pre.highlight {
+	background-color: #f7f7f7;
+}
+
 .social-share {
 	margin-top: 25px;
 }
