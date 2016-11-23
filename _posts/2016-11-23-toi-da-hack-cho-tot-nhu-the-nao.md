@@ -18,9 +18,9 @@ Vấn đề là, từ khóa nó đang nằm trong string, nên alert không xả
 
 Cuối cùng mình sửa search key như sau:
 
-```javascript
+{% highlight javascript %}
 iphone 7" }; alert("something went wrong"); var a = { "a":"
-```
+{% endhighlight %}
 
 Thì nhận được alert:
 

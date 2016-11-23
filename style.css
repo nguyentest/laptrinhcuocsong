@@ -210,6 +210,9 @@ a:hover, a:active {
 .post h1 {
 	margin-bottom: 30px;
 }
+.post p {
+    padding-bottom: 25px;
+}
 .post p img {
 	max-width: 90%;
 	margin: 20px auto;
