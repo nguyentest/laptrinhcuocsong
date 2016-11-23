@@ -221,7 +221,9 @@ a:hover, a:active {
 	line-height: 25px;
 }
 pre.highlight {
+	font-family: monospace;
 	background-color: #f7f7f7;
+	padding: 1em;
 }
 
 .social-share {
