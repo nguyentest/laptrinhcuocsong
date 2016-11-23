@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Tôi đã hack Chợ Tốt như thế nào
+thumbnail: hack-cho-tot.jpg
 ---
 
 Hôm nay thử dạo một vòng Chợ Tốt kiếm mấy món hàng cũ, thì phát hiện lỗi XSS, đây là lỗi không mới, cách thức tấn công cũng đơn giản, nhưng nhiều khi cần rất nhiều sáng tạo trong quá trình khai thác.
