@@ -210,7 +210,7 @@ a:hover, a:active {
 .post h1 {
 	margin-bottom: 30px;
 }
-.post p, .post .highlighter-rouge {
+.post-body p, .post-body .highlighter-rouge {
     padding-bottom: 25px;
 }
 .post p img {
