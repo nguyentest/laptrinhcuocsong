@@ -3,6 +3,7 @@ description: Chỉ là blog của một thằng coder
 home_description: 
 avatar: images/logo.gif
 baseurl: 
+site_url: "http://laptrinhcuocsong.com"
 default_post_avatar: images/logo.gif
 permalink: /:title.html
 version: v1.2.0
