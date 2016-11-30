@@ -19,9 +19,9 @@ Vấn đề là, từ khóa nó đang nằm trong string, nên alert không xả
 
 Cuối cùng mình sửa search key như sau:
 
-{% highlight javascript %}
+```javascript
 iphone 7" }; alert("something went wrong"); var a = { "a":"
-{% endhighlight %}
+```
 
 Thì nhận được alert:
 
@@ -61,13 +61,7 @@ Nhưng không dừng lại ở đó, khi đã vào được tài khoản của v
 
 Tâm lý là khi được chat về sản phẩm đang bán, người dùng rất dễ click vào link, social engineering khá hiệu quả trong trường hợp này.
 
-Hiện tại mình đã report với Chợ Tốt, nhưng họ có vẻ không quan tâm lắm, chỉ nói chung chung là sẽ kiểm tra.
+Hiện tại mình đã report, bên ChoTot đã xác nhận, fix lỗi xong và thông báo lại cho mình
 
-Mình sẽ update tình hình lên bài viết này.
-
-> Update 1: 
-> Mình đã gửi report đến Chợ Tốt, và sau 10 tiếng nhận lại được 1 email phản hồi yêu cầu mô tả tái hiện lỗi, mình đã gửi lại và chưa nhận được hồi đáp. Lỗi chưa được fix.
-> 
-> Update 2:
-> Đến 15h ngày 23/11: Lỗi đã được lẳng lặng fix bằng một cách củ chuối là: remove ký tự đóng mở ngoặc đơn () trong search key, vẫn có thể bypass được,  chưa có thông báo gì đến mình, tất cả là một email chung chung.
+![alt text](https://s3-ap-southeast-1.amazonaws.com/kipalog.com/6uo1x836x9_chotot.png)
 
