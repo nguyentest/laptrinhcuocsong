@@ -1,4 +1,1 @@
----
-layout: null
----
 {{ site.categories | jsonify }}
