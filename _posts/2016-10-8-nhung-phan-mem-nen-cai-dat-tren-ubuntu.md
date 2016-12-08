@@ -78,7 +78,7 @@ Tải xuống Steam tại đây:
 
 ## 8. LibreOffice
 
-![LibreOffice](images/libreoffice.png)
+![LibreOffice](images/libreoffice.jpg)
 
 LibreOffice là bộ phần mềm văn phòng mã nguồn mở mạnh mẽ. LibreOffice bao gồm 6 ứng dụng với nhiều tính năng cho tất cả các nhu cầu xử lý dữ liệu và xuất bản tài liệu: Writer, Calc, Impress, Draw, Math và Base
 
