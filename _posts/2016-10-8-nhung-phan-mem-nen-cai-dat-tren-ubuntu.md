@@ -12,11 +12,9 @@ Unity tweak tool là tiện ích cá nhân hóa, tinh chỉnh ubuntu nổi tiế
 
 Cài đặt Unity tweak tool:
 
-```javascript
 sudo add-apt-repository ppa:freyja-dev/unity-tweak-tool-daily
 sudo apt-get update
 sudo apt-get install unity-tweak-tool
-```
 
 ## 2. Google chrome
 
@@ -26,9 +24,7 @@ Google Chrome là một trình duyệt web nhanh, an toàn và miễn phí, đư
 
 Tải xuống Google chrome tại đây:
 
-```javascript
 [Download google chrome](https://www.google.com/intl/vi/chrome/browser/desktop/)
-```
 
 ## 3. VLC Player
 
@@ -48,9 +44,7 @@ Thunderbird là ứng dụng email (Email client) miễn phí và nhiều tính 
 
 Tải xuống Thunderbird tại đây:
 
-```javascript
 [Download thunderbird](https://www.google.com/intl/vi/chrome/browser/desktop/)
-```
 
 ## 5. Skype alpha
 
@@ -60,9 +54,7 @@ Skype là ứng dụng chat, nhắn tin, gọi điện được nhiều người
 
 Tải xuống Skype alpha tại đây:
 
-```javascript
 [Download Skype alpha](https://community.skype.com/t5/Linux/Skype-for-Linux-Alpha-and-calling-on-Chrome-amp-Chromebooks/td-p/4434299)
-```
 
 ## 6. Uget
 
@@ -72,9 +64,7 @@ Uget là phần mềm quản lý download rất tốt và tiện dụng, có th�
 
 Tải xuống Uget tại đây:
 
-```javascript
 [Download Uget](http://ugetdm.com/)
-```
 
 ## 7. Steam
 
@@ -84,7 +74,6 @@ Với các game thủ trên linux thì Steam là phần mềm không thể thi�
 
 Tải xuống Steam tại đây:
 
-```javascript
 [Download steam](http://store.steampowered.com/about/);
 
 ## 8. LibreOffice
