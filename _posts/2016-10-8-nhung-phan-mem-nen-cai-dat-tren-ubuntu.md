@@ -4,6 +4,10 @@ title: Những phần mềm nên cài đặt trên ubuntu
 thumbnail: phan-mem-ubuntu.jpg
 ---
 
+Hệ điều hành ubuntu là một nền tảng mở, nhưng một trong những khó khăn khi mới bắt đầu sử dụng ubuntu là trên ubuntu không có những phần mềm quen thuộc, xin giới thiệu các phần mềm thường dùng trên ubuntu để người dùng dễ tiếp cận hơn.
+
+Các phần mềm được giới thiệu trong bài viết này dành cho những người dùng thông thường với nhu cầu xem phim, lướt web, nghe nhạc, văn phòng... Mình sẽ có một bài khác giới thiệu các phần mềm cho lập trình viên.
+
 ## 1. Unity tweak tool
 
 ![Unity tweak tool](images/ubuntu-unity-tweak-tool.png)
