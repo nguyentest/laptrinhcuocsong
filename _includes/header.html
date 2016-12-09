@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-	<title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }}</title>
+	<title>{% if page.title %}{{ page.title }}{% else %}{{ site.name }}{% endif %}</title>
 	<meta content='index, follow' name='robots'/>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
     <meta content='text/html; charset=UTF-8' http-equiv='Content-Type'/>
