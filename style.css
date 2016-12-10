@@ -226,6 +226,7 @@ pre.highlight {
 	font-family: monospace;
 	background-color: #f7f7f7;
 	padding: 1em;
+	overflow-x: scroll;
 }
 
 .social-share {
