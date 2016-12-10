@@ -9,9 +9,8 @@ permalink: danh-muc-bai-viet.html
 <div id="index">
 
 {% for category in categories %}
-	{category[0]}
+
 	{% if category[0] == "Chuyện bên lề" %}
-	echo hoc lap trinh
 		<a name="{{ category[0] }}"></a><h2>{{ category[0] }}</h2>
 		{% assign sorted_posts = site.posts | sort: 'title' %}
 		{% for post in sorted_posts %}
