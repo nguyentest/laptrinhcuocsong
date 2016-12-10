@@ -22,13 +22,13 @@ Hệ thống điều khiển thông khí và điều hòa của các tòa nhà c
 
 Xe cộ sẽ đâm vào nhau, các đèn giao thông không hoạt động khi vi điều khiển mất đi phần mềm đã được lập trình sẵn cho nó, máy bay liệng lung tung trên bầu trời như những con chim bị mất đi bộ não, rồi lao xuống đất một cách hào hùng và lãng mạn như những trận mưa sao băng.
 
+![Thành phố tận thế](images/thanh-pho-tan-the.jpg)
+
 Những vệ tinh ngoài trái đất ngừng hoạt động, mất đi vệ tinh để truyền tải dữ liệu dẫn đến hệ thống thông tin liên lạc hoàn toàn bị cắt, tivi, điện thoại không hoạt động, những trận bóng đá bên kia trái đất không thể truyền hình.
 
 Hệ thống điều khiển nhà máy thủy điện, nhiệt điện không hoạt động, điện bị cắt, toàn thế giới chìm vào bóng đen. Hoặc tệ hơn, không có máy tính kiểm soát dòng điện, nhà máy điện phát dòng điện lớn, làm tất cả các thiết bị điện hỏng, cháy nổ sảy ra, những ngôi nhà bốc cháy, hàng triệu người chết và rất nhiều thằng bị thương :)
 
 Những nhà máy điện hạt nhân mất kiểm soát, nổ tung như một cây pháo hoa cực lớn,  phóng xạ lan ra toàn bộ bầu khí quyển, hàng tỉ người bị nhiễm phóng xạ.
-
-![Thành phố tận thế](images/thanh-pho-tan-the.jpg)
 
 Và trang này, lập trình cuộc sống chấm com ngừng hoạt động, không thể truy cập, và bạn, không thể đọc được bài viết này để cười vui vẻ như vậy.
 
