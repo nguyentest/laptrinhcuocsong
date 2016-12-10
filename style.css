@@ -218,6 +218,7 @@ a:hover, a:active {
 .post p img {
 	max-width: 90%;
 	margin: 20px auto;
+	display: block;
 }
 .post {
 	line-height: 25px;
