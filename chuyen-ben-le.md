@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Danh mục bài viết
+title: Chuyện bên lề
 permalink: chuyen-ben-le.html
 ---
 
