@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Danh mục bài viết
-permalink: danh-muc-bai-viet.html
+permalink: chuyen-ben-le.html
 ---
 
 
@@ -11,7 +11,10 @@ permalink: danh-muc-bai-viet.html
 {% for category in categories %}
 
 	{% if category[0] == "Chuyện bên lề" %}
-		<a name="{{ category[0] }}"></a><h2>{{ category[0] }}</h2>
+	<div class="category_detail">
+		<h1>{{ category[0] }}</h1>
+		<p></p>
+	</div>
 		{% assign sorted_posts = site.posts | sort: 'title' %}
 		{% for post in sorted_posts %}
 		{% if post.categories contains category[0] %}
