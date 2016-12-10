@@ -196,7 +196,7 @@ min-height: 500px;
 #sidebar ul li a:hover {
 	border-color: #c4c4c4;
 }
-.post {
+.post, .category_detail {
     border-bottom: 1px solid #e5e5e5;
     padding-bottom: 30px;
     margin-bottom: 30px;
@@ -300,7 +300,7 @@ pre.highlight {
 		display: none;
 	}
 	
-	.post {
+	.post, .category_detail {
 		padding: 0px;
 		margin-left: 0px;
 	}
