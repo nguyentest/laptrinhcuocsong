@@ -252,6 +252,11 @@ pre.highlight {
     outline: none;
 }
 
+/** responsive for facebook like box **/
+.fb_iframe_widget, .fb_iframe_widget span, .fb_iframe_widget span iframe[style] {
+    width: 100% !important;
+}
+
 @media (max-width:960px){
 	.container {
 		max-width: 90%;
