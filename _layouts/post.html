@@ -15,12 +15,15 @@ layout: default
         <span class='st_blogger_large' displayText='Blogger'></span>
         <span class='st_email_large' displayText='Email'></span>
     </div>
+    <div class="facebook-like">
+      <div id="fb-root"></div>
+    </div>
   </div>
   <div class="fb-like" data-href="{{ site.site_url }}{{ page.url }}" data-layout="standard" data-action="like" data-size="small" data-show-faces="true" data-share="false"></div>
   <div class="fb-comments" data-href="{{ site.site_url }}{{ page.url }}" data-numposts="10"></div>
 </article>
 
-<div id="fb-root"></div>
+
 <script>(function(d, s, id) {
   var js, fjs = d.getElementsByTagName(s)[0];
   if (d.getElementById(id)) return;
