@@ -241,6 +241,10 @@ pre.highlight {
 .pagination a:nth-child(2){
 	float: right;
 }
+.category_detail p {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
 #footer-outer {
 	background-color: #F5F5F5;
 	border-top: 1px solid #e5e5e5;
