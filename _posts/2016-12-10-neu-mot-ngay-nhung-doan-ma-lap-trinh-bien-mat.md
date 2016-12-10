@@ -2,6 +2,7 @@
 layout: post
 title: Nếu một ngày những đoạn mã lập trình biến mất
 thumbnail: lap-trinh.jpg
+category: Chuyện bên lề
 ---
 
 Có bao giờ bạn đặt câu hỏi: Nếu không có những lập trình viên như chúng ta, thế giới sẽ như thế nào không? Thật khủng khiếp, không có điện thoại, không có facebook và xe cộ sẽ tông nhau loạn xạ, vì cả những cột đèn giao thông cũng phải được lập trình ra.
