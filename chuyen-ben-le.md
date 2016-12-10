@@ -13,7 +13,7 @@ permalink: chuyen-ben-le.html
 	{% if category[0] == "Chuyện bên lề" %}
 	<div class="category_detail">
 		<h1>{{ category[0] }}</h1>
-		<p></p>
+		<p>Chuyện bên lề - là chuyên mục viết về mọi thứ liên quan đến cuộc sống của một thằng coder</p>
 	</div>
 		{% assign sorted_posts = site.posts | sort: 'title' %}
 		{% for post in sorted_posts %}
