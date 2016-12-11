@@ -17,9 +17,11 @@ Unity tweak tool là tiện ích cá nhân hóa, tinh chỉnh ubuntu nổi tiế
 
 Cài đặt Unity tweak tool:
 
+```javascript
 sudo add-apt-repository ppa:freyja-dev/unity-tweak-tool-daily
 sudo apt-get update
 sudo apt-get install unity-tweak-tool
+```
 
 ## 2. Google chrome
 
