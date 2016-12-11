@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Học ubuntu
-permalink: hoc-ubuntu.html
+title: Linux - ubuntu
+permalink: linux-ubuntu.html
 ---
 
 
@@ -10,10 +10,10 @@ permalink: hoc-ubuntu.html
 
 {% for category in categories %}
 
-	{% if category[0] == "Học ubuntu" %}
+	{% if category[0] == "Linux - ubuntu" %}
 	<div class="category_detail">
 		<h1>{{ category[0] }}</h1>
-		<p>Học ubuntu - là chuyên mục mà một thằng coder viết về hệ điều hành hắn yêu thích, chia sẻ mọi thứ hắn biết về ubuntu và linux.</p>
+		<p>Linux - ubuntu là chuyên mục mà một thằng coder viết về hệ điều hành hắn yêu thích, chia sẻ mọi thứ hắn biết về ubuntu và linux.</p>
 	</div>
 		{% assign sorted_posts = site.posts | sort: 'title' %}
 		{% for post in sorted_posts %}
