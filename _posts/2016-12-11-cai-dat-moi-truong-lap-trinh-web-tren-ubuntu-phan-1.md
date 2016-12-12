@@ -81,7 +81,7 @@ Khởi động lại apache lần nữa để thay đổi có hiệu lực. Th�
 Cài đặt xong, bạn hăm hở mở code editor và lưu file vào thư mục /var/www nhưng không thể lưu được, bạn phải chmod lại thư mục đó để có thể thoải mái tạo, sửa, xóa file trong thư mục này:
 
 ```
-sudo chmod username /var/www
+sudo chmod username -R /var/www
 ```
 
 Trong đó username là user của bạn (khi cài đặt ubuntu)
