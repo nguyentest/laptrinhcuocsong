@@ -12,7 +12,7 @@ Sublime text là một text editor rất mạnh, hỗ trợ nhiều plugin hay v
 
 Các bạn tải và cài đặt sublime text tại đây:
 
-![sublime text](https://www.sublimetext.com/3)
+[sublime text](https://www.sublimetext.com/3)
 
 Tuy nhiên phiên bản trên linux lại không hỗ trợ gõ tiếng Việt, do vậy chúng ta phải cài một plugin có tên là VN IME.
 
@@ -43,7 +43,7 @@ Sau đó copy vào thư mục /usr/share/fonts . Quay trở lại sublime text r
 
 Mysql workbench là một công cụ quản trị cơ sở dữ liệu một cách dễ dàng. Có rất nhiều các phần mềm khác có tính năng tương tự, nhưng Mysql workbench là một sản phẩm chính thống, được giới thiệu chính thức trên trang chủ mysql.com và có sẵn trên Ubuntu software center.
 
-[Mysql workbench](images/mysql-workbench.png)
+![Mysql workbench](images/mysql-workbench.png)
 
 ### Cài đặt Svn client
 
@@ -51,7 +51,7 @@ SVN client là công cụ đắc lực để quản lý mã nguồn, bao gồm c
 
 Trên ubuntu cũng có rất nhiều svn client khác nhau, tuy nhiên mình giới thiệu RabbitVCS vì nó rất dễ sử dụng và giống hệt với TortoiseSVN nổi tiếng trên windows.
 
-[RabbitVCS](images/rabbitvcs.png)
+![RabbitVCS](images/rabbitvcs.png)
 
 Cài đặt RabbitVCS Svn:
 
@@ -61,13 +61,13 @@ sudo apt-get install rabbitvcs-nautilus3
 
 Hoặc bạn có thể sử dụng một phần mềm svn client khác cũng khá nổi tiếng, dễ sử dụng và có sẵn trên Ubuntu software center là RapidSVN, mình cũng rất thích phần mềm này. 
 
-[RapidSVN](images/rapidsvn.png)
+![RapidSVN](images/rapidsvn.png)
 
 ### Cài đặt Gimp và Photoshop
 
 GIMP (viết tắt của GNU Image Manipulation Program) là chương trình xử lý hình ảnh được phát triển bởi GNU. Sau khi học gimp một thời gian, mình có thể khẳng định rằng gimp hoàn toàn đủ khả năng để sử dụng trong việc thiết kế và cắt layout web. Hoàn toàn miễn phí và dễ sử dụng. Gimp có sẵn trên Ubuntu software center.
 
-[gimp](images/gimp.png)
+![gimp](images/gimp.png)
 
 Tuy nhiên, nếu bạn đã quen với việc cắt giao diện bằng photoshop, chúng ta vẫn có thể cài đặt photoshop trên ubuntu thông qua wine.
 
