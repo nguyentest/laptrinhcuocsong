@@ -57,9 +57,11 @@ Trên ubuntu cũng có rất nhiều svn client khác nhau, tuy nhiên mình gi�
 
 Cài đặt RabbitVCS Svn:
 
+```
 sudo add-apt-repository ppa:rabbitvcs/ppa
 sudo apt-get update
 sudo apt-get install rabbitvcs-nautilus3
+```
 
 Hoặc bạn có thể sử dụng một phần mềm svn client khác cũng khá nổi tiếng, dễ sử dụng và có sẵn trên Ubuntu software center là RapidSVN, mình cũng rất thích phần mềm này. 
 
