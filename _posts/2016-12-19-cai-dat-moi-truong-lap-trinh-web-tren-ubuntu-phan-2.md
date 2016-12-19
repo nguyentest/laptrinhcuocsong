@@ -39,6 +39,8 @@ Sau đó copy vào thư mục /usr/share/fonts . Quay trở lại sublime text r
 "font_size": 11,
 ```
 
+Phím tắt để bật/tắt gõ tiếng Việt là phím F2
+
 ### Quản lý Mysql với Mysql workbench
 
 Mysql workbench là một công cụ quản trị cơ sở dữ liệu một cách dễ dàng. Có rất nhiều các phần mềm khác có tính năng tương tự, nhưng Mysql workbench là một sản phẩm chính thống, được giới thiệu chính thức trên trang chủ mysql.com và có sẵn trên Ubuntu software center.
