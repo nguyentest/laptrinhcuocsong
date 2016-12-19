@@ -12,9 +12,7 @@ Sublime text là một text editor rất mạnh, hỗ trợ nhiều plugin hay v
 
 Các bạn tải và cài đặt sublime text tại đây:
 
-```
 ![sublime text](https://www.sublimetext.com/3)
-```
 
 Tuy nhiên phiên bản trên linux lại không hỗ trợ gõ tiếng Việt, do vậy chúng ta phải cài một plugin có tên là VN IME.
 
@@ -32,9 +30,7 @@ Khởi động lại sublime và chúng ta đã có thể gõ tiếng Việt, tu
 
 Bạn tải bộ font tại đây:
 
-```
 [font cho ubuntu](https://drive.google.com/file/d/0B2-NdjFXI2hOeVhEX1pSdFg1YjA/view?usp=sharing)
-```
 
 Sau đó copy vào thư mục /usr/share/fonts . Quay trở lại sublime text rồi chỉnh setting như sau:
 
@@ -79,9 +75,7 @@ Tuy nhiên, nếu bạn đã quen với việc cắt giao diện bằng photosho
 
 Sau đó tải Adobe Photoshop CS6 Extended for ubuntu tại đây:
 
-```
-[Adobe Photoshop CS6 Extended for ubuntu](https://drive.google.com/file/d/0B2-NdjFXI2hOSUl2QmNSLU91OTg/view?usp=sharing)
-```
+![Adobe Photoshop CS6 Extended for ubuntu](https://drive.google.com/file/d/0B2-NdjFXI2hOSUl2QmNSLU91OTg/view?usp=sharing)
 
 Tải xong các bạn giải nén và click chuột phải vào Adobe Photoshop CS6 Extended.exe và chọn open with => wine windows programs loader và cài đặt như bình thường.
 
