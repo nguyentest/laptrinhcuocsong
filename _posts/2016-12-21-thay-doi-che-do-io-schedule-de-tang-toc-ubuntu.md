@@ -32,7 +32,7 @@ Gedit hiện ra, các bạn tìm dòng:
 GRUB_CMDLINE_LINUX_DEFAULT="quiet splash"
 ```
 
-Và thêm **elevator=cfq*** vào như thế này:
+Và thêm **elevator=cfq** vào như thế này:
 
 ![sửa chế độ io schedule](images/deadline-to-cfq.png)
 
