@@ -236,6 +236,8 @@ pre.highlight {
 	padding-bottom: 56.25%; /* 16:9 */
 	padding-top: 25px;
 	height: 0;
+	max-width: 80%;
+    margin: 0px auto;
 }
 .youtube iframe {
 	position: absolute;
