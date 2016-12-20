@@ -26,7 +26,7 @@ article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;
 }
-strong {font-weight: bold;}
+strong {font-weight: bold !important;}
 .clear {clear: both; }
 body {
 	line-height: 1;
