@@ -36,7 +36,7 @@ Xem kênh Google developer [tại đây](https://www.youtube.com/channel/UC_x5XG
 
 Nixie Pixel - Cô gái xinh đẹp yêu thích công nghệ, đặc biệt cô có giọng nói dịu dàng và niềm đam mê với hệ điều hành linux ubuntu. Cô đã mang đến làn gió mới lạ, làm rung động thế giới khô khan của hàng ngàn tín đồ công nghệ vẫn còn Fa (như mình).
 
-Xem kênh Google developer [tại đây](https://www.youtube.com/channel/UCBE-FO9JUOghSysV9gjTeHw)
+Xem kênh Nixie Pixel [tại đây](https://www.youtube.com/channel/UCBE-FO9JUOghSysV9gjTeHw)
 
 ### 5. Kênh Sáng Tạo .COM
 
