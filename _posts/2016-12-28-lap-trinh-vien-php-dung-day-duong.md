@@ -20,7 +20,7 @@ Sự ra đời của các PHP framework và phiên bản PHP 7 đã phần nào 
 
 Đó là tạo ra các trang web động, nếu bạn theo C# bạn có thể làm web, desktop app hay ứng dụng windows phone, nếu bạn theo java, bạn có thể làm web, desktop app hay ứng dụng android, còn với PHP bạn chỉ có thể làm web mà thôi.
 
-Chúng ta phải thừa nhận rằng hầu hết các lập trình viên PHP có trình độ yếu
+### Chúng ta phải thừa nhận rằng hầu hết các lập trình viên PHP có trình độ yếu
 
 Điều này xuất phát từ chính sự dễ học và thiết kế lỏng lẻo của nó, bạn có thể học nhanh PHP trong vòng vài tháng. PHP không (hoặc rất ít) được dạy một cách bài bản và thực hành chuyên sâu trong các trường đại học, do đó lập trình viên PHP chủ yếu là các tay ngang, không chuyên lập trình hoặc chuyển từ ngôn ngữ khác sang.
 
