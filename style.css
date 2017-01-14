@@ -121,6 +121,9 @@ a:hover, a:active {
     float: left;
 	color: #f3f3f3;
 }
+#header h1 a:hover {
+	color: #d4d4d4;
+}
 #header h1 span {
 	font-size: 15px;
     margin-top: 10px;
