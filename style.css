@@ -139,16 +139,16 @@ a:hover, a:active {
 	display: inline;
 }
 #header ul li a {
-    color: #333;
+    color: #f3f3f3;
     display: inline-block;
-    padding: 7px 23px;
-    background-color: white;
+    padding: 10px 25px;
+    background-color: #476584;
     border-radius: 18px;
-    border: 1px solid #ebebeb;
+    border: 1px solid #273e56;
     font-size: 14px;
 }
 #header ul li a:hover {
-	color: #4183C4;
+	color: #d4d4d4;
 }
 #content {
 	width: 710px;
