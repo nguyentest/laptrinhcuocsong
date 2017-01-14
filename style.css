@@ -111,8 +111,7 @@ a:hover, a:active {
     border: 1px solid #bfbfbf;
 }
 #header-outer {
-	background-color: #F5F5F5;
-	border-bottom: 1px solid #e5e5e5;
+	background-color: #2c4762;
 	padding: 20px 0px;
 	margin-bottom: 30px;
 }
@@ -120,6 +119,7 @@ a:hover, a:active {
 	font-size: 25px;
 	width: 400px;
     float: left;
+	color: #f3f3f3;
 }
 #header h1 span {
 	font-size: 15px;
