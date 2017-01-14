@@ -217,6 +217,7 @@ min-height: 500px;
 }
 .post-body p, .post-body h3, .post-body .highlighter-rouge {
     padding-bottom: 25px;
+    line-height: 30px;
 }
 .post p img {
 	max-width: 90%;
