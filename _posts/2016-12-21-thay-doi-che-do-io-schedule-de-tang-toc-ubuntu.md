@@ -44,7 +44,9 @@ sudo update-grub
 
 Khởi động lại máy và kiểm tra lại lần nữa, bây giờ chế độ io schedule đã được chuyển thành cfq với tốc độ đọc ghi cao hơn hẳn. Khi ở chế độ này độ trễ khi mở ứng dụng và tốc độ copy file đã được cải thiện một cách đáng kể.
 
-![sửa chế độ io schedule](images/ubuntu-cfq.png)
+![sửa chế độ io schedule](images/io-scheduler-before.png)
+
+![sửa chế độ io schedule](images/io-scheduler-affter.png)
 
 Chúc các bạn thành công!
 
