@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Khai bút đầu năm
-thumbnail: happy-new-year.gif
+thumbnail: happy-new-year.jpg
 category: Chuyện bên lề
 ---
 
