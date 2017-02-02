@@ -11,4 +11,6 @@ Năm 2016 với mình là một năm đáng nhớ, nhảy việc với khá nhi�
 
 Năm 2017, đam mê vẫn còn đó, lại hào hứng chiến đấu, mấy project cá nhân đang ấp ủ lâu nay vẫn còn dang dở. Tự chúc mình một năm mới thành công.
 
+![Chúc mừng năm mới](images/FB_IMG_1486038991369.jpg)
+
 ![Chúc mừng năm mới](images/happy-new-year-2017.jpg)
