@@ -297,7 +297,7 @@ pre.highlight {
 		display: block;
 	}
 	#header ul {
-		margin-top: 20px;
+		display: none;
 	}
 	#sidebar, #content {
 		float: none;
@@ -328,9 +328,6 @@ pre.highlight {
 	}
 }
 @media (max-width:720px){
-	#sidebar ul {
-		display: none;
-	}
 	h1 {
     	font-size: 20px;
     }
