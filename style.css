@@ -254,7 +254,7 @@ min-height: 500px;
     margin-bottom: 30px;
     margin-left: 35px;
 }
-.pagination a:nth-child(2){
+.pagination a:last-child{
 	float: right;
 }
 .category_detail p {
