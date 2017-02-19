@@ -8,9 +8,7 @@ default_post_avatar: images/logo.gif
 permalink: /:title.html
 version: v1.2.0
 markdown: kramdown
-kramdown:
-  input: GFM
-  syntax_highlighter: rouge
+syntax_highlighter: rouge
 sass:
   style: :compressed
 gems:
