@@ -55,15 +55,15 @@ $person->setName('Tùng')
 
 Đến đây mọi chuyện đã sáng tỏ, chẳng có gì cao siêu ở đây cả, sau đây mình sẽ giới thiệu 3 đặc điểm của fluent interface:
 
-- Định nghĩa thông qua việc trả về một đối tượng object là chính nó, chính là cái return this mà mình nói ở trên.
+**Đặc điểm 1**: Định nghĩa thông qua việc trả về một đối tượng object là chính nó, chính là cái return this mà mình nói ở trên.
 
-- Kết quả trả về của một chuỗi lời gọi hàm là kết quả trả về của hàm cuối cùng.
+**Đặc điểm 2**: Kết quả trả về của một chuỗi lời gọi hàm là kết quả trả về của hàm cuối cùng.
 
 ```javascript
 $name = $person->setName('Tùng')->setAge(20)->getName();
 ```
 
-- Kết thúc khi gặp hàm không trả về:
+**Đặc điểm 3**: Kết thúc khi gặp hàm không trả về:
 
 ```javascript
 $person->setName(); // kết thúc
