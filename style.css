@@ -334,13 +334,15 @@ pre.highlight {
 	#sidebar ul li {
 		display: inline-block;
 		margin-bottom: 0px;
+		height: 40px;
 	}
 	#sidebar ul li a {
 		display: inline;
-		padding: 5px 7px;
+		padding: 6px 10px;
 		border: 1px solid #e5e5e5;
 		border-radius: 4px;
 		text-align: center;
+		font-size: 14px;
 	}
 	#sidebar ul li a:after {
 		display: none;
