@@ -4,6 +4,11 @@ title: Thỏa thuận sử dụng
 permalink: /thoa-thuan.html
 ---
 
+```javascript
+var a = "some var";
+
+```
+
 Nếu bạn chấp nhận đọc, tham khảo, trích dẫn hay bất kỳ hình thức nào có liên quan đến việc sử dụng những câu, chữ, đoạn văn, hình ảnh, âm thanh hay ý tưởng được công bố trong những dịch vụ web của Bùi văn Nguyện (viết tắt: Nguyện) tức là bạn đã đồng ý với các thỏa thuận dưới đây và không kiện cáo hay phản bác trong bất cứ trường hợp nào:
 
 ## Về sự truy cập
