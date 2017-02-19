@@ -369,10 +369,11 @@ min-height: 500px;
 /* Adjusted to give override background and text colour */
 .highlight {
   background-color: #49483E;
-  border: 1px solid #ccc;
-  padding: 6px 10px;
-  border-radius: 3px;
+  padding: 15px 20px;
+  border-radius: 5px;
   color: #FFFFFF;
+  font-family: monospace;
+  font-size: 17px;
 }
 
 .gist pre {
