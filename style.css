@@ -279,6 +279,27 @@ pre.highlight {
     border-radius: 5px;
     outline: none;
 }
+#footer p {
+    float: left;
+}
+#footer ul {
+    float: right;
+}
+#footer ul li {
+    display: inline;
+    padding: 0px 20px;
+    color: black;
+    border-right: 1px solid #c3c3c3;
+}
+#footer ul li:last-child {
+    padding-right: 0px;
+    border-right: none;
+}
+#footer ul li a {
+    color: #525252;
+    font-size: 15px;
+}
+
 
 /** responsive for facebook like box **/
 .fb_iframe_widget, .fb_iframe_widget span, .fb_iframe_widget span iframe[style] {
