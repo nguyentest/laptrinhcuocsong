@@ -274,30 +274,30 @@ pre.highlight {
 }
 #footer form input {
 	padding: 10px;
-    border: 1px solid #b9b9b9;
-    width: 300px;
-    border-radius: 5px;
-    outline: none;
+	border: 1px solid #b9b9b9;
+	width: 300px;
+	border-radius: 5px;
+	outline: none;
 }
 #footer p {
-    float: left;
+	float: left;
 }
 #footer ul {
-    float: right;
+	float: right;
 }
 #footer ul li {
-    display: inline;
-    padding: 0px 20px;
-    color: black;
-    border-right: 1px solid #c3c3c3;
+	display: inline;
+	padding: 0px 20px;
+	color: black;
+	border-right: 1px solid #c3c3c3;
 }
 #footer ul li:last-child {
-    padding-right: 0px;
-    border-right: none;
+	padding-right: 0px;
+	border-right: none;
 }
 #footer ul li a {
-    color: #525252;
-    font-size: 15px;
+	color: #525252;
+	font-size: 15px;
 }
 
 
@@ -338,9 +338,9 @@ pre.highlight {
 	#sidebar ul li a {
 		display: inline;
 		padding: 5px 7px;
-    	border: 1px solid #e5e5e5;
-    	border-radius: 4px;
-    	text-align: center;
+		border: 1px solid #e5e5e5;
+		border-radius: 4px;
+		text-align: center;
 	}
 	#sidebar ul li a:after {
 		display: none;
@@ -355,7 +355,10 @@ pre.highlight {
 		text-align: center;
 	}
 	#footer ul {
-		float: none;	
+		float: none;
+		text-align: center;
+		margin-top: 15px;
+		margin-bottom: 20px;	
 	}
 }
 @media (max-width:720px){
