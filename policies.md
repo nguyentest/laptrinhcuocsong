@@ -4,7 +4,7 @@ title: Thỏa thuận sử dụng
 permalink: /thoa-thuan.html
 ---
 
-```php
+```
 $person->getName()
       ->getFuck()
       ->goToSchool();
