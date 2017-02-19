@@ -254,7 +254,10 @@ min-height: 500px;
     margin-bottom: 30px;
     margin-left: 35px;
 }
-.pagination a:last-child{
+.pagination .prev-link{
+	float: left;
+}
+.pagination .next-link{
 	float: right;
 }
 .category_detail p {
