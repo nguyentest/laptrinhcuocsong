@@ -17,10 +17,10 @@ layout: default
 
 <div class="pagination">
   {% if paginator.previous_page %}
-  <a href="{{ paginator.previous_page_path }}" class="button">&laquo; Trang trước</a>
+  <a href="{{ paginator.previous_page_path }}" class="button prev-link">&laquo; Trang trước</a>
   {% endif %}
   {% if paginator.next_page %}
-  <a href="{{ paginator.next_page_path }}" class="button">Trang sau &raquo;</a>
+  <a href="{{ paginator.next_page_path }}" class="button next-link">Trang sau &raquo;</a>
   {% endif %}
   <div class="clear"></div>
 </div>
