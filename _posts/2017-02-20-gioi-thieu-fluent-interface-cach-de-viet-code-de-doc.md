@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Giới thiệu fluent interface - một cách để code dễ đọc hơn
-thumbnail: hour-of-code.png
+thumbnail: hour-of-code.jpg
 category: Chuyện lập trình
 ---
 Fluent interface được đặt ra bởi Eric Evans và Martin Fowler, là sự mở rộng của kỹ thuật "Lời gọi theo chuỗi" (method chaining) nhằm làm cho mã lập trình dễ đọc hơn. Method chaining là một kỹ thuật về cú pháp chung cho cách gọi nhiều lần tới các hàm khác trong lập trình hướng đối tượng.
