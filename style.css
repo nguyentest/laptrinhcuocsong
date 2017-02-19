@@ -350,6 +350,13 @@ pre.highlight {
 		padding: 0px;
 		margin-left: 0px;
 	}
+	#footer p {
+		float: none;
+		text-align: center;
+	}
+	#footer ul {
+		float: none;	
+	}
 }
 @media (max-width:720px){
 	h1 {
