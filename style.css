@@ -233,12 +233,6 @@ min-height: 500px;
 .post {
 	line-height: 25px;
 }
-pre.highlight {
-	font-family: monospace;
-	background-color: #f7f7f7;
-	padding: 1em;
-	overflow-x: scroll;
-}
 .youtube {
 	position: relative;
 	padding-bottom: 56.25%; /* 16:9 */
