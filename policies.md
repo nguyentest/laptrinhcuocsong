@@ -4,8 +4,10 @@ title: Thỏa thuận sử dụng
 permalink: /thoa-thuan.html
 ---
 
-```javascript
-var a = "some var";
+```php
+$person->getName()
+      ->getFuck()
+      ->goToSchool();
 
 ```
 
