@@ -380,6 +380,7 @@ min-height: 500px;
 	color: #FFFFFF;
 	font-family: monospace;
 	font-size: 17px;
+	white-space: pre;
 }
 
 .gist pre {
