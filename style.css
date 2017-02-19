@@ -367,17 +367,19 @@ min-height: 500px;
 }
 
 .highlight {
-	padding: 15px 20px;
-	border-radius: 5px;
-	font-family: monospace;
-	font-size: 17px;
+	padding: 5px 20px;
+	white-space: normal;
 	background-color: #ededed;
 }
 
 /* Adjusted to give override background and text colour */
 .language-javascript .highlight {
-  background-color: #49483E;
-color: #FFFFFF;
+	padding: 15px 20px;
+	border-radius: 5px;
+	background-color: #49483E;
+	color: #FFFFFF;
+	font-family: monospace;
+	font-size: 17px;
 }
 
 .gist pre {
