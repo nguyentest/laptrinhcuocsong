@@ -368,8 +368,8 @@ min-height: 500px;
 
 .highlight {
 	padding: 5px 20px;
-	white-space: normal;
 	background-color: #ededed;
+	overflow-x: scroll;
 }
 
 /* Adjusted to give override background and text colour */
@@ -380,7 +380,6 @@ min-height: 500px;
 	color: #FFFFFF;
 	font-family: monospace;
 	font-size: 17px;
-	white-space: pre;
 }
 
 .gist pre {
