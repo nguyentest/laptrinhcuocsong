@@ -214,7 +214,8 @@ min-height: 500px;
 	float: left;
 	margin-right: 30px;
 	margin-bottom: 30px;
-	width: 120px
+	width: 120px;
+	border-radius: 5px;
 }
 .post h1 {
 	margin-bottom: 30px;
