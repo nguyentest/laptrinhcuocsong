@@ -6,7 +6,7 @@ category: Chuyện lập trình
 ---
 Fluent interface được đặt ra bởi Eric Evans và Martin Fowler, là sự mở rộng của kỹ thuật "Lời gọi theo chuỗi" (method chaining) nhằm làm cho mã lập trình dễ đọc hơn. Method chaining là một kỹ thuật về cú pháp chung cho cách gọi nhiều lần tới các hàm khác trong lập trình hướng đối tượng.
 
-Cái đống bùi nhùi ở trên là lý thuyết rất là hàn lâm và khó hiểu. Để dễ hiểu hơn chúng ta sẽ đi thẳng vào ví dụ cho nó trực quan. Chắc hẳn các bạn đã từng thấy đâu đó những đoạn code rất đẹp đẽ kiểu như thế này:
+Cái đống bùi nhùi ở trên là lý thuyết rất là hàn lâm và khó hiểu :smile:. Để dễ hiểu hơn chúng ta sẽ đi thẳng vào ví dụ cho nó trực quan nhé. Chắc hẳn trong khi hành tẩu giang hồ, quý đồng đạo đã từng thấy đâu đó những đoạn code rất đẹp đẽ kiểu như thế này:
 
 ```javascript
 $person->setName('Tùng')
