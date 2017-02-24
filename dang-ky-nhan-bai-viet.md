@@ -1,9 +1,7 @@
 ---
 title: Đăng ký nhận bài viết qua email
 ---
-<div class="category_detail">
-		<p>Vui lòng điền địa chỉ email để nhận bài viết mới nhất từ Blog.</p>
-</div>
+<p>Vui lòng điền địa chỉ email để nhận bài viết mới nhất từ Blog.</p>
    
 <form style="border:1px solid #ccc;padding:3px;text-align:center;" action="https://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open('https://feedburner.google.com/fb/a/mailverify?uri=laptrinhcuocsong', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true">
 <p style="
