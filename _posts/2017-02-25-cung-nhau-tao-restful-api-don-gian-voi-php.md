@@ -127,40 +127,31 @@ class restful_api {
 
     ...
 
-    private function _input(){
-        $this->params = explode('/', trim($_SERVER['PATH_INFO'],'/'));
-        $this->endpoint = array_shift($this->params);
-
-        // Lấy method của request
-        $method         = $_SERVER['REQUEST_METHOD'];
-        $allow_method   = array('GET', 'POST', 'PUT', 'DELETE');
-
-        if (in_array($method, $allow_method)){
-            $this->method = $method;
-        }
-
-        // Nhận thêm dữ liệu tương ứng theo từng loại method
-        switch ($this->method) {
-            case 'POST':
-                $this->params = $_POST;
-            break;
-
-            case 'GET':
-                // Không cần nhận, bởi params đã được lấy từ url
-            break;
-
-            case 'PUT':
-                $this->file    = file_get_contents("php://input");
-            break;
-
-            case 'DELETE':
-                // Không cần nhận, bởi params đã được lấy từ url
-            break;
-
-            default:
-                $this->response(500, "Invalid Method");
-            break;
-        }
+    /**
+     * Trả dữ liệu về client
+     * @param: $status_code: mã http trả về
+     * @param: $data: dữ liệu trả về
+     */
+    protected function response($status_code, $data = NULL){
+        header($this->_build_http_header_string($status_code));
+        header("Content-Type: application/json");
+        echo json_encode($data);
+        die();
+    }
+    
+    /**
+     * Tạo chuỗi http header
+     * @param: $status_code: mã http
+     * @return: Chuỗi http header, ví dụ: HTTP/1.1 404 Not Found
+     */
+    private function _build_http_header_string($status_code){
+        $status = array(
+            200 => 'OK',
+            404 => 'Not Found',
+            405 => 'Method Not Allowed',
+            500 => 'Internal Server Error'
+        );
+        return "HTTP/1.1 " . $status_code . " " . $status[$status_code];
     }
 
     ...
@@ -293,40 +284,35 @@ Cách sử dụng:
 Để sử dụng class này, với mỗi endpoint chúng ta sẽ thêm một hàm vào class api đã được extends từ class restful_api ở trên. Ví dụ:
 
 ```javascript
-class restful_api {
+require 'restful_api.php';
 
-    ...
+class api extends restful_api {
 
-    /**
-     * Trả dữ liệu về client
-     * @param: $status_code: mã http trả về
-     * @param: $data: dữ liệu trả về
-     */
-    protected function response($status_code, $data = NULL){
-        header($this->_build_http_header_string($status_code));
-        header("Content-Type: application/json");
-        echo json_encode($data);
-        die();
-    }
-    
-    /**
-     * Tạo chuỗi http header
-     * @param: $status_code: mã http
-     * @return: Chuỗi http header, ví dụ: HTTP/1.1 404 Not Found
-     */
-    private function _build_http_header_string($status_code){
-        $status = array(
-            200 => 'OK',
-            404 => 'Not Found',
-            405 => 'Method Not Allowed',
-            500 => 'Internal Server Error'
-        );
-        return "HTTP/1.1 " . $status_code . " " . $status[$status_code];
-    }
+	function __construct(){
+		parent::__construct();
+	}
 
-    ...
-
+	function user(){
+		if ($this->method == 'GET'){
+			// Hãy viết code xử lý LẤY dữ liệu ở đây
+			// trả về dữ liệu bằng cách gọi: $this->response(200, $data)
+		}
+		elseif ($this->method == 'POST'){
+			// Hãy viết code xử lý THÊM dữ liệu ở đây
+			// trả về dữ liệu bằng cách gọi: $this->response(200, $data)
+		}
+		elseif ($this->method == 'PUT'){
+			// Hãy viết code xử lý CẬP NHẬT dữ liệu ở đây
+			// trả về dữ liệu bằng cách gọi: $this->response(200, $data)
+		}
+		elseif ($this->method == 'DELETE'){
+			// Hãy viết code xử lý XÓA dữ liệu ở đây
+			// trả về dữ liệu bằng cách gọi: $this->response(200, $data)
+		}
+	}
 }
+
+$user_api = new user_api();
 ```
 
 Hi vọng sau bài viết này, bạn sẽ hiểu thêm và có thể tự triển khai restful api cho project của mình. Mọi thắc mắc xin để lại dưới phần comment, mình sẽ trả lời sớm nhất.
