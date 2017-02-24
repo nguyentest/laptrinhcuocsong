@@ -45,7 +45,7 @@ Ví dụ: Một request lấy thông tin người dùng được gửi lên như
 GET http://api.domain.com/user/<user_id>/<some_other_param>
 ```
 
-Thì endpoint ở đây là user và params là mảng các tham số đằng sau. Chúng ta sẽ thực hiện lấy enpoint và các params trong hàm _input() như sau;
+Thì endpoint ở đây là user và params là mảng các tham số đằng sau. Chúng ta sẽ thực hiện lấy enpoint và các params trong hàm _input()
 
 ```javascript
 class restful_api {
@@ -315,4 +315,4 @@ class api extends restful_api {
 $user_api = new user_api();
 ```
 
-Hi vọng sau bài viết này, bạn sẽ hiểu thêm và có thể tự triển khai restful api cho project của mình. Mọi thắc mắc xin để lại dưới phần comment, mình sẽ trả lời sớm nhất. Toàn bộ source code của bài viết này các bạn có thể tải về trên [Github](https://github.com/buivannguyen/simple_restful)
+Hi vọng sau bài viết này, bạn sẽ hiểu thêm và có thể tự triển khai restful api cho project của mình. Toàn bộ source code của bài viết này các bạn có thể tải về trên [Github](https://github.com/buivannguyen/simple_restful). Mọi thắc mắc xin để lại dưới phần comment, mình sẽ trả lời sớm nhất
