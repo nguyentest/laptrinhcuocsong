@@ -22,7 +22,7 @@ $('#element').first()
              .remove();
 ```
 
-Như các bạn thấy, các hàm của một đối tượng được gọi một cách liên tục, làm cho code dễ đọc dễ hiểu hơn rất nhiều. Vậy làm thế nào để được như vậy? Rất đơn giản, bạn chỉ cần trả về chính object hiện tại (return this) để sẵn sàng cho lời gọi tiếp theo. Cụ thể ở ví dụ đầu tiên, chúng ta sẽ viết như thế này:
+Như các bạn thấy, các hàm của một đối tượng được gọi một cách liên tục, làm cho code dễ đọc dễ hiểu hơn rất nhiều. Vậy làm thế nào để được như vậy? Rất đơn giản, bạn chỉ cần trả về chính object hiện tại (`return this`) để sẵn sàng cho lời gọi tiếp theo. Cụ thể ở ví dụ đầu tiên, chúng ta sẽ viết như thế này:
 
 ```javascript
 class Person
@@ -55,7 +55,7 @@ $person->setName('Tùng')
 
 Đến đây mọi chuyện đã sáng tỏ, chẳng có gì cao siêu ở đây cả, sau đây mình sẽ giới thiệu 3 đặc điểm của fluent interface:
 
-**Đặc điểm 1**: Định nghĩa thông qua việc trả về một đối tượng object là chính nó, chính là cái return this mà mình nói ở trên.
+**Đặc điểm 1**: Định nghĩa thông qua việc trả về một đối tượng object là chính nó, chính là cái `return this` mà mình nói ở trên.
 
 **Đặc điểm 2**: Kết quả trả về của một chuỗi lời gọi hàm là kết quả trả về của hàm cuối cùng.
 
