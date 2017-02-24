@@ -116,7 +116,7 @@ class restful_api {
 }
 ```
 
-Như các bạn thấy đoạn $this->{$this->endpoint}(); có nghĩa là nếu enpoint là user thì nó sẽ gọi hàm $this->user() luôn, hàm này sẽ được viết ở class con của class restful_api (Tí nữa đến phần cách dùng mình sẽ giải thích thêm, tạm thời thế đã).
+Như các bạn thấy đoạn $this->{$this->endpoint}(); có nghĩa là nếu enpoint là user thì nó sẽ gọi hàm $this->user() luôn, hàm này sẽ được viết ở class con của class restful_api (Tí nữa đến phần cách dùng mình sẽ giải thích thêm, tạm thời thế đã :stuck_out_tongue_winking_eye:).
 
 ## Bước 3: Trả về response:
 
