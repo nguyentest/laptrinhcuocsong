@@ -62,7 +62,7 @@ Gedit hiện ra, mình sửa DocumentRoot lại thành
 DocumentRoot /var/www
 ```
 
-Và thêm đoạn này vào giữa cặp thẻ <VirtualHost>
+Và thêm đoạn này vào giữa cặp thẻ `<VirtualHost>`
 
 ```
 <Directory /var/www/>
