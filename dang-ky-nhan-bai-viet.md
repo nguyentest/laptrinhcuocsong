@@ -3,7 +3,7 @@ title: Đăng ký nhận bài viết qua email
 ---
 <p>Vui lòng điền địa chỉ email để nhận bài viết mới nhất từ Blog.</p>
    
-<form style="border:1px solid #ccc;padding:3px;text-align:center;" action="https://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open('https://feedburner.google.com/fb/a/mailverify?uri=laptrinhcuocsong', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true">
+<form style="border:1px solid #ccc;padding:3px;text-align:center; margin-top: 30px" action="https://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open('https://feedburner.google.com/fb/a/mailverify?uri=laptrinhcuocsong', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true">
 <p style="
     margin-bottom: 15px;
     margin-top: 15px;
