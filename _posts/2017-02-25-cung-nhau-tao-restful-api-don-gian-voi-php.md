@@ -37,7 +37,7 @@ class restful_api {
 }
 ```
 
-Bước 1: Nhận dữ liệu.
+## Bước 1: Nhận dữ liệu.
 
 Ví dụ: Một request lấy thông tin người dùng được gửi lên như sau:
 
@@ -93,7 +93,7 @@ class restful_api {
 }
 ```
 
-Bước 2: Xử lý request
+## Bước 2: Xử lý request
 
 Khi đã có được endpoint và các dữ liệu cần thiết, chúng ta sẽ gọi hàm endpoint tương ứng:
 
@@ -118,7 +118,7 @@ class restful_api {
 
 Như các bạn thấy đoạn $this->{$this->endpoint}(); có nghĩa là nếu enpoint là user thì nó sẽ gọi hàm $this->user() luôn, hàm này sẽ được viết ở class con của class restful_api (Tí nữa đến phần cách dùng mình sẽ giải thích thêm, tạm thời thế đã).
 
-Bước 3: Trả về response:
+## Bước 3: Trả về response:
 
 Cách trả về hết sức đơn giản, chỉ cần dùng hàm header của php để trả về http response theo mã http tương ứng.
 
@@ -279,7 +279,7 @@ class restful_api {
 }
 ```
 
-Cách sử dụng:
+## Cách sử dụng:
 
 Để sử dụng class này, với mỗi endpoint chúng ta sẽ thêm một hàm vào class api đã được extends từ class restful_api ở trên. Ví dụ:
 
