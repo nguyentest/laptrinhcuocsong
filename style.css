@@ -215,6 +215,10 @@ a:hover, a:active {
 	margin: 20px auto;
 	display: block;
 }
+img.emoji {
+    display: inline !important;
+    margin: 0px !important;
+}
 .post {
 	line-height: 25px;
 }
