@@ -206,7 +206,7 @@ a:hover, a:active {
 	margin-bottom: 30px;
 	font-size: 25px;
 }
-.post-body p, .post-body h3, .post-body .highlighter-rouge {
+.post-body p, .post-body h3, .post-body .highlighter-rouge, .post-body ul {
 	padding-bottom: 25px;
 	line-height: 30px;
 }
