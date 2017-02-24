@@ -240,6 +240,7 @@ a:hover, a:active {
 }
 code.highlighter-rouge {
 	padding: 3px 0px !important;
+	background-color: #ededed;
 }
 .social-share {
 	margin-top: 25px;
