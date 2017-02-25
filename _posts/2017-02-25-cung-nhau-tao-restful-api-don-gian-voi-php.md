@@ -314,5 +314,33 @@ class api extends restful_api {
 
 $user_api = new user_api();
 ```
+## Ví dụ: Tạo api lấy user ngẫu nhiên trong database
+Trong ví dụ này mình sẽ lấy ngẫu nhiên một user trong bảng users bằng cách viết thêm hàm random_user và gọi http://domain.com/api.php/random_user
+
+```javascript
+require 'restful_api.php';
+
+class api extends restful_api {
+
+	function __construct(){
+		parent::__construct();
+	}
+
+	function random_user(){
+		if ($this->method == 'GET'){
+			$connection = mysql_connect("localhost", 'root', 'usbw');
+			mysql_select_db("rest", $connection);
+			$query = mysql_query("select * from users ORDER BY RAND() LIMIT 1");
+			$data = array();
+			while($row = mysql_fetch_object($query)){
+				$data[] = $row;
+			}
+			$this->response(200, $data);
+		}
+	}
+}
+
+$user_api = new api();
+```
 
 Hi vọng sau bài viết này, bạn sẽ hiểu thêm và có thể tự triển khai restful api cho project của mình. Toàn bộ source code của bài viết này các bạn có thể tải về trên [Github](https://github.com/buivannguyen/simple_restful). Mọi thắc mắc xin để lại dưới phần comment, mình sẽ trả lời sớm nhất
