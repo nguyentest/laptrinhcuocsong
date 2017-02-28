@@ -312,7 +312,7 @@ class api extends restful_api {
 	}
 }
 
-$user_api = new user_api();
+$user_api = new api();
 ```
 ## Ví dụ: Tạo api lấy user ngẫu nhiên trong database
 Trong ví dụ này mình sẽ lấy ngẫu nhiên một user trong bảng users bằng cách viết thêm hàm random_user và gọi `http://domain.com/api.php/random_user`
