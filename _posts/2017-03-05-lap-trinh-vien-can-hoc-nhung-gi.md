@@ -1,13 +1,15 @@
 ---
 layout: post
 title: Lập trình viên cần học những gì ?
-thumbnail: lap-trinh-vien-tre-em.jpg
+thumbnail: lap-trinh-vien-thumb.jpg
 category: Chuyện nghề nghiệp
 ---
 
 Một trong những câu hỏi được nhiều bạn sinh viên ngành công nghệ quan tâm nhất đó là: Cần học những kiến thức gì, rèn luyện kỹ năng gì để trở thành một lập trình viên? Câu hỏi nghe có vẻ đơn giản nhưng rất khó để trả lời, lập trình là một lĩnh vực rất rộng, có hàng tá ngôn ngữ cần phải học, hàng trăm công nghệ cần nghiên cứu, và môi trường mỗi công ty lại hoàn toàn khác nhau, do đó các thanh niên vẫn cảm thấy rất "mông lung như một trò đùa".
 
 Dạo này mình có tham gia vài nhóm học lập trình trên facebook, mình phát hiện ra là hầu hết các bạn sinh viên vẫn chưa tưởng tượng được ra trường đi làm sẽ như thế nào. Thế nên trong bài viết này, mình sẽ dùng hết kinh nghiệm bao nhiêu năm đi "code thuê" của mình, như một lời tâm sự, để cố gắng miêu tả cho các bạn sinh viên về đời sống thật của các lập trình viên ngoài kia, họ đang làm gì? Dùng ngôn ngữ gì? Có mệt không? Và làm thế nào để sống sót.
+
+![lập trình viên](images/lap-trinh-vien.png)
 
 ## Kỹ năng mềm:
 
@@ -26,8 +28,6 @@ Mình nói thật, không biết tiếng Anh thì đừng có hòng lập trình
 Đây là yếu tố sống còn, bởi thế giới công nghệ thay đổi quá nhanh. Tin buồn là bất cứ cái gì bạn học ngày hôm nay thì sẽ là lỗi thời sau vài năm, kiểu như bạn làm được một app chạy ngon lành cành đào trên iphone 6 thì cái định mệnh, vài ngày sau Apple nó ra iphone 7, méo chạy. Phải "học cách học", có nghĩa là bạn phải học cho mình "cách làm sao để tiếp thu một cái mới nhanh nhất có thể".
 
 Vấn đề sức khỏe: Đừng tưởng làm lập trình ngồi một chỗ trong phòng máy lạnh thì không lo bệnh tật. Sau vài năm bạn sẽ thấy có vài vấn đề như đau lưng, mỏi vai hay hoa mắt... Hãy bỏ ngay các thói quen thức quá khuya, ăn uống không đúng giờ và sử dụng chất kích thích như rượu bia, thuốc lá... Một số thanh niên sau khi code điên cuồng làm vài ván dota để giải trí, lại ngồi thêm vài tiếng nữa,. Nói chung nếu không chịu khó vận động, sắp xếp thời gian chơi thể thao thì đừng mong tồn tại, bạn có sức khỏe mới theo đuổi đam mê được.
-
-![lập trình viên](images/lap-trinh-vien.png)
 
 ## Chuyên môn về kỹ thuật:
 
