@@ -15,8 +15,7 @@ permalink: chuyen-nghe-nghiep.html
 		<h1>{{ category[0] }}</h1>
 		<p>Chuyện nghề nghiệp - là chuyên mục nơi một thằng coder viết về những buồn vui, khó khăn, trăn trở trong nghề lập trình.</p>
 	</div>
-		{% assign sorted_posts = site.posts | sort: 'title' %}
-		{% for post in sorted_posts %}
+		{% for post in site.posts %}
 		{% if post.categories contains category[0] %}
 
 		<article class="post" itemscope itemtype="http://schema.org/Article">
