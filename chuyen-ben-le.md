@@ -15,8 +15,7 @@ permalink: chuyen-ben-le.html
 		<h1>{{ category[0] }}</h1>
 		<p>Chuyện bên lề - là chuyên mục viết về mọi thứ liên quan đến cuộc sống của một thằng coder</p>
 	</div>
-		{% assign sorted_posts = site.posts | sort: 'title' %}
-		{% for post in sorted_posts %}
+		{% for post in site.posts %}
 		{% if post.categories contains category[0] %}
 
 		<article class="post" itemscope itemtype="http://schema.org/Article">
