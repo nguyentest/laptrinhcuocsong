@@ -15,8 +15,7 @@ permalink: linux-ubuntu.html
 		<h1>{{ category[0] }}</h1>
 		<p>Linux - ubuntu là chuyên mục mà một thằng coder viết về hệ điều hành hắn yêu thích, chia sẻ mọi thứ hắn biết về ubuntu và linux.</p>
 	</div>
-		{% assign sorted_posts = site.posts | sort: 'title' %}
-		{% for post in sorted_posts %}
+		{% for post in site.posts %}
 		{% if post.categories contains category[0] %}
 
 		<article class="post" itemscope itemtype="http://schema.org/Article">
