@@ -13,7 +13,7 @@ Dạo này mình có tham gia vài nhóm học lập trình trên facebook, mìn
 
 ## Kỹ năng mềm:
 
-Bạn phải nhớ rằng: lập trình là "giải quyết vấn đề bằng máy tính" chứ không phải "lập trình là viết code" như được dạy trong trường đại học. Do đó bạn cần phải rèn luyện nhiều kỹ năng khác để giải quyết được vấn đề, đây mới là thứ quan trọng nhất, không phải là kỹ năng code của bạn.
+Bạn phải nhớ rằng: lập trình là "giải quyết vấn đề bằng máy tính" chứ không phải "lập trình là viết code" như được dạy trong trường đại học. Khách hàng của bạn gặp vấn đề trong việc quản lý nhân viên, bạn viết một phần mềm giúp họ, khách hàng của bạn cần quảng bá sản phẩm thương hiệu, bạn thiết kế website giúp họ. Do đó bạn cần phải rèn luyện nhiều kỹ năng khác để giải quyết được vấn đề, đây mới là thứ quan trọng nhất, không phải là kỹ năng code của bạn.
 
 **Team work**:
 
