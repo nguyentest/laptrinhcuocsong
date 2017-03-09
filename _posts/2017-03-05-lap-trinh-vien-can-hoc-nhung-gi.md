@@ -27,11 +27,11 @@ Mình nói thật, không biết tiếng Anh thì đừng có hòng lập trình
 
 Đây là yếu tố sống còn, bởi thế giới công nghệ thay đổi quá nhanh. Tin buồn là bất cứ cái gì bạn học ngày hôm nay thì sẽ là lỗi thời sau vài năm, kiểu như bạn làm được một app chạy ngon lành cành đào trên iphone 6 thì cái định mệnh, vài ngày sau Apple nó ra iphone 7, méo chạy. Phải "học cách học", có nghĩa là bạn phải học cho mình "cách làm sao để tiếp thu một cái mới nhanh nhất có thể".
 
-Vấn đề sức khỏe: Đừng tưởng làm lập trình ngồi một chỗ trong phòng máy lạnh thì không lo bệnh tật. Sau vài năm bạn sẽ thấy có vài vấn đề như đau lưng, mỏi vai hay hoa mắt... Hãy bỏ ngay các thói quen thức quá khuya, ăn uống không đúng giờ và sử dụng chất kích thích như rượu bia, thuốc lá... Một số thanh niên sau khi code điên cuồng làm vài ván dota để giải trí, lại ngồi thêm vài tiếng nữa,. Nói chung nếu không chịu khó vận động, sắp xếp thời gian chơi thể thao thì đừng mong tồn tại, bạn có sức khỏe mới theo đuổi đam mê được.
+**Vấn đề sức khỏe**: Đừng tưởng làm lập trình ngồi một chỗ trong phòng máy lạnh thì không lo bệnh tật. Sau vài năm bạn sẽ thấy có vài vấn đề như đau lưng, mỏi vai hay hoa mắt... Hãy bỏ ngay các thói quen thức quá khuya, ăn uống không đúng giờ và sử dụng chất kích thích như rượu bia, thuốc lá... Một số thanh niên sau khi code điên cuồng làm vài ván dota để giải trí, lại ngồi thêm vài tiếng nữa,. Nói chung nếu không chịu khó vận động, sắp xếp thời gian chơi thể thao thì đừng mong tồn tại, bạn có sức khỏe mới theo đuổi đam mê được.
 
 ## Chuyên môn về kỹ thuật:
 
-Lập trình là một ngành kỹ thuật (of cource) thế nên bạn phải trang bị cho mình những kiến thức về kỹ thuật nhất định. Có thể chia lũ "code thuê" ra làm mấy loại như sau, bạn chỉ việc chọn một cái mà bạn thích nhất, và lao vào nghiên cứu.
+Lập trình là một ngành kỹ thuật (of cource :laughing:) thế nên bạn phải trang bị cho mình những kiến thức về kỹ thuật nhất định. Có thể chia lũ "code thuê" ra làm mấy loại như sau, bạn chỉ việc chọn một cái mà bạn thích nhất, và lao vào nghiên cứu.
 
 **Mảng mobile**: 
 
@@ -47,7 +47,7 @@ Web là cái gì thì khỏi phải giới thiệu nữa rồi, nó là thứ l�
 
 **Mảng desktop app**:
 
-Tức là làm phần mềm chạy trên máy tính, mình khuyên là học .NET của bác Bill cho nó phổ thông, dễ kiếm việc làm, lương cũng khá ổn.
+Tức là làm phần mềm chạy trên máy tính, mình khuyên là học .NET win form của bác Bill cho nó phổ thông, dễ kiếm việc làm, lương cũng khá ổn.
 
 Tuy nhiên đừng quá lo lắng rằng trình độ mình chưa đủ đáp ứng yêu cầu công việc, các công ty nơi bạn thực tập sẽ có chương trình đào tạo, cầm tay chỉ việc, bạn sẽ làm được cả thôi. Kể cả các lập trình viên có kinh nghiệm, khi vào một môi trường mới vẫn phải có thời gian để làm quen với hệ thống hiện tại.
 
