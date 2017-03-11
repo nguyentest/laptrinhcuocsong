@@ -225,6 +225,17 @@ a:hover, a:active {
 	margin: 20px auto;
 	display: block;
 }
+blockquote p {
+    padding-bottom: 0px !important;
+}
+blockquote, q {
+    quotes: none;
+    background-color: #e6e6e6;
+    padding: 15px 20px;
+    margin-bottom: 25px;
+    border-left: 5px solid #d4d4d4;
+}
+
 img.emoji {
     display: inline !important;
     margin: 0px !important;
