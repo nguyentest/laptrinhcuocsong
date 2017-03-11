@@ -21,7 +21,7 @@ Làm việc nhóm, tức là làm việc với người khác, chẳng ai viết
 
 **Tiếng Anh**:
 
-Mình nói thật, không biết tiếng Anh thì đừng có hòng lập trình ngon, google thì cũng phải google bằng tiếng Anh nó mới nhanh ra đáp án. Tuy nhiên bạn không cần phải chém tiếng Anh như gió hay đạt 900 điểm TOEIC mới lập trình giỏi. Bạn chỉ cần đọc hiểu tài liệu là đủ, gặp lỗi gì còn lên stackoverflow mà tìm cách fix được. Đừng quá lo lắng, hồi xưa mình ngu tiếng Anh cực, cứ đọc gặp từ nào khó thì tra từ điển, sau một thời gian sẽ đọc được cả thôi.
+Mình nói thật, không biết tiếng Anh thì đừng có hòng lập trình ngon, google thì cũng phải google bằng tiếng Anh nó mới nhanh ra đáp án. Tuy nhiên bạn không cần phải chém tiếng Anh như gió hay đạt 900 điểm TOEIC mới lập trình giỏi. Bạn chỉ cần đọc hiểu tài liệu là đủ, gặp lỗi gì còn lên stackoverflow mà tìm cách fix được, viết tên hàm thì cũng phải viết tiếng Anh, trong thời buổi toàn cầu hóa hiện nay, outsource nhiều, code của bạn có thể được đọc bởi một thằng tây nào đó là chuyện bình thường. Đừng quá lo lắng, hồi xưa mình ngu tiếng Anh cực, cứ đọc gặp từ nào khó thì tra từ điển, sau một thời gian sẽ đọc được cả thôi.
 
 **Kỹ năng tự học**:
 
