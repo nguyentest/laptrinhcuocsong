@@ -278,6 +278,10 @@ code.highlighter-rouge {
     background-color: #125044;
 	color: white;
 }
+h3.related_post_heading {
+    padding-top: 15px;
+    border-top: 1px solid #ebebeb;
+}
 .social-share {
 	margin-top: 25px;
 }
