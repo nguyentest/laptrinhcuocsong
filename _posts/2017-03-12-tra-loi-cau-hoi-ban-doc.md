@@ -8,6 +8,8 @@ related_posts:
    link: http://laptrinhcuocsong.com/lap-trinh-vien-can-hoc-nhung-gi.html
  - title: Lập trình viên PHP đứng đầy đường
    link: http://laptrinhcuocsong.com/lap-trinh-vien-php-dung-day-duong.html
+ - title: Thay đổi chế độ đọc ghi lên đĩa cứng (io scheduling) để tăng tốc ubuntu
+   link: http://laptrinhcuocsong.com/thay-doi-che-do-io-schedule-de-tang-toc-ubuntu.html
 ---
 
 Vừa rồi mình vừa có một buổi live stream trò chuyện cùng bạn đọc Lập Trình Cuộc Sống trên facebook. Một stream đặc biệt, nơi tất cả bạn đọc có thể nói chuyện với nhau thoải mái, chia sẻ những kinh nghiệm, buồn vui trong nghề. Thu hút hơn 2 nghìn lượt xem và hàng trăm bình luận, mình hiểu rằng các bạn rất quan tâm và có rất nhiều băn khoăn, nhất là các bạn sinh viên.
