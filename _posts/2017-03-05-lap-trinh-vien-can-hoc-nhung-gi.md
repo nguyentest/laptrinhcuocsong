@@ -3,6 +3,13 @@ layout: post
 title: Lập trình viên cần học những gì ?
 thumbnail: lap-trinh-vien-thumb.jpg
 category: Chuyện nghề nghiệp
+related_posts:
+ - title: Tôi đã hack Chợ Tốt như thế nào
+   link: http://laptrinhcuocsong.com/toi-da-hack-cho-tot-nhu-the-nao.html
+ - title: Trả lời câu hỏi của bạn đọc
+   link: http://laptrinhcuocsong.com/tra-loi-cau-hoi-ban-doc.html
+ - title: Giới thiệu fluent interface - một cách để code dễ đọc hơn
+   link: http://laptrinhcuocsong.com/gioi-thieu-fluent-interface-cach-de-viet-code-de-doc.html
 ---
 
 Một trong những câu hỏi được nhiều bạn sinh viên ngành công nghệ quan tâm nhất đó là: Cần học những kiến thức gì, rèn luyện kỹ năng gì để trở thành một lập trình viên? Câu hỏi nghe có vẻ đơn giản nhưng rất khó để trả lời, lập trình là một lĩnh vực rất rộng, có hàng tá ngôn ngữ cần phải học, hàng trăm công nghệ cần nghiên cứu, và môi trường mỗi công ty lại hoàn toàn khác nhau, do đó các thanh niên vẫn cảm thấy rất "mông lung như một trò đùa".
