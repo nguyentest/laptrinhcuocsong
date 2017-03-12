@@ -3,6 +3,11 @@ layout: post
 title: Giới thiệu fluent interface - một cách để code dễ đọc hơn
 thumbnail: hour-of-code.jpg
 category: Chuyện lập trình
+related_posts:
+ - title: Cùng nhau tạo restful API đơn giản với php
+  link: http://laptrinhcuocsong.com/cung-nhau-tao-restful-api-don-gian-voi-php.html
+ - title: Tôi đã hack Chợ Tốt như thế nào
+  link: http://laptrinhcuocsong.com/toi-da-hack-cho-tot-nhu-the-nao.html
 ---
 Fluent interface được đặt ra bởi Eric Evans và Martin Fowler, là sự mở rộng của kỹ thuật "Lời gọi theo chuỗi" (method chaining) nhằm làm cho mã lập trình dễ đọc hơn. Method chaining là một kỹ thuật về cú pháp chung cho cách gọi nhiều lần tới các hàm khác trong lập trình hướng đối tượng.
 
