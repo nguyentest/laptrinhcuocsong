@@ -7,9 +7,11 @@ layout: default
   <div class="post-body" itemprop="articleBody">
     {{ content }}
     {% if page.related_posts %}
-    <div class="related_posts">
-      {{ page.related_posts }}
-    </div>
+    <ul class="related_posts">
+      {% for related_post in page.related_posts %}
+      <li><a href="{{ related_post.link }}" title="{{ related_post.title }}">{{ related_post.title }}</a></li>
+      {% endfor %}
+    </ul>
     {% endif %}
     <div class="social-share">
         <span class='st_facebook_large' displayText='Facebook'></span>
