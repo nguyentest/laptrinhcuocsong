@@ -5,7 +5,7 @@ category: Chuyện nghề nghiệp
 thumbnail: tra-loi-cau-hoi-thumb.png
 ---
 
-Vừa rồi mình vừa có một buổi live stream trò chuyện cùng bạn đọc Lập Trình Cuộc Sống trên facebook. Một stream đặc biệt, nơi tất cả bạn đọc có thể nói chuyện với nhau thoải mái, chia sẻ những kinh nghiệm, buồn vui trong nghề. Thu hút hơn 1,8 nghìn lượt xem và hàng trăm bình luận, mình hiểu rằng các bạn rất quan tâm và có rất nhiều băn khoăn, nhất là các bạn sinh viên.
+Vừa rồi mình vừa có một buổi live stream trò chuyện cùng bạn đọc Lập Trình Cuộc Sống trên facebook. Một stream đặc biệt, nơi tất cả bạn đọc có thể nói chuyện với nhau thoải mái, chia sẻ những kinh nghiệm, buồn vui trong nghề. Thu hút hơn 2 nghìn lượt xem và hàng trăm bình luận, mình hiểu rằng các bạn rất quan tâm và có rất nhiều băn khoăn, nhất là các bạn sinh viên.
 
 ![Trả lời câu hỏi](images/tra-loi-cau-hoi.png)
 
