@@ -267,6 +267,17 @@ code.highlighter-rouge {
 	padding: 3px 0px !important;
 	background-color: #ededed;
 }
+.download:hover {
+    background-color: #125044;
+}
+inspector-stylesheet:1
+.download {
+    background-color: #256F60;
+    color: white;
+    padding: 10px 15px;
+    border-radius: 5px;
+    border: 1px solid #1d5a4e;
+}
 .social-share {
 	margin-top: 25px;
 }
