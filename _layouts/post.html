@@ -6,6 +6,11 @@ layout: default
   <h1 itemprop="name">{{ page.title }}</h1>
   <div class="post-body" itemprop="articleBody">
     {{ content }}
+    {% if page.related_posts %}
+    <div class="related_posts">
+      {{ page.related_posts }}
+    </div>
+    {% endif %}
     <div class="social-share">
         <span class='st_facebook_large' displayText='Facebook'></span>
         <span class='st_googleplus_large' displayText='Google +'></span>
