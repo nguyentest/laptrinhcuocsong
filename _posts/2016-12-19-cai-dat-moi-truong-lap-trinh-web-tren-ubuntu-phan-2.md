@@ -10,9 +10,7 @@ Trong phần 1, mình đã hướng dẫn các bạn cài đặt apache, php, my
 
 Sublime text là một text editor rất mạnh, hỗ trợ nhiều plugin hay và được nhiều lập trình viên yêu thích. Đặc biệt, sublime text là một phần mềm đa nền tảng (multi-platform) hỗ trợ cả linux.
 
-Các bạn tải và cài đặt sublime text tại đây:
-
-<p><a href="https://www.sublimetext.com/3" class="button">Tải sublime text</a></p>
+<p><a href="https://www.sublimetext.com/3" class="download">Tải sublime text</a></p>
 
 Tuy nhiên phiên bản trên linux lại không hỗ trợ gõ tiếng Việt, do vậy chúng ta phải cài một plugin có tên là VN IME.
 
@@ -28,9 +26,7 @@ telex: true
 
 Khởi động lại sublime và chúng ta đã có thể gõ tiếng Việt, tuy nhiên, font chữ của sublime quá xấu, khi nhấn tab thì dù có chỉnh tab size là 4 thì nó vẫn không thụt vào đúng 4 chữ cái. Chúng ta phải sử dụng font monospace để chiều rộng của tất cả các chữ cái bằng nhau, kể cả dấu cách.
 
-Bạn tải bộ font tại đây:
-
-[Download font cho ubuntu](https://drive.google.com/file/d/0B2-NdjFXI2hOeVhEX1pSdFg1YjA/view?usp=sharing)
+<p><a href="https://drive.google.com/file/d/0B2-NdjFXI2hOeVhEX1pSdFg1YjA/view?usp=sharing" class="download">Download font cho ubuntu</a></p>
 
 Sau đó copy vào thư mục /usr/share/fonts . Quay trở lại sublime text rồi chỉnh setting như sau:
 
@@ -77,9 +73,7 @@ Tuy nhiên, nếu bạn đã quen với việc cắt giao diện bằng photosho
 
 Để cài đặt, bạn vào Ubuntu software center tìm wine program loader, cài đặt nó.
 
-Sau đó tải Adobe Photoshop CS6 Extended for ubuntu tại đây:
-
-[Download Adobe Photoshop CS6 Extended for ubuntu](https://drive.google.com/file/d/0B2-NdjFXI2hOSUl2QmNSLU91OTg/view?usp=sharing)
+<p><a href="https://drive.google.com/file/d/0B2-NdjFXI2hOSUl2QmNSLU91OTg/view?usp=sharing" class="download">Download Adobe Photoshop CS6 Extended for ubuntu</a></p>
 
 Tải xong các bạn giải nén và click chuột phải vào Adobe Photoshop CS6 Extended.exe và chọn open with => wine windows programs loader và cài đặt như bình thường.
 
