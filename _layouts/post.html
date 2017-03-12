@@ -7,7 +7,7 @@ layout: default
   <div class="post-body" itemprop="articleBody">
     {{ content }}
     {% if page.related_posts %}
-    <h3>Bài viết có thể bạn quan tâm</h3>
+    <h3 class="related_post_heading">Bài viết có thể bạn quan tâm</h3>
     <ul class="related_posts">
       {% for related_post in page.related_posts %}
       <li><a href="{{ related_post.link }}" title="{{ related_post.title }}">{{ related_post.title }}</a></li>
