@@ -3,6 +3,11 @@ layout: post
 title: Trả lời câu hỏi của bạn đọc
 category: Chuyện nghề nghiệp
 thumbnail: tra-loi-cau-hoi-thumb.png
+related_posts:
+ - title: Lập trình viên cần học những gì ?
+   link: http://laptrinhcuocsong.com/lap-trinh-vien-can-hoc-nhung-gi.html
+ - title: Lập trình viên PHP đứng đầy đường
+   link: http://laptrinhcuocsong.com/lap-trinh-vien-php-dung-day-duong.html
 ---
 
 Vừa rồi mình vừa có một buổi live stream trò chuyện cùng bạn đọc Lập Trình Cuộc Sống trên facebook. Một stream đặc biệt, nơi tất cả bạn đọc có thể nói chuyện với nhau thoải mái, chia sẻ những kinh nghiệm, buồn vui trong nghề. Thu hút hơn 2 nghìn lượt xem và hàng trăm bình luận, mình hiểu rằng các bạn rất quan tâm và có rất nhiều băn khoăn, nhất là các bạn sinh viên.
