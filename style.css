@@ -276,6 +276,7 @@ code.highlighter-rouge {
 }
 .download:hover {
     background-color: #125044;
+	color: white;
 }
 .social-share {
 	margin-top: 25px;
