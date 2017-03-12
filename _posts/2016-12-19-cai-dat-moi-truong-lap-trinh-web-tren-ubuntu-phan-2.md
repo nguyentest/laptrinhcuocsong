@@ -12,7 +12,7 @@ Sublime text là một text editor rất mạnh, hỗ trợ nhiều plugin hay v
 
 Các bạn tải và cài đặt sublime text tại đây:
 
-[Download sublime text](https://www.sublimetext.com/3)
+<p><a href="https://www.sublimetext.com/3" class="button">Tải sublime text</a></p>
 
 Tuy nhiên phiên bản trên linux lại không hỗ trợ gõ tiếng Việt, do vậy chúng ta phải cài một plugin có tên là VN IME.
 
