@@ -29,24 +29,24 @@ Một tương lai không mấy sáng lạng cho tổ chức hacker Việt Nam n�
 
 Sau đây là một vài bài thảo luận trên HVA Zone cho các bạn cùng đọc giải trí
 
-![HVA Zone](images/hva1.png)
+![HVA Zone](images/hva1.jpg)
 
-![HVA Zone](images/hva2.png)
+![HVA Zone](images/hva2.jpg)
 
-![HVA Zone](images/hva3.png)
+![HVA Zone](images/hva3.jpg)
 
-![HVA Zone](images/hva4.png)
+![HVA Zone](images/hva4.jpg)
 
-![HVA Zone](images/hva5.png)
+![HVA Zone](images/hva5.jpg)
 
-![HVA Zone](images/hva6.png)
+![HVA Zone](images/hva6.jpg)
 
-![HVA Zone](images/hva7.png)
+![HVA Zone](images/hva7.jpg)
 
-![HVA Zone](images/hva8.png)
+![HVA Zone](images/hva8.jpg)
 
-![HVA Zone](images/hva9.png)
+![HVA Zone](images/hva9.jpg)
 
-![HVA Zone](images/hva10.png)
+![HVA Zone](images/hva10.jpg)
 
-![HVA Zone](images/hva11.png)
+![HVA Zone](images/hva11.jpg)
