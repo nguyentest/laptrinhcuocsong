@@ -23,7 +23,7 @@ Tham gia HVA Zone quá dễ dàng, chỉ cần bạn có một nick facebook là
 
 Có thể đây là một hình thức hay, khi các bạn yêu thích bảo mật có môi trường kết nối, kiến thức bảo mật được phổ biến rộng rãi tới tất cả mọi người. Và tất nhiên, các bậc tiền bối của hacker Việt Nam sẽ không tham gia cái mạng xã hội tạp nham này.
 
-Một tương lai không mấy sáng lạng cho tổ chức hacker Việt Nam nổi tiếng một thời.
+Một tương lai không mấy sáng lạng cho bảo mật nước nhà, một bước đi không mấy vững chắc tổ chức hacker Việt Nam nổi tiếng một thời.
 
 ================
 
