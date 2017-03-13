@@ -11,7 +11,7 @@ related_posts:
  - title: Thay đổi chế độ đọc ghi lên đĩa cứng (io scheduling) để tăng tốc ubuntu
    link: http://laptrinhcuocsong.com/thay-doi-che-do-io-schedule-de-tang-toc-ubuntu.html
 ---
-Trong khi cả nước đang xôn xao vụ tin tặc 15 tuổi tấn công hàng loạt sân bay thì hôm qua (14/03/2017) hiệp hội hacker Việt Nam đã bất ngờ tuyên bố trở lại với cái tên HVA Zone sau gần 3 năm kể từ khi diễn đàn HVA đóng cửa, chuyển sang trạng thái read-only.
+Trong khi cả nước đang xôn xao vụ [tin tặc 15 tuổi tấn công hàng loạt sân bay](http://news.zing.vn/tin-tac-tan-cong-hang-loat-website-san-bay-moi-15-tuoi-post727665.html) thì hôm qua (14/03/2017) hiệp hội hacker Việt Nam đã bất ngờ tuyên bố trở lại với cái tên HVA Zone sau gần 3 năm kể từ khi diễn đàn HVA đóng cửa, chuyển sang trạng thái read-only.
 
 > HVA (Hacker Vietnam Association) là tên viết tắt của Hiệp hội Hacker Việt Nam. Đây là tổ chức hacker lâu đời nhất của Việt Nam, thành lập từ năm 1997 khi Việt Nam chính thức kết nối Internet.
 
