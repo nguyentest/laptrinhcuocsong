@@ -19,9 +19,9 @@ Với sự trở lại lần này, đại diên HVA cho biết rằng đây là 
 
 Bản thân mình thấy hơi thất vọng về sự trở lại lần này. Diễn đàn HVA nổi tiếng với rất nhiều bài viết chất lượng, chuyên sâu về các chủ đề thâm nhập, bảo mật, virus, trojan... Thì bây giờ, nó lại là nơi để các bạn trẻ hỏi về việc không đăng nhập được facebook, bị đọc trộm tin nhắn zalo, nhờ hack gmail, hay hỏi tool DDOS...
 
-Tham gia HVA Zone quá dễ dàng, chỉ cần bạn có một nick facebook là có thể tham gia thảo luận mà không có bất kỳ giới hạn nào về độ tuổi. Tuy dạng social như thế này làm cho HVA Zone không thể có các bài viết chất lượng bằng diễn đàn HVA ngày xưa, nhưng không ai dám chắc những "hacker" trẻ tuổi này lại không trở thành tin tặc 15 tuổi tấn công sân bay kia, khi họ có thể học bất cứ thứ gì ở đây để phá hoại.
+Tham gia HVA Zone quá dễ dàng, chỉ cần bạn có một nick facebook là có thể tham gia thảo luận mà không có bất kỳ giới hạn nào về độ tuổi. Các sky thích điều này, có thể thấy rất nhiều các bạn trẻ, đang học trung học, thậm chí rất nhiều bạn chưa biết lập trình và không biết tiếng Anh cũng đang tìm tòi học "hack". Có thể đây là một hình thức hay, khi các bạn yêu thích bảo mật có môi trường kết nối, kiến thức bảo mật được phổ biến rộng rãi tới tất cả mọi người. 
 
-Có thể đây là một hình thức hay, khi các bạn yêu thích bảo mật có môi trường kết nối, kiến thức bảo mật được phổ biến rộng rãi tới tất cả mọi người. Và tất nhiên, các bậc tiền bối của hacker Việt Nam sẽ không tham gia cái mạng xã hội tạp nham này.
+Tuy nhiên dạng social như thế này làm cho HVA Zone không thể có các bài viết chất lượng bằng diễn đàn HVA ngày xưa, nhưng không ai dám chắc những "hacker" trẻ tuổi này lại không trở thành tin tặc 15 tuổi tấn công sân bay kia, khi họ có thể học bất cứ thứ gì ở đây để phá hoại, dưới danh nghĩa HVA. Và tất nhiên, các bậc tiền bối của hacker Việt Nam sẽ không tham gia cái mạng xã hội tạp nham này.
 
 Một tương lai không mấy sáng lạng cho bảo mật nước nhà, một bước đi không mấy vững chắc tổ chức hacker Việt Nam nổi tiếng một thời.
 
