@@ -23,7 +23,7 @@ Tham gia HVA Zone quá dễ dàng, chỉ cần bạn có một nick facebook là
 
 Tuy nhiên dạng social như thế này làm cho HVA Zone không thể có các bài viết chất lượng bằng diễn đàn HVA ngày xưa, nhưng không ai dám chắc những "hacker" trẻ tuổi này lại không trở thành tin tặc 15 tuổi tấn công sân bay kia, khi họ có thể học bất cứ thứ gì ở đây để phá hoại, dưới danh nghĩa HVA. Và tất nhiên, các bậc tiền bối của hacker Việt Nam sẽ không tham gia cái mạng xã hội tạp nham này.
 
-Một tương lai không mấy sáng lạng cho bảo mật nước nhà, một bước đi không mấy vững chắc tổ chức hacker Việt Nam nổi tiếng một thời.
+Một tương lai không mấy sáng lạng cho bảo mật nước nhà, một bước đi không mấy vững chắc của tổ chức hacker Việt Nam nổi tiếng một thời.
 
 ================
 
