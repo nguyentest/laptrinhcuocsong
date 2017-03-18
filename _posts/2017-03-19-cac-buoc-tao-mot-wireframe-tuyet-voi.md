@@ -26,7 +26,7 @@ Việc vẽ wireframe là vô cùng quan trọng, một wireframe tốt sẽ tr�
 Hãy đọc lại tài liệu mô tả sản phẩm một cách kỹ lưỡng để chắc chắn rằng bạn hiểu tất cả các tính năng sẽ có của sản phẩm. Mục đích tạo ra phần mềm này là gì? Ai sẽ sử dụng nó? Nó bao gồm những tính năng gì? Hãy đặt ra những câu hỏi như vậy, vì những câu hỏi này sẽ giúp bạn định hướng tốt nhất khung sườn của sản phẩm.
 
 **Ví dụ**:
-- Ai sẽ sử dụng nó? Website cho trẻ em thì phải ít chữ, ít nút bấm, nhiều hình ảnh hơn website cho người lớn
+**Ai sẽ sử dụng nó?** Website cho trẻ em thì phải ít chữ, ít nút bấm, nhiều hình ảnh hơn website cho người lớn
 
 ## Đặt mình vào vị trí người dùng:
 
