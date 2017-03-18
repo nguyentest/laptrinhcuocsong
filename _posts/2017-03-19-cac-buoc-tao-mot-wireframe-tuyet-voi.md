@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Các bước tạo một wireframe tuyệt vời
-thumbnail: wireframeb.png
+thumbnail: wireframe.png
 category: Chuyện nghề nghiệp
 related_posts:
  - title: Xem video này bạn sẽ muốn ngồi vào bàn và lập trình ngay lập tức
