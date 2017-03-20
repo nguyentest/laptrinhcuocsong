@@ -38,7 +38,8 @@ Bạn có thể dùng bất cứ thứ gì để vẽ wireframe, một cây bút
 
 Bắt đầu vẽ ra giao diện mà bạn mong muốn dưới góc độ người dùng như bạn đã tưởng tượng ở bước trên. Lưu ý càng đơn giản càng tốt, không ai thích một phần mềm có hàng trăm nút bấm, vài chục textbox cả đâu. Cố gắng thể hiện một cách đơn giản nhất, sử dụng ít thành phần giao diện nhất có thể, nhưng vẫn đầy đủ tính năng cần có của phần mềm.
 
-Khoan nghĩ đến màu sắc:
+## Khoan nghĩ đến màu sắc:
+
 Nếu sử dụng phần mềm để vẽ wireframe, các phần mềm này có thể cung cấp cho chúng ta tính năng đặt màu sắc cho các thành phần giao diện, mình khuyên bạn không nên dùng chúng, cứ để màu đen trắng, màu sắc có thể làm bạn phân tâm mà quên đi cái quan trọng nhất của wireframe là ở tính năng, hành vi và trải nghiệm của người sử dụng. Màu sắc sẽ được các bạn designer thêm vào sau.
 
 ## Không cần độ chính xác:
