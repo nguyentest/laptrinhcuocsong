@@ -10,17 +10,17 @@ Làm gì cũng phải có công cụ, tất nhiên rồi, bạn không thể t�
 
 Code editor, hay trình soạn thảo code là một trong những cái căn bản nhất, hỗ trợ cho lập trình viên rất nhiều. Dùng notepad++ để code toàn bộ một website hoành tráng thì cũng hơi mệt. Lập trình android thì có android studio, lập trình ios đã có Xcode, lập trình .Net đã có visual studio, toàn cái xịn, riêng chỉ có lập trình web thì không theo thể thống nhất nào cả. Sublime text, phpdesigner, netbean, eclipse, phpStorm, notepad++ ... tạp nham  đủ thể loại, thế nên bạn phải chọn cho mình một cái mà bạn cảm thấy dễ dùng nhất, code nhanh nhất và gắn bó với nó.
 
-Mình thường dùng ![Sublime Text](https://www.sublimetext.com/) bởi nó nhẹ, nhiều plugin hỗ trợ và miễn phí :D
+Mình thường dùng [Sublime Text](https://www.sublimetext.com/) bởi nó nhẹ, nhiều plugin hỗ trợ và miễn phí :D
 
 ## Package manager và task runner
 
 Tiếp theo bạn cần phải có package manager, là công cụ để quản lý các thư viện, giúp tiết kiệm thời gian, tránh phức tạp phiền phức khi cần chèn hay cập nhật các thư viện này. Đồng thời bạn cũng cần task runner để tự động hoá một số thao tác thường gặp trong quá trình làm việc.
 
-Mình dùng ![composer](https://getcomposer.org/), ![bower](https://bower.io/), ![npm](https://www.npmjs.com/) và ![gulp](http://gulpjs.com/)
+Mình dùng [composer](https://getcomposer.org/), [bower](https://bower.io/), [npm](https://www.npmjs.com/) và [gulp](http://gulpjs.com/)
 
 ## Quản lý Phiên bản
 
-Việc dùng một hệ quản lý phiên bản mã nguồn là rất cần thiết, nó giúp quy trình làm việc code theo nhóm đơn giản hơn rất nhiều. Để sử dụng bạn cần cài đặt một git client như: ![tortoisegit](https://tortoisegit.org/), ![git for windows](https://git-scm.com/download/win) hay ![sourcetree](https://www.sourcetreeapp.com/) và một dịch vụ repository hosting như Github hay Bitbucket.
+Việc dùng một hệ quản lý phiên bản mã nguồn là rất cần thiết, nó giúp quy trình làm việc code theo nhóm đơn giản hơn rất nhiều. Để sử dụng bạn cần cài đặt một git client như: [tortoisegit](https://tortoisegit.org/), [git for windows](https://git-scm.com/download/win) hay [sourcetree](https://www.sourcetreeapp.com/) và một dịch vụ repository hosting như Github hay Bitbucket.
 
 ## CSS preprocessors
 
@@ -30,17 +30,17 @@ CSS preprocessors giúp bạn viết code css nhanh hơn, thống nhất hơn v�
 
 Bạn vẫn có thể code tay trang web của mình, nhưng đời không như mơ, việc đó quá mất thời gian trong khi bạn cần nhanh hơn để theo kịp tiến độ dự án, suy cho cùng, cái bạn cần là tạo ra sản phẩm nhanh và tốt, méo ai quan tâm code của bạn viết bằng cái gì đâu. Sử dụng Front-end framework cũng giúp làm việc nhóm hiệu quả hơn khi đồng đội của bạn cũng cùng sử dụng framework đó.
 
-Với web, bạn có thể sử dụng ![Bootstrap](http://getbootstrap.com/) vì nó rất phổ biến, ngoài ra có một framework khá nổi tiếng khác là Foundation 3 cũng khá tốt.
+Với web, bạn có thể sử dụng [Bootstrap](http://getbootstrap.com/) vì nó rất phổ biến, ngoài ra có một framework khá nổi tiếng khác là Foundation 3 cũng khá tốt.
 
 ## Backend framework
 
 Tương tự như frontend, về phía backend cũng tương tự, nguyên tắc DRY (Don't repeat yourself) dạy ta rằng không nên phát minh lại cái bánh xe, những thứ phải làm thường xuyên như thêm xóa sửa dữ liệu đã được đơn giản hóa rất nhiều bằng các framework, giúp bạn làm việc nhanh hơn, giảm bug phát sinh và tránh gặp những phiền phức không cần thiết. Mình khuyên là bạn nên chọn framework nào được nhiều người dùng nhất, chắc chắn bạn sẽ làm việc nhóm tốt hơn khi nhiều người biết framework của bạn.
 
-Hiện mình chủ yếu làm việc với php nên mình chọn ![Laravel](https://laravel.com/) và ![Codeigniter](https://codeigniter.com/)
+Hiện mình chủ yếu làm việc với php nên mình chọn [Laravel](https://laravel.com/) và [Codeigniter](https://codeigniter.com/)
 
 ## Vài chrome extension hữu ích
 
-Ngoài chrome developer tool quen thuộc thì bạn cũng nên cài vài extension mở rộng như ![color zilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp) để chọn màu trên trang web nhanh và chính xác, ![measureit](https://chrome.google.com/webstore/detail/measureit/pokhcahijjfkdccinalifdifljglhclm?hl=vi) để đo đạc khi cắt giao diện cho chuẩn, 
+Ngoài chrome developer tool quen thuộc thì bạn cũng nên cài vài extension mở rộng như [color zilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp) để chọn màu trên trang web nhanh và chính xác, [measureit](https://chrome.google.com/webstore/detail/measureit/pokhcahijjfkdccinalifdifljglhclm?hl=vi) để đo đạc khi cắt giao diện cho chuẩn, 
 
 ## Nguồn ảnh và chỉnh sửa hình ảnh
 
@@ -48,7 +48,7 @@ Bạn cần hình ảnh để đăng lên blog, tuy nhiên các ảnh trên inte
 
 Dân web developer thường không chuyên về đồ họa lắm, tuy nhiên bạn vẫn phải biết sử dụng photoshop, illustrator để cắt giao diện sang html, css. Trên linux mình hay sử dụng gimp,  tuy không bằng photoshop nhưng cái này cũng khá hay, hỗ trợ đầy đủ các tác vụ thông thường, và miễn phí.
 
-Khi thiết kế hoặc cả khi code, đôi khi bạn cần một màu nào đó ngay lập tức, hãy đến website ![http://color.hairpixcel.com](http://color.hairpixcel.com) và click, bạn sẽ có một màu đẹp.
+Khi thiết kế hoặc cả khi code, đôi khi bạn cần một màu nào đó ngay lập tức, hãy đến website [http://color.hairpixcel.com](http://color.hairpixcel.com) và click, bạn sẽ có một màu đẹp.
 
 ## Thư viện javascript:
 
