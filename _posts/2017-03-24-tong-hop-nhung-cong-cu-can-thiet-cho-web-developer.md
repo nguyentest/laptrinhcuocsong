@@ -14,7 +14,7 @@ Mình thường dùng [Sublime Text](https://www.sublimetext.com/) bởi nó nh�
 
 ## Package manager và task runner
 
-Tiếp theo bạn cần phải có package manager, là công cụ để quản lý các thư viện, giúp tiết kiệm thời gian, tránh phức tạp phiền phức khi cần chèn hay cập nhật các thư viện này. Đồng thời bạn cũng cần task runner để tự động hoá một số thao tác thường gặp trong quá trình làm việc.
+Tiếp theo bạn cần phải có package manager, là công cụ để quản lý các thư viện, giúp tiết kiệm thời gian, tránh phức tạp phiền phức khi cần chèn hay cập nhật các thư viện. Đồng thời bạn cũng cần task runner để tự động hoá một số thao tác thường gặp trong quá trình làm việc.
 
 Mình dùng [composer](https://getcomposer.org/), [bower](https://bower.io/), [npm](https://www.npmjs.com/) và [gulp](http://gulpjs.com/)
 
