@@ -52,21 +52,21 @@ Khi thiết kế hoặc cả khi code, đôi khi bạn cần một màu nào đ�
 
 ## Thư viện javascript:
 
-Có rất nhiều thư viên javascript bạn có thể sử dụng cho dự án của mình, phổ biến nhất là jquery, angularJs hoặc vue.js. Mục đích cuối cùng cũng chỉ là tiết kiệm thời gian công sức, tạo ra sản phẩm nhanh và hoàn thiện.
+Có rất nhiều thư viên javascript bạn có thể sử dụng cho dự án của mình, phổ biến nhất là **jquery**, **angularJs** hoặc **vue.js**. Mục đích cuối cùng cũng chỉ là tiết kiệm thời gian công sức, tạo ra sản phẩm nhanh và hoàn thiện.
 
 ## Nguồn icon, font và icon font
 
-Có hai cách để tạo icon trên web, một là dùng icon ảnh và icon font, mỗi cách có ưu nhược điểm khác nhau. Để tìm icon bạn có thể lên IconFinder để tìm, hoặc sử dụng các icon font có sẵn như fontawesome, Fontello,  IconMonster. Font chữ cho web có rất nhiều trên google font, với sự phổ biến của CSS3, việc nhúng font chữ lên web đã trở nên rất đơn giản.
+Có hai cách để tạo icon trên web, một là dùng icon ảnh và icon font, mỗi cách có ưu nhược điểm khác nhau. Để tìm icon bạn có thể lên [IconFinder](https://www.iconfinder.com/), [IconMonster](https://iconmonstr.com/) để tìm, hoặc sử dụng các icon font có sẵn như [fontawesome](http://fontawesome.io/), [Fontello](http://fontello.com/). Font chữ cho web có rất nhiều trên google font, với sự phổ biến của CSS3, việc nhúng font chữ lên web đã trở nên rất đơn giản.
 
-## Bug tracking: Quản lý lỗi với bugsnag
+## Bug tracking: Quản lý lỗi với [bugsnag](https://www.bugsnag.com/)
 
 Mình cũng chưa từng được dùng các hệ thống quản lý nào khác ngoài bugsnag nên không có ý kiến gì nhiều. Bạn không nhất thiết phải dùng bugsnag, nhưng việc có một hệ thống quản lý lỗi là rất cần thiết, sản phẩm chạy sinh ra lỗi sẽ được log lên hệ thống này, developer sẽ nhận được email đầy đủ thông tin, thuận tiện cho việc fix bug.
 
 ## Vẽ wireframe và thể hiện ý tưởng:
 
-Wireframe là bản phác thảo thô mô tả tổng quan về sản phẩm, giúp dễ dàng truyền đạt ý tưởng tăng hiệu quả giao tiếp giữa các thành viên trong team. Mình đã có một bài viết về tầm quan trọng của wireframe và cách để vẽ một wireframe tuyệt vời. Mình sử dụng Balsamiq Mockups, đây là một phần mềm rất hay, nhưng tại vì nó phải trả phí, chỉ cho trial 30 ngày nên mình chuyển qua một phần mềm miễn phí là  Pencil project.
+Wireframe là bản phác thảo thô mô tả tổng quan về sản phẩm, giúp dễ dàng truyền đạt ý tưởng tăng hiệu quả giao tiếp giữa các thành viên trong team. Mình đã có một bài viết về tầm quan trọng của wireframe và cách để vẽ một wireframe tuyệt vời. Mình sử dụng Balsamiq Mockups, đây là một phần mềm rất hay, nhưng tại vì nó phải trả phí, chỉ cho trial 30 ngày nên mình chuyển qua một phần mềm miễn phí là  [Pencil project](http://pencil.evolus.vn/).
 
-## Tạo và quản lý task với Jira
+## Tạo và quản lý task với [Jira](https://www.atlassian.com/software/jira)
 
 Khi bạn làm việc ở một công ty phần mềm, bạn có thể sẽ được (hoặc bắt buộc) phải sử dụng một phần mềm quản lý task như Jira, nó giúp kiểm soát theo dõi vấn đề và lỗi phát sinh trong quá trình của một dự án. Ban đầu bạn có thể sẽ khá khó sử dụng, nhưng sau này bạn lại thích nó, và muốn áp dụng vào team của mình.
 
@@ -74,7 +74,7 @@ Khi bạn làm việc ở một công ty phần mềm, bạn có thể sẽ đư
 
 Với các bạn lập trình viên nói chung và web developer nói riêng, viết blog công nghệ và chia sẻ kinh nghiệm lập trình là một cách rất tốt để tự học và giúp đỡ cộng đồng. Thật dễ dàng để tạo cho mình một blog bằng wordpress, và chia sẻ code của bạn bằng jsfiddle, jsbin, hay codeshare.io.
 
-Bạn cũng cần có thói quen ghi lại mọi thứ, đôi khi ở một nơi nào đó, bạn bất chợt có một ý tưởng hay một cách giải quyết vấn đề mới. Hãy ghi lại ngay bởi sau đó bạn rất có thể sẽ quên phéng mất, mình hay dùng google keep trên điện thoại để ghi chép ngay lúc đó, rất tiện lợi. Ngoài google keep, evernote cũng là một dịch vụ tuyệt vời.
+Bạn cũng cần có thói quen ghi lại mọi thứ, đôi khi ở một nơi nào đó, bạn bất chợt có một ý tưởng hay một cách giải quyết vấn đề mới. Hãy ghi lại ngay bởi sau đó bạn rất có thể sẽ quên phéng mất, mình hay dùng google keep trên điện thoại để ghi chép ngay lúc đó, rất tiện lợi. Ngoài google keep, [evernote](https://evernote.com/) cũng là một dịch vụ tuyệt vời.
 
 ## Một vài cái mà web developer nào cũng dùng:
 
