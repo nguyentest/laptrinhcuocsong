@@ -4,7 +4,7 @@ title: Tổng hợp tất tần tật những công cụ cần thiết cho web d
 thumbnail: web-developer.png
 category: Chuyện lập trình
 ---
-Làm gì cũng phải có công cụ, tất nhiên rồi, bạn không thể tạo ra một trang web bằng tay không. Nếu bạn là một web developer, những món "đồ nghề" sau đây sẽ giúp ích rất nhiều cho bạn, đây là những công cụ mà mình đang thường xuyên sử dụng trong công công việc hàng ngày.
+Làm gì cũng phải có công cụ, tất nhiên rồi, bạn không thể tạo ra một trang web bằng tay không. Nếu bạn là một web developer, những món "đồ nghề" sau đây sẽ giúp ích rất nhiều cho bạn, đây là những công cụ mà mình đang thường xuyên sử dụng trong công việc hàng ngày.
 
 ## Một code editor xịn
 
