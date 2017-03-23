@@ -3,6 +3,13 @@ layout: post
 title: Tổng hợp tất tần tật những công cụ cần thiết cho web developer
 thumbnail: web-developer.png
 category: Chuyện lập trình
+related_posts:
+ - title: Lập trình viên cần học những gì ?
+   link: http://laptrinhcuocsong.com/lap-trinh-vien-can-hoc-nhung-gi.html
+ - title: Lập trình viên PHP đứng đầy đường
+   link: http://laptrinhcuocsong.com/lap-trinh-vien-php-dung-day-duong.html
+ - title: Thay đổi chế độ đọc ghi lên đĩa cứng (io scheduling) để tăng tốc ubuntu
+   link: http://laptrinhcuocsong.com/thay-doi-che-do-io-schedule-de-tang-toc-ubuntu.html
 ---
 Làm gì cũng phải có công cụ, tất nhiên rồi, bạn không thể tạo ra một trang web bằng tay không. Nếu bạn là một web developer, những món "đồ nghề" sau đây sẽ giúp ích rất nhiều cho bạn, đây là những công cụ mà mình đang thường xuyên sử dụng trong công việc hàng ngày.
 
