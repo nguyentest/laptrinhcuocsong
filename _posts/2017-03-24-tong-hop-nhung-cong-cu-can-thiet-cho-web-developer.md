@@ -24,7 +24,7 @@ Việc dùng một hệ quản lý phiên bản mã nguồn là rất cần thi�
 
 ## CSS preprocessors
 
-CSS preprocessors giúp bạn viết code css nhanh hơn, thống nhất hơn với sự mở rộng hay ho như: hỗ trợ biến, hàm, compile và nén các tập tin css. Có hai css preprocessor phổ biến nhất là less và sass, mình sử dụng cả hai cái này, compiler cho nó thì có thể dùng CodeKit, Koala hay dùng compiler mặc định của less và sass luôn.
+CSS preprocessors giúp bạn viết code css nhanh hơn, thống nhất hơn với sự mở rộng hay ho như: hỗ trợ biến, hàm, compile và nén các tập tin css. Có hai css preprocessor phổ biến nhất là [less](http://lesscss.org/) và [sass](http://sass-lang.com/), mình sử dụng cả hai cái này, compiler cho nó thì có thể dùng CodeKit, Koala hay dùng compiler mặc định của less và sass luôn.
 
 ## Front-end framework
 
