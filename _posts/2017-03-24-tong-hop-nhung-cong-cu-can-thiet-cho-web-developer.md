@@ -64,11 +64,11 @@ Mình cũng chưa từng được dùng các hệ thống quản lý nào khác 
 
 ## Vẽ wireframe và thể hiện ý tưởng:
 
-Wireframe là bản phác thảo thô mô tả tổng quan về sản phẩm, giúp dễ dàng truyền đạt ý tưởng tăng hiệu quả giao tiếp giữa các thành viên trong team. Mình đã có một bài viết về tầm quan trọng của wireframe và cách để vẽ một wireframe tuyệt vời. Mình sử dụng Balsamiq Mockups, đây là một phần mềm rất hay, nhưng tại vì nó phải trả phí, chỉ cho trial 30 ngày nên mình chuyển qua một phần mềm miễn phí là  [Pencil project](http://pencil.evolus.vn/).
+Wireframe là bản phác thảo thô mô tả tổng quan về sản phẩm, giúp dễ dàng truyền đạt ý tưởng tăng hiệu quả giao tiếp giữa các thành viên trong team. Mình đã có một bài viết về tầm quan trọng của wireframe và [cách để vẽ một wireframe tuyệt vời](http://laptrinhcuocsong.com/cac-buoc-tao-mot-wireframe-tuyet-voi.html). Mình sử dụng Balsamiq Mockups, đây là một phần mềm rất hay, nhưng tại vì nó phải trả phí, chỉ cho trial 30 ngày nên mình chuyển qua một phần mềm miễn phí là  [Pencil project](http://pencil.evolus.vn/).
 
 ## Tạo và quản lý task với [Jira](https://www.atlassian.com/software/jira)
 
-Khi bạn làm việc ở một công ty phần mềm, bạn có thể sẽ được (hoặc bắt buộc) phải sử dụng một phần mềm quản lý task như Jira, nó giúp kiểm soát theo dõi vấn đề và lỗi phát sinh trong quá trình của một dự án. Ban đầu bạn có thể sẽ khá khó sử dụng, nhưng sau này bạn lại thích nó, và muốn áp dụng vào team của mình.
+Khi bạn làm việc trong một công ty phần mềm, bạn có thể sẽ được (hoặc bắt buộc) phải sử dụng một phần mềm quản lý task như Jira, nó giúp kiểm soát theo dõi vấn đề và lỗi phát sinh trong quá trình của một dự án. Ban đầu bạn có thể sẽ khá khó sử dụng, nhưng sau này bạn lại thích nó, và muốn áp dụng vào team của mình.
 
 ## Viết và chia sẻ
 
@@ -78,9 +78,9 @@ Bạn cũng cần có thói quen ghi lại mọi thứ, đôi khi ở một nơi
 
 ## Một vài cái mà web developer nào cũng dùng:
 
-**Google Webmaster Tool**: là một công cụ hỗ trợ bạn quản lý Website được cung cấp miễn phí bởi Google.
+**Google Webmaster Tool**: là một công cụ hỗ trợ bạn quản lý website được cung cấp miễn phí bởi Google.
 
-**Google Analytic**: là quản lý lượt truy cập thì Google Webmster Tool quản lý các liên kết đến website và các từ khóa mà người dùng dùng để truy cập vào Website bạn
+**Google Analytic**: là quản lý lượt truy cập thì Google Webmster Tool quản lý các liên kết đến website và các từ khóa mà người dùng dùng để truy cập vào Website bạn.
 
 **Google Analytic**: một công cụ phân tích Website hết sức tin cậy, đây được xem là công cụ rất hiệu quả dành cho những Webmaster và những người làm SEO khi muốn thông kê những thông tin về website của mình.
 
