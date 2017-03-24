@@ -210,12 +210,17 @@ a:hover, a:active {
 	padding-bottom: 25px;
 	line-height: 30px;
 }
+.post-body h2 {
+    padding-bottom: 5px;
+    margin-bottom: 25px;
+    margin-top: 25px;
+}
 .post-body ul li:before {
     content: "";
     line-height: 1em;
     width: .7em;
     height: .7em;
-    background-color: #5c718e;
+    background-color: #808080;
     float: left;
     margin: 0.5em .5em 0;
     border-radius: 50%;
