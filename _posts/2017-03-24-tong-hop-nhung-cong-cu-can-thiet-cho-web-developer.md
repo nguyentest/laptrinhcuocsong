@@ -17,11 +17,11 @@ Làm gì cũng phải có công cụ, tất nhiên rồi, bạn không thể t�
 
 Code editor, hay trình soạn thảo code là một trong những cái căn bản nhất, hỗ trợ cho lập trình viên rất nhiều. Dùng notepad++ để code toàn bộ một website hoành tráng thì cũng hơi mệt. Lập trình android thì có android studio, lập trình ios đã có Xcode, lập trình .Net đã có visual studio, toàn cái xịn, riêng chỉ có lập trình web thì không theo thể thống nhất nào cả. Sublime text, phpdesigner, netbean, eclipse, phpStorm, notepad++ ... tạp nham  đủ thể loại, thế nên bạn phải chọn cho mình một cái mà bạn cảm thấy dễ dùng nhất, code nhanh nhất và gắn bó với nó.
 
-Mình thường dùng [Sublime Text](https://www.sublimetext.com/) bởi nó nhẹ, nhiều plugin hỗ trợ và miễn phí :D
+Mình thường dùng [Sublime Text](https://www.sublimetext.com/) bởi nó nhẹ, nhiều plugin hỗ trợ như allAutocomplete, alignment, emmet...
 
 ## Package manager và task runner
 
-Tiếp theo bạn cần phải có package manager, là công cụ để quản lý các thư viện, giúp tiết kiệm thời gian, tránh phức tạp phiền phức khi cần chèn hay cập nhật các thư viện. Đồng thời bạn cũng cần task runner để tự động hoá một số thao tác thường gặp trong quá trình làm việc.
+Tiếp theo bạn cần phải có package manager, là công cụ để quản lý các thư viện, tự động hóa việc cài đặt và cập nhật giúp tiết kiệm thời gian, tránh phức tạp phiền phức. Đồng thời bạn cũng cần task runner để tự động hoá một số thao tác thường gặp trong quá trình làm việc.
 
 Mình dùng [composer](https://getcomposer.org/), [bower](https://bower.io/), [npm](https://www.npmjs.com/) và [gulp](http://gulpjs.com/)
 
@@ -35,13 +35,13 @@ CSS preprocessors giúp bạn viết code css nhanh hơn, thống nhất hơn v�
 
 ## Front-end framework
 
-Bạn vẫn có thể code tay trang web của mình, nhưng đời không như mơ, việc đó quá mất thời gian trong khi bạn cần nhanh hơn để theo kịp tiến độ dự án, suy cho cùng, cái bạn cần là tạo ra sản phẩm nhanh và tốt, méo ai quan tâm code của bạn viết bằng cái gì đâu. Sử dụng Front-end framework cũng giúp làm việc nhóm hiệu quả hơn khi đồng đội của bạn cũng cùng sử dụng framework đó.
+Bạn vẫn có thể code hoàn toàn trang web của mình bằng html css, nhưng đời không như mơ, việc đó quá mất thời gian trong khi bạn cần nhanh hơn để theo kịp tiến độ dự án, suy cho cùng, cái bạn cần là tạo ra sản phẩm nhanh và tốt, méo ai quan tâm code của bạn viết bằng cái gì đâu. Sử dụng Front-end framework giúp bạn nhanh chóng tạo ra giao diện và làm việc nhóm hiệu quả hơn khi đồng đội của bạn cũng cùng sử dụng framework đó.
 
 Với web, bạn có thể sử dụng [Bootstrap](http://getbootstrap.com/) vì nó rất phổ biến, ngoài ra có một framework khá nổi tiếng khác là Foundation 3 cũng khá tốt.
 
 ## Backend framework
 
-Tương tự như frontend, về phía backend cũng tương tự, nguyên tắc DRY (Don't repeat yourself) dạy ta rằng không nên phát minh lại cái bánh xe, những thứ phải làm thường xuyên như thêm xóa sửa dữ liệu đã được đơn giản hóa rất nhiều bằng các framework, giúp bạn làm việc nhanh hơn, giảm bug phát sinh và tránh gặp những phiền phức không cần thiết. Mình khuyên là bạn nên chọn framework nào được nhiều người dùng nhất, chắc chắn bạn sẽ làm việc nhóm tốt hơn khi nhiều người biết framework của bạn.
+Tương tự như frontend, về phía backend cũng tương tự, nguyên tắc DRY (Don't repeat yourself) dạy ta rằng không nên phát minh lại cái bánh xe, những thứ phải làm thường xuyên như thêm xóa sửa dữ liệu đã được đơn giản hóa rất nhiều bằng các framework, giúp bạn làm việc nhanh hơn, giảm bug phát sinh không cần thiết. Mình khuyên là bạn nên chọn framework nào được nhiều người dùng nhất, chắc chắn bạn sẽ làm việc nhóm tốt hơn khi nhiều người biết framework của bạn.
 
 Hiện mình chủ yếu làm việc với php nên mình chọn [Laravel](https://laravel.com/) và [Codeigniter](https://codeigniter.com/)
 
@@ -51,9 +51,9 @@ Ngoài chrome developer tool quen thuộc thì bạn cũng nên cài vài extens
 
 ## Nguồn ảnh và chỉnh sửa hình ảnh
 
-Bạn cần hình ảnh để đăng lên blog, tuy nhiên các ảnh trên internet đa phần là có bản quyền, bạn lại không phải là nhiếp ảnh gia để tự chụp ảnh cho riêng mình. Bạn có thể lên [FreePik](http://www.freepik.com/) để tìm kiếm hình ảnh, hầu hết các ảnh ở đây đều miễn phí và cho phép tải ở định dạng bitmap hay vector. Điều này là cực kỳ cần thiết, tránh phiền phức bản quyền sau này. 
+Bạn cần hình ảnh để đăng lên blog, tuy nhiên các ảnh trên internet đa phần là có bản quyền, bạn lại không phải là nhiếp ảnh gia để tự chụp ảnh cho riêng mình. Bạn có thể lên [FreePik](http://www.freepik.com/) để tìm kiếm hình ảnh, hầu hết các ảnh ở đây đều miễn phí và cho phép tải ở định dạng bitmap hay vector. Điều này là cực kỳ cần thiết, tránh các vấn đề phiền phức về bản quyền sau này. 
 
-Dân web developer thường không chuyên về đồ họa lắm, tuy nhiên bạn vẫn phải biết sử dụng photoshop, illustrator để cắt giao diện sang html, css. Trên linux mình hay sử dụng gimp,  tuy không bằng photoshop nhưng cái này cũng khá hay, hỗ trợ đầy đủ các tác vụ thông thường, và miễn phí.
+Dân web developer thường không chuyên về đồ họa lắm, tuy nhiên bạn vẫn phải biết sử dụng photoshop, illustrator ở mức cơ bản để cắt giao diện sang html, css. Trên linux mình hay sử dụng gimp,  tuy không bằng photoshop nhưng cái này cũng khá hay, hỗ trợ đầy đủ các tác vụ thông thường, và miễn phí.
 
 Khi thiết kế hoặc cả khi code, đôi khi bạn cần một màu nào đó ngay lập tức, hãy đến website [http://color.hairpixcel.com](http://color.hairpixcel.com) và click, bạn sẽ có một màu đẹp.
 
