@@ -348,7 +348,7 @@ h3.related_post_heading {
 	width: 100% !important;
 }
 
-@media (max-width:960px){
+@media (max-width:1000px){
 	.container {
 		max-width: 90%;
 	}
