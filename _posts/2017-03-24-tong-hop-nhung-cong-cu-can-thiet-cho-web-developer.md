@@ -47,11 +47,11 @@ Hiện mình chủ yếu làm việc với php nên mình chọn [Laravel](https
 
 ## Vài chrome extension hữu ích
 
-Ngoài chrome developer tool quen thuộc thì bạn cũng nên cài vài extension mở rộng như [color zilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp) để chọn màu trên trang web nhanh và chính xác, [measureit](https://chrome.google.com/webstore/detail/measureit/pokhcahijjfkdccinalifdifljglhclm?hl=vi) để đo đạc khi cắt giao diện cho chuẩn, 
+Ngoài chrome developer tool quen thuộc thì bạn cũng nên cài vài extension mở rộng như [color zilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp) để chọn màu trên trang web nhanh và chính xác, [measureit](https://chrome.google.com/webstore/detail/measureit/pokhcahijjfkdccinalifdifljglhclm?hl=vi) để đo đạc khi cắt giao diện cho chuẩn.
 
 ## Nguồn ảnh và chỉnh sửa hình ảnh
 
-Bạn cần hình ảnh để đăng lên blog, tuy nhiên các ảnh trên internet đa phần là có bản quyền, bạn lại không phải là nhiếp ảnh gia để tự chụp ảnh cho riêng mình. Bạn có thể lên FreePik để tìm kiếm hình ảnh, hầu hết các ảnh ở đây đều miễn phí và cho phép tải ở định dạng bitmap hay vector. Điều này là cực kỳ cần thiết, tránh phiền phức bản quyền sau này. 
+Bạn cần hình ảnh để đăng lên blog, tuy nhiên các ảnh trên internet đa phần là có bản quyền, bạn lại không phải là nhiếp ảnh gia để tự chụp ảnh cho riêng mình. Bạn có thể lên [FreePik](http://www.freepik.com/) để tìm kiếm hình ảnh, hầu hết các ảnh ở đây đều miễn phí và cho phép tải ở định dạng bitmap hay vector. Điều này là cực kỳ cần thiết, tránh phiền phức bản quyền sau này. 
 
 Dân web developer thường không chuyên về đồ họa lắm, tuy nhiên bạn vẫn phải biết sử dụng photoshop, illustrator để cắt giao diện sang html, css. Trên linux mình hay sử dụng gimp,  tuy không bằng photoshop nhưng cái này cũng khá hay, hỗ trợ đầy đủ các tác vụ thông thường, và miễn phí.
 
@@ -91,7 +91,7 @@ Bạn cũng cần có thói quen ghi lại mọi thứ, đôi khi ở một nơi
 
 **Zoho mail**: Giúp bạn tạo email theo tên miền riêng miễn phí, dạng your_name@domain.com rất chuyên nghiệp.
 
-Đến đây thì mình viết mệt quá rồi, chắc chắn có thể còn thiếu, mình sẽ bổ sung khi nghĩ ra, đã gần 4 giờ sáng rồi. Hi vọng bài viết này giúp được chút gì đó cho bạn, chúc bạn thành công.
+Đến đây thì mình viết mệt quá rồi, chắc chắn có thể còn thiếu, mình sẽ bổ sung khi nghĩ ra, đã gần 4 giờ sáng, hi vọng bài viết này giúp được chút gì đó cho bạn, chúc bạn thành công.
 
 
 
