@@ -87,8 +87,6 @@ Bạn cũng cần có thói quen ghi lại mọi thứ, đôi khi ở một nơi
 
 **Google Webmaster Tool**: là một công cụ hỗ trợ bạn quản lý website được cung cấp miễn phí bởi Google.
 
-**Google Analytic**: là quản lý lượt truy cập thì Google Webmster Tool quản lý các liên kết đến website và các từ khóa mà người dùng dùng để truy cập vào Website bạn.
-
 **Google Analytic**: một công cụ phân tích Website hết sức tin cậy, đây được xem là công cụ rất hiệu quả dành cho những Webmaster và những người làm SEO khi muốn thông kê những thông tin về website của mình.
 
 **Zoho mail**: Giúp bạn tạo email theo tên miền riêng miễn phí, dạng your_name@domain.com rất chuyên nghiệp.
