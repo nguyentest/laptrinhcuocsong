@@ -27,7 +27,7 @@ Trong điều kiện lý tưởng, trang web sẽ được test trên mọi thi�
 
 Phương pháp này chủ yếu để test sự tương thích với các trình duyệt web mặc định của hệ điều hành, mặc dù không thể thay thế cho thiết bị vật lý, test website trên phần mềm giả lập vẫn là phương pháp cho hiệu quả khá tốt. Trải nghiệm người dùng trên phần mềm giả lập vẫn chưa hoàn toàn giống như trên thiết bị thật với nhiều yếu tố biến đổi như: tốc độ mạng, mật độ điểm ảnh, kích thước điểm chạm, độ dài ngón tay, phần cứng thiết bị...
 
-May mắn thay, android và iOS là hai hệ điều hành di động phổ biến, khi bài test vượt qua 2 hệ điều hành phổ biến này, bạn có thể yên tâm rằng website của chúng ta đã tương thích với đa số thiết bị trên thế giới. Trình giả lập iOS có sẵn trong Xcode và trình giả lập android đã có trong bộ android sdk, ngoài ra còn vài trình giả lập khác như genymotion hay bluestack.
+May mắn thay, android và iOS là hai hệ điều hành di động phổ biến, khi bài test vượt qua 2 hệ điều hành phổ biến này, bạn có thể yên tâm rằng website của chúng ta đã tương thích với đa số thiết bị trên thế giới. Trình giả lập iOS có sẵn trong Xcode và trình giả lập android đã có trong bộ android sdk, ngoài ra còn vài trình giả lập khác như genymotion hay bluestack miễn phí luôn sẵn sàng để các lập trình viên tải về và sử dụng.
 
 ## 3. Test trên BrowserStack
 
