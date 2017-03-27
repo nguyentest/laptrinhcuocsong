@@ -31,7 +31,7 @@ May mắn thay, android và iOS là hai hệ điều hành di động phổ bi�
 
 ## 3. Test trên BrowserStack
 
-Có một dịch vụ khá hay tên là BrowserStack, trang web này cung cấp cho chúng ta bộ giả lập nhiều thiết bị ngay trên nền web mà không cần phải cài đặt bất kỳ phần mềm nào trên máy tính của mình. Có rất nhiều thiết bị "ảo" cho bạn lựa chọn, từ các thiết bị android, ios, windows phone và cả máy tính chạy Mac với nhiều phiên bản khác nhau. Tin buồn đây là dịch vụ trả phí, với phiên bản miễn phí bạn chỉ được test trong vòng 20 phút, tuy nhiên đây là dịch vụ khá hay dành cho bạn test website cá nhân hoặc cho các dự án có nguồn kinh phí hạn hẹp.
+Có một dịch vụ khá hay tên là [BrowserStack](https://www.browserstack.com), trang web này cung cấp cho chúng ta bộ giả lập nhiều thiết bị ngay trên nền web mà không cần phải cài đặt bất kỳ phần mềm nào trên máy tính của mình. Có rất nhiều thiết bị "ảo" cho bạn lựa chọn, từ các thiết bị android, ios, windows phone và cả máy tính chạy Mac với nhiều phiên bản khác nhau. Tin buồn đây là dịch vụ trả phí, với phiên bản miễn phí bạn chỉ được test trong vòng 20 phút, tuy nhiên đây là dịch vụ khá hay dành cho bạn test website cá nhân hoặc cho các dự án có nguồn kinh phí hạn hẹp.
 
 ## 4. Sử dụng chrome developer tool
 
