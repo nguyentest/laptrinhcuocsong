@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Đăng ký nhận bài viết qua email
 ---
 <p>Nếu bạn thấy blog này có ích, hãy để lại email. Nếu có bài viết mới, chúng tôi sẽ gửi nó cho bạn qua email vào 7h đến 9h sáng hàng ngày.</p>
