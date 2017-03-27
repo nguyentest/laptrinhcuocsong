@@ -15,7 +15,9 @@ gems:
   - jekyll-sitemap
   - jekyll-feed
   - jemoji
-
+defaults:
+  values:
+    layout: "post"
 # Exclude these files from your production _site
 exclude:
   - Gemfile
