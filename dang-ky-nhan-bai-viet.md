@@ -20,8 +20,8 @@ title: Đăng ký nhận bài viết qua email
 
 Sau khi điền email và nhấn nút "Đăng ký" ở trên, hãy điền mã xác nhận và nhấn nút "Complete Subscription Request"
 
-[Đăng ký nhận email](images/nhan-email-1.png)
+![Đăng ký nhận email](images/nhan-email-1.png)
 
 Bạn sẽ nhận được một email xác nhận việc đăng ký, hãy click vào link trong email để hoàn tất đăng ký.
 
-[Đăng ký nhận email](images/nhan-email-2.png)
+![Đăng ký nhận email](images/nhan-email-2.png)
