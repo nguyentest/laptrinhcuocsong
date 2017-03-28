@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Series tạo app mobile cho website wordpress - Phần 1\: Sử dụng wordpress làm backend
+title: Series tạo app mobile cho website wordpress - Phần 1 - Sử dụng wordpress làm backend
 thumbnail: mobile-app.jpg
 category: Chuyện lập trình
 ---
