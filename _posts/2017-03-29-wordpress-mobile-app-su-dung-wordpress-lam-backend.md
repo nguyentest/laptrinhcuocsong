@@ -8,7 +8,7 @@ Trong series này mình sẽ cùng các bạn lập trình ứng dụng mobile (
 
 App mobile của chúng ta sẽ bao gồm 2 phần:
 
-- **Backend**: Làm công việc xử lý lưu trữ dữ liệu, trả về dữ liệu cho client. Trong series này chúng ta sẽ lập trình một plugin cho website wordpress để làm backend. Plugin này mình đã hoàn thành và đặt tên là "Open hybrid", bạn có thể tải về trên wordpress store tại đây hoặc tìm "Open hybrid" trong trang quản trị wordpress.
+- **Backend**: Làm công việc xử lý lưu trữ dữ liệu, trả về dữ liệu cho client. Trong series này chúng ta sẽ lập trình một plugin cho website wordpress để làm backend. Plugin này mình đã hoàn thành và đặt tên là "Open hybrid", bạn có thể tải về trên wordpress store [tại đây](https://wordpress.org/plugins/open-hybrid/) hoặc tìm "Open hybrid" trong trang quản trị wordpress.
 
 - **Frontend**: Chính là cái app cài trên điện thoại hay máy tính bảng, nhận dữ liệu từ backend và hiển thị ra cho người dùng. Do mình không biết lập trình android, ios, nên mình sẽ làm hybrid app bằng phonegap.
 
@@ -82,8 +82,8 @@ function process_request(){
 
 Ở đoạn code trên, nếu người dùng truy cập www.domain.com thì coi như không có chuyện gì xảy ra, họ xem trang web như bình thường, nếu người dùng truy cập từ app, chúng ta sẽ gọi lên website kèm theo tham số json. Mục đích là để phân biệt người truy cập website thông thường và thông qua app.
 
-Nếu gọi www.domain.com?json=post_list chúng ta sẽ trả về danh sách bài viết
-Nếu gọi www.domain.com?json=post_detail&post_id={id_bai_viet} chúng ta sẽ trả về chi tiết một bài viết
+Nếu gọi `www.domain.com?json=post_list` chúng ta sẽ trả về danh sách bài viết
+Nếu gọi `www.domain.com?json=post_detail&post_id={id_bai_viet}` chúng ta sẽ trả về chi tiết một bài viết
 
 ## Trả về nội dung json bằng hàm response:
 
@@ -97,7 +97,7 @@ function response($data){
 }
 ```
 
-Công việc tiếp theo là viết 2 hàm get_post_list và get_post_detail, nếu các bạn đã sử dụng wordpress thì hoàn toàn không có khó khăn gì cả, mình vẫn sử dụng cái loop huyền thoại của wordpress thôi.
+Công việc tiếp theo là viết 2 hàm `get_post_list` và `get_post_detail`, nếu các bạn đã sử dụng wordpress thì hoàn toàn không có khó khăn gì cả, mình vẫn sử dụng cái loop huyền thoại của wordpress thôi.
 
 ```javascript
 // Get post list
