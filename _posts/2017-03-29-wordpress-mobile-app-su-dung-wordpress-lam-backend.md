@@ -162,3 +162,105 @@ Trong phần 2, chúng ta sẽ cùng lập trình app mobile để tương tác 
 ![wordpress](images/wordpress-app-2.png)
 
 Đây là toàn bộ file main.php của chúng ta:
+
+```javascript
+<?php
+/**
+ * Plugin Name: Open Hybrid
+ * Plugin URI: http://laptrinhcuocsong.com
+ * Description: Plugin for the OpenHybirdWordpress, OpenHybirdWordpress is a free opensource project to build mobile applications use phonegap and wordpress.
+ * Version: 0.2
+ * Author: Bùi văn Nguyện
+ * Author URI: http://buivannguyen.com
+ * License: GPLv2 or later
+ */
+
+// hook template_redirect 
+add_action( 'template_redirect', 'process_request' );
+
+// process request
+function process_request(){
+	global $wp_query;
+
+	if (! $_GET['json']){
+        return;
+    }
+
+    $action = $_GET['json'];
+    $data = array();
+    
+    switch ($action) {
+        case 'post_list':
+            $data = get_post_list();
+        break;
+
+        case 'post_detail':
+            $data = get_post_detail();
+        break;
+    }
+
+    response($data);
+}
+
+
+// Get post list
+function get_post_list() {
+
+    $api_posts = new wp_query(
+        array(
+            'post_type'   => 'post',
+            'post_status' => 'publish',
+            'paged'       => intval($_GET['page'])
+        )
+    );
+
+    $response = new stdClass();
+    $response->total_pages = $api_posts->max_num_pages;
+
+    // get post data
+    $posts_data = array();
+
+    if ($api_posts->have_posts()){
+        while($api_posts->have_posts()){
+            $api_posts->the_post();
+            $new_post            = new stdClass();
+            $new_post->id        = get_the_ID();
+            $new_post->title     = get_the_title();
+            $new_post->excerpt   = get_the_excerpt();
+            $new_post->content   = get_the_content('');
+            $new_post->thumbnail = get_the_post_thumbnail_url(get_the_ID());
+            $posts_data[]        = $new_post;
+        }
+    }
+    wp_reset_query();
+
+    $response->posts = $posts_data;
+
+    return $response;
+}
+
+// get post detail
+function get_post_detail(){
+
+    $post_id = intval($_GET['post_id']);
+    $post    = get_post($post_id);
+    
+    $return_post            = new stdClass();
+    $return_post->id        = $post->ID;
+    $return_post->title     = $post->title;
+    $return_post->excerpt   = $post->excerpt;
+    $return_post->content   = nl2br($post->post_content);
+    $return_post->thumbnail = get_the_post_thumbnail_url($post_id);
+    return $return_post;
+}
+
+// output json
+function response($data){
+    header("Content-type: application/json; charset=utf-8");
+    header("access-control-allow-origin: *");
+    echo json_encode($data);
+    die();
+}
+
+?>
+```
