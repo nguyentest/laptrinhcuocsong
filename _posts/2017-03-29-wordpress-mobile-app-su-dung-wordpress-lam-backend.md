@@ -19,8 +19,9 @@ App mobile của chúng ta sẽ bao gồm 2 phần:
 
 ```javascript
 |---- wp-content
-|----|---- open-hybrid
-|----|----|---- main.php
+|----|---- plugins
+|----|----|---- open-hybrid
+|----|----|----|---- main.php
 ```
 
 ## Đặt tên và các thông tin cơ bản của plugin:
