@@ -83,6 +83,7 @@ function process_request(){
 Ở đoạn code trên, nếu người dùng truy cập www.domain.com thì coi như không có chuyện gì xảy ra, họ xem trang web như bình thường, nếu người dùng truy cập từ app, chúng ta sẽ gọi lên website kèm theo tham số json. Mục đích là để phân biệt người truy cập website thông thường và thông qua app.
 
 Nếu gọi `www.domain.com?json=post_list` chúng ta sẽ trả về danh sách bài viết
+
 Nếu gọi `www.domain.com?json=post_detail&post_id={id_bai_viet}` chúng ta sẽ trả về chi tiết một bài viết
 
 ## Trả về nội dung json bằng hàm response:
