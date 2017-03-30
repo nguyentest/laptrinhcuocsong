@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Những phần mềm nên cài đặt trên ubuntu
-thumbnail: phan-mem-ubuntu.jpg
 category: Linux - ubuntu
 ---
 
