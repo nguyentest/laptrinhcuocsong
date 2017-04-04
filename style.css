@@ -390,6 +390,9 @@ h3.related_post_heading {
 	#sidebar ul li a:after {
 		display: none;
 	}
+	#fb-follow-sidebar {
+		display: none;
+	}
 	
 	.post, .category_detail {
 		padding: 0px;
