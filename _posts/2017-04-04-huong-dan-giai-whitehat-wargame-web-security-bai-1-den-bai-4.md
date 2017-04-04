@@ -11,13 +11,13 @@ related_posts:
  - title: Xem video này bạn sẽ muốn ngồi vào bàn và lập trình ngay lập tức
    link: http://laptrinhcuocsong.com/xem-video-nay-ban-se-muon-ngoi-vao-va-lap-trinh-ngay-lap-tuc.html
 ---
-WhiteHat WarGame là trang web hacking test của diễn đàn hacker mũ trắng Việt Nam do lão Quảng BKAV tạo ra :) được thiết kế dạng capture the flag với nhiều cấp độ từ dễ đến khó. Rất hữu ích cho các bạn mới tìm hiểu về lĩnh vực bảo mật thông tin. Trong bài viết này mình sẽ hướng dẫn các bạn giải từ bài 1 đến bài 4 của web security challenge
+WhiteHat WarGame là trang web hacking test của diễn đàn hacker mũ trắng Việt Nam do lão Quảng BKAV tạo ra :) được thiết kế dạng capture the flag với nhiều cấp độ từ dễ đến khó. Rất hữu ích cho các bạn mới tìm hiểu về lĩnh vực bảo mật thông tin. Trong bài viết này mình sẽ hướng dẫn các bạn giải từ bài 1 đến bài 4 của web security challenge.
 
 Bạn có thể xem tất cả các thử thách tại đây: [https://wargame.whitehat.vn/Challenges/List/2](https://wargame.whitehat.vn/Challenges/List/2)
 
 ## Bài 1:
 
-Đây có thể là level cơ bản nhất nên rất dễ dàng tìm ra, cờ được giấu ở mã ẩn của code HTML bình thường. Chỉ cần view source ra là sẽ thấy, copy nó và nộp bài là xong
+Đây có thể là level cơ bản nhất nên rất dễ dàng tìm ra, cờ được giấu ở mã ẩn của code HTML bình thường. Chỉ cần view source ra là sẽ thấy, copy nó và nộp bài là xong.
 
 ![white hat hacking](images/whitehat-wargame-1.JPG)
 
@@ -30,7 +30,7 @@ Kết quả:
 ![white hat hacking](images/whitehat-wargame-2.jpg)
 
 
-Quá tốt, việc còn lại chỉ là xem file /protected/s3cr37.txt và cờ đã hiện ra :)
+Quá tốt, việc còn lại chỉ là xem file `/protected/s3cr37.txt` và cờ đã hiện ra :)
 
 ## Bài 3:
 
