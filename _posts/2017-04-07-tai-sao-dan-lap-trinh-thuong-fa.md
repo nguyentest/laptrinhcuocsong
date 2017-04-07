@@ -31,7 +31,7 @@ Nói chuyện với gái, các ông lảm nhảm về code, server với fix bug
 
 Trong tình trạng tự kỷ của anh em ngày càng gia tăng, buổi sáng code, trưa làm tạm gói Hảo Hảo rồi lại code, đến buổi tối, thời điểm cho các cặp đôi hẹn hò, thì lại ngồi code nốt. Việc cấp thiết nhất là chúng ta phải thay đổi chính mình, không sao, sai thì sửa, bug thì fix, mục tiêu là để có gấu, vì cuộc sống không chỉ có những dòng code, mà còn có cả tình yêu.
 
-Đừng vùi đầu vào code, thay vì code ngày đêm, hãy học cách code thông minh hơn, để có thời gian rảnh, hãy dành cho nàng một cơ hội để bước vào cuộc đời bạn, ra ngoài đi, buổi tối tranh thủ đi giao lưu bạn bè, biết đâu lại gặp nàng ở một nơi nào đó.
+Đừng vùi đầu vào code, thay vì code ngày đêm, hãy học cách code thông minh hơn, để có thời gian rảnh, hãy dành cho nàng một cơ hội để bước vào cuộc đời bạn. Có bao giờ bạn cảm thấy cô đơn, hay cần một người có thể chia sẻ những đam mê của mình và cáu giận khi gặp bug hay không? ra ngoài đi, buổi tối tranh thủ đi giao lưu bạn bè, biết đâu lại gặp nàng ở một nơi nào đó. 
 
 ## Nhưng mẹ em bảo là code giỏi gái nó mới theo
 
