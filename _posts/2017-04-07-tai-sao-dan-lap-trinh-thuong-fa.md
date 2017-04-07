@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tại sao dân lập trình thường FA
-thumbnail: coder-love.jpg
+thumbnail: nguoi-dan-ong-rau-ria.jpg
 category: Chuyện bên lề
 related_posts:
  - title: Xem video này bạn sẽ muốn ngồi vào bàn và lập trình ngay lập tức
