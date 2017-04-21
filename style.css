@@ -210,6 +210,12 @@ a:hover, a:active {
 	padding-bottom: 25px;
 	line-height: 30px;
 }
+.post-body p {
+	padding-bottom: 25px;
+	line-height: 30px;
+	text-align: justify;
+	font-size: 17px;
+}
 .post-body h2 {
     padding-bottom: 5px;
     margin-bottom: 25px;
