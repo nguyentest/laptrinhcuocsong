@@ -128,7 +128,7 @@ Khi người dùng di chuyển chuột (mouse move) nếu drawing == true, tức
 this.proccessMouseMove = function(event){
     if (this.drawing){
         var newPos = this.getMousePosition(event);
-        this.drawLine(this.x, this.y, newPos.x, newPos.y, 2, '#000000');
+        this.drawLine(this.x, this.y, newPos.x, newPos.y);
         this.x = newPos.x;
         this.y = newPos.y;
     }
