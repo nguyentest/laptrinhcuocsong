@@ -31,6 +31,8 @@ Ngay từ khi bắt đầu dự án này, mình đã cảm giác rằng nó sẽ
 
 Tớ đã cố biện minh cho mình rằng mình đã cố gắng hết sức nhưng tại cái này, tại cái kia mà quên mất tại chính cách giao tiếp không tốt với các thành viên trong team, mới vào công ty được 2 tháng, mình đã cố hòa nhập nhưng xem ra vẫn chưa được bao nhiêu, đáng lẽ ra chỉ cần một cuộc nói chuyện ngắn với anh em, mình sẽ hiểu nhanh vấn đề hơn, và giải quyết nó sớm nhất có thể, không phải làm đi làm lại, nhưng mình đã không làm thế.
 
+## Kết
+
 Tớ thấy viết là một cách rất hay để xả stress, trong khi viết, chúng ta nhìn nhận vấn đề khách quan hơn, rõ ràng và tổng quát hơn rất nhiều. Bài viết chỉ là chút ghi lại, như đã nói, để xả stress, vì đây thực sự là quãng thời gian tồi tệ với mình, mà thật ra tình hình nó cũng không phải là tồi tệ lắm, tại tự mình nghĩ thế thôi.
 
 
