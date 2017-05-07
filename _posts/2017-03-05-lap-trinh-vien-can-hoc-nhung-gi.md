@@ -38,7 +38,7 @@ Mình nói thật, không biết tiếng Anh thì đừng có hòng lập trình
 
 ## Chuyên môn về kỹ thuật:
 
-Lập trình là một ngành kỹ thuật (of cource :smile:) thế nên bạn phải trang bị cho mình những kiến thức về kỹ thuật nhất định. Vậy cụ thể lập trình viên cần học những gì? Có thể chia lũ "code thuê" ra làm mấy loại như sau, bạn chỉ việc chọn một cái mà bạn thích nhất, và lao vào nghiên cứu.
+Lập trình là một ngành kỹ thuật (of course :smile:) thế nên bạn phải trang bị cho mình những kiến thức về kỹ thuật nhất định. Vậy cụ thể lập trình viên cần học những gì? Có thể chia lũ "code thuê" ra làm mấy loại như sau, bạn chỉ việc chọn một cái mà bạn thích nhất, và lao vào nghiên cứu.
 
 **Mảng mobile**: 
 
