@@ -43,7 +43,6 @@ File nén zip như thế này:
 Ở file upgrade.php chúng ta sẽ thực hiện lấy số phiên bản mới nhất bằng cách đọc file get_version.php từ remote server.
 
 ```javascript
-<?php
 set_time_limit (60);
 
 define('UPGRADE_SERVER_URL', 'http://update.your-domain.com/');
@@ -56,7 +55,6 @@ echo 'Remote_version: '.$remote_version.'<br>';
 function get_version(){
     return file_get_contents(UPGRADE_SERVER_URL.'get_version.php');
 }
-?>
 ```
 
 Chúng ta thực hiện so sánh phiên bản hiện tại với phiên bản mới nhất trên remote server, nếu phiên bản hiện tại chưa phải là phiên bản mới nhất mới thực hiện nâng cấp.
@@ -66,9 +64,11 @@ function upgrade_available(){
     global $remote_version;
     return version_compare($remote_version, WEBSITE_VERSION) == 1;
 }
+```
 
 Đầu tiên, chúng ta tải file zip tương ứng về thư mục upgrade
 
+```javascript
 function download_upgrade_package(){
     global $remote_version;
     echo 'Downloading upgrade package<br>';
