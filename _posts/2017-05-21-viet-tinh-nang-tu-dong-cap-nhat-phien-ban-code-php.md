@@ -11,7 +11,7 @@ related_posts:
  - title: Tổng hợp tất tần tật những công cụ cần thiết cho web developer
    link: http://laptrinhcuocsong.com/tong-hop-nhung-cong-cu-can-thiet-cho-web-developer.html
 ---
-Nếu bạn có ý định phát hành code php của mình ra cộng đồng, hãy nghĩ đến việc tạo cho nó tính năng tự động cập nhật phiên bản ngay từ khi bắt đầu. Bởi vì khi code đã được sử dụng, việc nâng cấp là việc rất khó khăn với người dùng, phải copy đè file này file kia, chạy câu lệnh này câu lệnh kia cực kỳ phiền phức và dễ sai sót.
+Nếu bạn có ý định phát hành code php của mình ra cộng đồng, hãy nghĩ đến việc tạo cho nó tính năng tự động cập nhật phiên bản ngay từ khi bắt đầu. Bởi vì khi code đã được sử dụng, việc nâng cấp là hết sức khó khăn với người dùng, phải copy đè file này file kia, chạy câu lệnh này câu lệnh kia cực kỳ phiền phức và dễ sai sót.
 
 Hầu hết các CMS hiện nay đều có hệ thống tự động cập nhật phiên bản, dễ thấy nhất là wordpress, khi có phiên bản mới từ nhà phát triển, wordpress sẽ hiện "Cập nhật hệ thống" và người dùng chỉ cầm bấm nút cập nhật, họ đã có phiên bản mới nhất.
 
