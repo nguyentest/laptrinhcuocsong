@@ -15,7 +15,7 @@ Nếu bạn có ý định phát hành code php của mình ra cộng đồng, h
 
 Hầu hết các CMS hiện nay đều có hệ thống tự động cập nhật phiên bản, dễ thấy nhất là wordpress, khi có phiên bản mới từ nhà phát triển, wordpress sẽ hiện "Cập nhật hệ thống" và người dùng chỉ cầm bấm nút cập nhật, họ đã có phiên bản mới nhất.
 
-Quá trình nâng cấp gồm các bước sau:
+## Quá trình nâng cấp gồm các bước sau:
 
 - Bước 1: Chuyển website về chế độ bảo trì: Khi người dùng truy cập vào sẽ có thông báo hệ thống đang bảo trì.
 - Bước 2: Sao lưu phiên bản code hiện tại: Việc này nhằm tránh trường hợp nếu cập nhật không thành công vẫn có thể restore về phiên bản cũ.
@@ -26,13 +26,13 @@ Quá trình nâng cấp gồm các bước sau:
 
 Chúng ta sẽ viết tính năng tương tự như thế nhưng ở mức độ đơn giản hơn, chỉ thực hiện bước 3, 4 và 5, tức là tải bản code cập nhật mới từ remote server về hosting, giải nén, ghi đè các file cũ và nâng cấp cơ sở dữ liệu.
 
-Cấu trúc thư mục như sau:
+**Cấu trúc thư mục như sau**:
 
 ![Cấu trúc thư mục](images/upgrade_folder_struct.png)
 
 Thư mục server được chạy trên website của nhà phát triển (tức là chúng ta) tạm gọi là remote server, bao gồm file get_version.php để trả về chuối phiên bản hiện tại (1.0.1 chẳng hạn), file nén zip tương ứng chứa các file cần ghi đè và file upgrade_database.php gồm các câu lệnh query để nâng cấp cơ sở dữ liệu.
 
-File nén zip như thế này:
+**File nén zip như thế này**:
 
 ![File nén](images/upgrade_php.png)
 
