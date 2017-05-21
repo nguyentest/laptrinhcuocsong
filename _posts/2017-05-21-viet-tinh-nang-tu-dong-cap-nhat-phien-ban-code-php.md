@@ -159,7 +159,7 @@ function copy_files($files){
 }
 ```
 
-Đến đây, khách hàng đã có bộ code mới nhất được tự động lấy từ server của nhà phát triển, nhưng thường thì, việc thay đổi code cũng phải thay đổi database, do vậy chúng ta cho tất cả các câu query cập nhật database vào file zip luôn, nội dung file upgrade_database.php kiểu như sau:
+Đến đây, khách hàng đã có bộ code mới nhất được tự động lấy từ server của nhà phát triển, nhưng thường thì, việc thay đổi code cũng kèm theo thay đổi database, để đơn giản chúng ta cho tất cả các câu query cập nhật database vào file upgrade_database.php trong file zip luôn, nội dung file upgrade_database.php kiểu như sau:
 
 ```javascript
 <?php
@@ -199,13 +199,3 @@ else {
     echo 'You have lastest version';
 }
 ```
-
-
-
-
-
-
-
-
-
-
