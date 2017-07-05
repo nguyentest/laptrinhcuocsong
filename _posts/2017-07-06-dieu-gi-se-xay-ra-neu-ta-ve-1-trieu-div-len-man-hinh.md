@@ -17,6 +17,8 @@ Khi cắt giao diện html/css chúng ta luôn được dạy rằng phải sử
 Mình sẽ dùng PHP đọc từng điểm ảnh của một file ảnh có kích thước 1000x1000 pixcel, lấy các thông số màu sắc RGB, sau đó vẽ lên màn hình các thẻ div có kích thước 1x1 pixcel. Chúng ta sẽ được một hình ảnh được tạo từ 1 triệu thẻ div.
 
 ```javascript
+<div id="image">
+<?php
 set_time_limit(1000000);
 $image = imagecreatefromjpeg('image.jpg');
 
@@ -30,6 +32,8 @@ for($y = 0; $y < $image_width; $y++){
 		echo '<div style="background-color: rgb('.$color['red'].','.$color['green'].','.$color['blue'].')"></div>';
 	}
 }
+?>
+</div>
 ```
 
 Thẻ div#image dùng để bao toàn bộ các div nhỏ 1x1 mà ta đã nói ở trên, mình đặt kích thước của nó bằng kích thước ảnh, các div nhỏ ở trong mình để float left.
