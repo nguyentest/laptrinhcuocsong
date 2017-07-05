@@ -27,23 +27,23 @@ Trong thời gian 5 phút, chrome vẫn load, được khoảng 350k thẻ div
 
 ![thử nhiệm vẽ 1 triệu thẻ div](images/chrome-test-5.png)
 
-10 phút, vẫn không thêm được bao nhiêu
+Sau 10 phút, vẫn không thêm được bao nhiêu
 
 ![thử nhiệm vẽ 1 triệu thẻ div](images/chrome-test-10.png)
 
-15 phút
+Sau 15 phút
 
 ![thử nhiệm vẽ 1 triệu thẻ div](images/chrome-test-15.png)
 
-20 phút
+Sau 20 phút
 
 ![thử nhiệm vẽ 1 triệu thẻ div](images/chrome-test-20.png)
 
-35 phút
+Sau 35 phút
 
 ![thử nhiệm vẽ 1 triệu thẻ div](images/chrome-test-35.png)
 
-Và cuối cùng, điều anh không muốn cứ vẫn luôn xảy ra, chrome đã crash
+Và cuối cùng, điều anh không muốn cứ vẫn luôn xảy ra, chrome đã crash, tuy nhiên, con số 900k thẻ div là khá ấn tượng.
 
 ![thử nhiệm vẽ 1 triệu thẻ div](images/chrome-test-crash.png)
 
