@@ -27,7 +27,7 @@ Trong thời gian 5 phút, chrome vẫn load, được khoảng 350k thẻ div
 
 ![thử nhiệm vẽ 1 triệu thẻ div](images/chrome-test-5.png)
 
-Sau 10 phút, vẫn không thêm được bao nhiêu
+Sau 10 phút, vẫn không thêm được bao nhiêu, nhưng chrome vẫn tiếp tục, kiên trì bền bỉ.
 
 ![thử nhiệm vẽ 1 triệu thẻ div](images/chrome-test-10.png)
 
@@ -35,11 +35,11 @@ Sau 15 phút
 
 ![thử nhiệm vẽ 1 triệu thẻ div](images/chrome-test-15.png)
 
-Sau 20 phút
+Sau 20 phút, tốc độ render đã chậm đi khá nhiều.
 
 ![thử nhiệm vẽ 1 triệu thẻ div](images/chrome-test-20.png)
 
-Sau 35 phút
+Sau 35 phút, cảm thấy hối hận vì đã làm bài test ngu xuẩn này :)
 
 ![thử nhiệm vẽ 1 triệu thẻ div](images/chrome-test-35.png)
 
