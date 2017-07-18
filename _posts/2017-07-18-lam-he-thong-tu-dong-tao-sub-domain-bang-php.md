@@ -27,7 +27,7 @@ Khi đã cấu hình xong, thì tất cả sub-domain sẽ đều trỏ về roo
 abc.domain.com
 xyz.domain.com
 nguyendepzai.domain.com 
-....
+...
 
 
 Tất cả đều hiện trang index.php
