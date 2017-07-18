@@ -23,7 +23,7 @@ Nghe thì có vẻ phức tạp thế thôi chứ nguyên tắc thì đơn giả
 
 Khi đã cấu hình xong, thì tất cả sub-domain sẽ đều trỏ về root của webserver, mở trình duyệt web lên, gõ thử vài sub linh tinh:
 
-
+```javascript
 abc.domain.com
 xyz.domain.com
 nguyendepzai.domain.com 
