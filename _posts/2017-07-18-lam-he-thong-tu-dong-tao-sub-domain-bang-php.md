@@ -11,21 +11,24 @@ related_posts:
  - title: Tổng hợp tất tần tật những công cụ cần thiết cho web developer
    link: http://laptrinhcuocsong.com/tong-hop-nhung-cong-cu-can-thiet-cho-web-developer.html
 ---
-
 Chắc hẳn bạn thấy rất nhiều trang web cung cấp cho người dùng những url như thế này: username.domain.com trong đó username là do người dùng tự chọn. Những sub-domain kiểu này trông rất thân thiện và chuyên nghiệp, rất tuyệt vời phải không? Trong bài viết này, chúng ta sẽ làm nó.
 
 Nghe thì có vẻ phức tạp thế thôi chứ nguyên tắc thì đơn giản cực kỳ, chúng ta sẽ cấu hình để tất cả sub-domain sẽ chạy qua một wildcard DNS record. Cụ thể là trong trang quản trị domain, mình sẽ tạo một DNS record như thế này:
+
 
 ```javascript
 *.domain.com
 ```
 
+
 Khi đã cấu hình xong, thì tất cả sub-domain sẽ đều trỏ về root của webserver, mở trình duyệt web lên, gõ thử vài sub linh tinh:
+
 
 abc.domain.com
 xyz.domain.com
 nguyendepzai.domain.com 
 ....
+
 
 Tất cả đều hiện trang index.php
 
