@@ -12,16 +12,14 @@ related_posts:
    link: http://laptrinhcuocsong.com/tong-hop-nhung-cong-cu-can-thiet-cho-web-developer.html
 ---
 
-Chắc hẳn bạn thấy rất nhiều trang web cung cấp cho người dùng những url như thế này: username.domain.com trong đó username là do người dùng tự chọn. Những sub-domain kiểu này trông rất thân thiện và chuyên nghiệp, rất tuyệt vời phải không? Mình rất thích những trang web như thế, và trong bài viết này, chúng ta sẽ làm tính năng tương tự như vậy.
+Chắc hẳn bạn thấy rất nhiều trang web cung cấp cho người dùng những url như thế này: username.domain.com trong đó username là do người dùng tự chọn. Những sub-domain kiểu này trông rất thân thiện và chuyên nghiệp, rất tuyệt vời phải không? Mình rất thích những trang web như thế, và trong bài viết này, chúng ta sẽ làm tính năng tương tự.
 
-Nghe thì có vẻ phức tạp thế thôi chứ nguyên tắc thì đơn giản cực kỳ, chúng ta sẽ cấu hình để tất cả sub-domain sẽ chạy qua một wildcard DNS record. Cụ thể là trong trang quản trị domain, mình sẽ tạo một DNS record như thế này:
+Nghe thì có vẻ phức tạp thế thôi chứ nguyên tắc thì đơn giản cực kỳ, chúng ta sẽ cấu hình để tất cả sub-domain sẽ chạy qua một wildcard DNS record. Cụ thể là trong trang quản trị domain, mình sẽ tạo một DNS record như sau:
 
 ```javascript
 *.domain.com
 ```
-
-
-Khi đã cấu hình xong, thì tất cả sub-domain sẽ đều trỏ về root của webserver, mở trình duyệt web lên, gõ thử vài sub linh tinh:
+Dấu sao (*) chỉ định cho DNS server biết rằng mọi truy vấn bắt đầu bằng ký tự bất kỳ, sẽ cùng trỏ về webserver của chúng ta. Khi đã cấu hình xong, thì tất cả sub-domain sẽ đều trỏ về root của webserver, mở trình duyệt web lên, gõ thử vài sub linh tinh:
 
 ```javascript
 abc.domain.com
@@ -30,16 +28,16 @@ nguyendepzai.domain.com
 ...
 ```
 
-Tất cả đều hiện trang index.php
+Bạn sẽ thấy tất cả đều hiện trang index.php
 
-Đến đây thì nhiệm vụ cực kỳ đơn giản là tách được cái sub kia ra để lấy username của người dùng, chúng ta có thể dùng htaccess như sau:
+Đến đây thì nhiệm vụ cực kỳ đơn giản là tách cái sub kia ra để lấy username của người dùng, chúng ta có thể dùng htaccess như sau:
 
 ```javascript
 RewriteCond %{HTTP_HOST} ^(^.*)\.domain.com
 RewriteRule (.*)  index.php?username=%1
 ```
 
-Sau đó lấy $username = $_GET['username'] có username rồi thì truy vấn vào database để hiển thị tương ứng, hoặc có một cách khác để lấy chuỗi username này đó là lấy trực tiếp từ $_SERVER["REQUEST_URI"] như sau:
+Sau đó lấy $username = $_GET['username'] có username rồi thì truy vấn vào database để hiển thị nội dung tương ứng cho người dùng đó, hoặc có một cách khác để lấy chuỗi username này đó là lấy trực tiếp từ $_SERVER["REQUEST_URI"] như sau:
 
 ```javascript
 $url = $_SERVER["REQUEST_URI"];
