@@ -15,7 +15,6 @@ Chắc hẳn bạn thấy rất nhiều trang web cung cấp cho người dùng 
 
 Nghe thì có vẻ phức tạp thế thôi chứ nguyên tắc thì đơn giản cực kỳ, chúng ta sẽ cấu hình để tất cả sub-domain sẽ chạy qua một wildcard DNS record. Cụ thể là trong trang quản trị domain, mình sẽ tạo một DNS record như thế này:
 
-
 ```javascript
 *.domain.com
 ```
