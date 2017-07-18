@@ -28,7 +28,7 @@ abc.domain.com
 xyz.domain.com
 nguyendepzai.domain.com 
 ...
-
+```
 
 Tất cả đều hiện trang index.php
 
