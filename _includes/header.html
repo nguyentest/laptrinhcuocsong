@@ -9,9 +9,11 @@
     {% if page.excerpt %}
     <meta name="description" content="{{ page.excerpt| strip_html | strip_newlines }}" />
     <meta property="og:description" content="{{ page.excerpt| strip_html | strip_newlines }}" />
+    <meta property="og:type" content="website" /> 
     {% else %}
     <meta name="description" content="{{ site.description }}">
     <meta property="og:description" content="{{ site.description }}" />
+    <meta property="og:type" content="article" /> 
     {% endif %}
     {% if page.title %}
     <meta property="og:title" content="{{ page.title }}" />
@@ -27,8 +29,8 @@
     {% endif %}
     <link rel='stylesheet' async defer type='text/css' href='{{ site.site_url }}/style.css'>
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}feed.xml" />
-<meta property="fb:app_id" content="299675953750632"/>
-<meta property=”fb:admins” content=”100008271487366″/>
+    <meta property="fb:app_id" content="299675953750632"/>
+    <meta property=”fb:admins” content=”100008271487366″/>
 </head>
 <body>
 <div id="header-outer">
