@@ -38,11 +38,11 @@ Ngược lại với quá trình viết code, để hình thành những ý tư�
 
 Thế giới cần những ý tưởng tuyệt vời của bạn, với vai trò là những developer (nhà phát triển) chứ không phải coder (nhà... viết code). Tôi muốn những câu hỏi sau luôn luôn trong đầu bạn:
 
-- Câu hỏi 1: Phần mềm ghép với (vật nào đó, sự việc nào đó) thì nó sẽ thành cái gì ?
+> Câu hỏi 1: Phần mềm ghép với (vật nào đó, sự việc nào đó) thì nó sẽ thành cái gì ?
 
 Ví dụ: Phần mềm mà ghép với trà đá thì sẽ thành cái gì ? Một mạng xã hội dành cho người thích trà đá ? hay một ứng dụng mobile ship trà đá tận nhà...
 
-Câu hỏi 2: Liệu phần mềm có giúp được gì cho vấn đề này không?
+> Câu hỏi 2: Liệu phần mềm có giúp được gì cho vấn đề này không?
 
 Ví dụ: Bạn đi vào một nơi nào đó, lúc trở ra thì đã bị mất đôi dép tổ ong màu vàng gold yêu quý. Liệu phần mềm giúp được gì cho chuyện này ? Một trang web xã hội với tính năng đăng bài tìm đồ bị mất chẳng hạn. Rất nhiều tình huống và vấn đề cụ thể có thể được giải quyết bằng kỹ năng lập trình của bạn.
 
