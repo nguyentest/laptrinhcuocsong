@@ -27,4 +27,4 @@ exclude:
   - CNAME
   
 # paginate
-paginate: 15
+paginate: 10
