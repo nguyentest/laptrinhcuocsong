@@ -24,7 +24,7 @@ permalink: chuyen-lap-trinh.html
 		  <a href="{{ post.url }}"><img src="{{ site.baseurl }}images/{{ post.thumbnail }}" alt="{{ post.title | xml_escape }}" class="post_thumbnail"></a>
 		  {% endif %}
 		  <div class="excerpt" itemprop="description">
-		    {{ post.excerpt | xml_escape }}
+		    {{ post.excerpt }}
 		  </div>
 		  <div class="clear"></div>
 		</article>
