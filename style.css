@@ -41,7 +41,7 @@ table {
 *, *:before, *:after {
   -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box;
 }
-.hidden-small {display: none}
+
 html {
 	font-size: 100%;
 }
@@ -357,6 +357,7 @@ h3.related_post_heading {
 }
 
 @media (max-width:1000px){
+	.hidden-small {display: none}
 	.container {
 		max-width: 90%;
 	}
