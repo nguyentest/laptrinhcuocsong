@@ -356,7 +356,7 @@ h3.related_post_heading {
 	width: 100% !important;
 }
 
-@media (max-width:1000px){
+@media (min-width:1000px){
 	.only-small {display: none}
 }
 
