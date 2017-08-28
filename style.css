@@ -358,6 +358,9 @@ h3.related_post_heading {
 
 @media (max-width:1000px){
 	.only-small {display: none}
+}
+
+@media (max-width:1000px){	
 	.container {
 		max-width: 90%;
 	}
