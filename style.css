@@ -41,6 +41,7 @@ table {
 *, *:before, *:after {
   -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box;
 }
+.hidden-small {display: none}
 html {
 	font-size: 100%;
 }
