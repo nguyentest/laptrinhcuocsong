@@ -14,6 +14,8 @@ related_posts:
 
 Để trở thành hacker cần phải học gì, cần có những hiểu biết cơ bản gì, hack như thế nào?  Thật sự nó quá khó để trả lời, ngay cả nếu hỏi một hacker chuyên nghiệp, vì họ không có chuyên môn sư phạm, một câu trả lời không thể giúp bạn trở thành hacker , nó là cả một quá trình tích lũy kinh nghiệm. Để không bị chửi hay ném đá, bài viết này mình chỉ chia sẻ và trả lời câu hỏi "Làm thế nào để hack một website" , câu hỏi mà mình nhận được quá nhiều sau khi đăng bài viết "[tôi đã hack Chợ Tốt như thế nào?](http://laptrinhcuocsong.com/toi-da-hack-cho-tot-nhu-the-nao.html)".
 
+![hacker](images/hacker-banner.jpg)
+
 Trước hết phải xác định rằng bạn không phải đang đọc bài viết của một hacker, mà chỉ là một thằng coder quèn bỏ học đại học lang thang code dạo, cá kiếm ít cơm cháo sống qua ngày. Mình hoàn toàn không học về bảo mật thông tin, cũng không kiếm tiền ở lĩnh vực này, chỉ chịu khó tìm tòi nghiên cứu, thi thoảng check những lỗi rất-thông-thường của các website và báo lỗi cho họ. Điển hình là báo lỗi cho Chợ Tốt, VietnamWorks, và hệ thống quản trị thông tin hành chính tỉnh X phát triển bởi VNPT...
 
 Họ thương thì cho ít tiền cafe, không thì mình cũng rất vui vì giúp được một chút gì đó cho họ, cho người dùng, cho ai đó mà mình không biết nữa. Cái mình nhận được từ những ngày nghiên cứu, nghịch ngợm "như một hacker" là một góc nhìn rất mới lạ, thú vị, giúp ích rất nhiều cho công việc lập trình của mình.
