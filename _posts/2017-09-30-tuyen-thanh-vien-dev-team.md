@@ -35,7 +35,7 @@ VietCMS sẽ được public dưới dạng mã nguồn mở GPL, do vậy tạm
 
 Để tham gia VietCms dev team, hãy gửi yêu cầu tham gia group dev team link bên dưới, tất cả các thảo luận, ý tưởng, ý kiến sẽ được đăng vào group này:
 
-https://www.facebook.com/groups/320614101736675
+[https://www.facebook.com/groups/320614101736675](https://www.facebook.com/groups/320614101736675)
 
 ## Khi tham gia, bạn chấp nhận các điều khoản sau:
 
@@ -44,7 +44,7 @@ https://www.facebook.com/groups/320614101736675
 - Admin Lập trình cuộc sống và các bạn lập trình viên đã đi làm có kinh nghiệm sẽ giúp team hoạt động một cách tốt nhất, hãy tôn trọng họ.
 - Nêu ý kiến thảo luận, phản đối hay ủng hộ với thái độ xây dựng, không sử dụng các ngôn từ thiếu văn hóa.
 
-Team sẽ đi vào hoạt động khi có đủ 5 thành viên trở lên.
+## Team sẽ đi vào hoạt động khi có đủ 5 thành viên trở lên.
 
 Nếu bạn không thể tham gia dự án này, bạn cũng có thể ủng hộ chúng tôi bằng cách share bài viết để có thêm thành viên tham gia.
 
