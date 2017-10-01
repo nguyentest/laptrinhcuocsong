@@ -11,7 +11,7 @@ related_posts:
  - title: Tổng hợp tất tần tật những công cụ cần thiết cho web developer
    link: http://laptrinhcuocsong.com/tong-hop-nhung-cong-cu-can-thiet-cho-web-developer.html
 ---
-Thế giới đã chuyển qua một thời đại khác, thời đại của băng thông rộng, tốc độ internet không còn là vấn đề, hàng triệu kênh youtube đã xuất hiện, mang đến phương pháp học tập chia sẻ một cách sinh động và trực quan. Trong phần 1, mình đã giới thiệu [9 kênh youtube mà dân công nghệ nên theo dõi](http://laptrinhcuocsong.com/tong-hop-9-kenh-youtube-ma-dan-cong-nghe-nen-theo-doi.html), hôm nay chúng ta sẽ tiếp tục với những kênh rất bổ ích mà mình đã đăng ký và theo dõi rất thường xuyên.
+Thế giới đã chuyển qua một thời đại khác, thời đại của băng thông rộng, tốc độ internet không còn là vấn đề, hàng triệu kênh youtube đã xuất hiện, mang đến phương pháp học tập chia sẻ một cách sinh động và trực quan. Trong phần 1, mình đã giới thiệu [9 kênh youtube mà dân công nghệ nên theo dõi](http://laptrinhcuocsong.com/tong-hop-9-kenh-youtube-ma-dan-cong-nghe-nen-theo-doi.html), hôm nay chúng ta sẽ tiếp tục với những kênh mà mình đã đăng ký, không kém phần bổ ích và thú vị.
 
 ## Siraj Raval
 
@@ -33,7 +33,7 @@ Xem kênh Điện Tử Sáng Tạo [tại đây](https://www.youtube.com/channel
 
 ![Gigantic](images/youtuber-gigantic.jpg)
 
-Mặc dù là coder, mình vẫn thích các video tutorial về thiết kế đồ họa bằng illustrator trên kênh này. Các video rất dễ hiểu và kích thích sự sáng tạo.
+Mặc dù là coder, mình vẫn thích các video tutorial về thiết kế đồ họa bằng illustrator trên kênh này, đặc biệt là đồ họa game. Các video rất dễ hiểu và kích thích sự sáng tạo.
 
 Xem kênh Gigantic [tại đây](https://www.youtube.com/channel/UCX4mqbvv5lGqLpI4FYlJt4w)
 
