@@ -149,9 +149,6 @@ a:hover, a:active {
 	float: left;
 	margin-bottom: 20px;
 }
-#sidebar ul li {
-
-}
 #sidebar ul li a {
 	display: block;
 	padding: 0px 40px 0px 0px;
@@ -176,9 +173,7 @@ a:hover, a:active {
 	border-bottom: 6px solid transparent;
 	border-top: 6px solid transparent;
 }
-#sidebar ul {
-	margin-top: 60px;
-}
+
 #sidebar ul li a:hover {
 	border-color: #c4c4c4;
 	padding-left: 7px;
