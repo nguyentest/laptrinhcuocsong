@@ -86,14 +86,15 @@ a:hover, a:active {
 	margin: 0px auto;
 }
 .button{
-	display: inline-block;
-	font-weight: 500;
-	color: #1b1b1b;
-	padding: 0 20px;
-	border-radius: 18px;
-	height: 36px;
-	line-height: 36px;
-	border: 1px solid #bfbfbf;
+display: inline-block;
+    font-weight: 500;
+    color: #ffffff;
+    padding: 0 35px;
+    border-radius: 5px;
+    height: 50px;
+    line-height: 50px;
+    border: 1px solid #717171;
+    background-color: #808080;
 }
 #header-outer {
 	background-color: #2c4762;
@@ -307,6 +308,10 @@ h3.related_post_heading {
 }
 .pagination .next-link{
 	float: right;
+}
+.pagination .prev-link:hover, .pagination .next-link:hover {
+	background-color: #9c9c9c;
+	color: white;
 }
 .category_detail p {
 	margin-top: 30px;
