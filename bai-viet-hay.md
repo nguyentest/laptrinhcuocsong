@@ -20,4 +20,12 @@ title: Tổng hợp các bài viết hay trên Blog Lập Trình Cuộc Sống
 
 [Tôi đã hack Chợ Tốt như thế nào](http://laptrinhcuocsong.com/toi-da-hack-cho-tot-nhu-the-nao.html)
 
+[Những phần mềm nên cài đặt trên ubuntu](http://laptrinhcuocsong.com/nhung-phan-mem-nen-cai-dat-tren-ubuntu.html)
+
+[Tổng hợp tất tần tật những công cụ cần thiết cho web developer](http://laptrinhcuocsong.com/tong-hop-nhung-cong-cu-can-thiet-cho-web-developer.html)
+
+Ngoài ra, để có thể nhận được bài viết sớm nhất, bạn có thể click vào đây để đăng ký, khi có bài viết mới, bạn sẽ nhận được nó qua email. Hoặc theo dõi [fanpage](https://www.facebook.com/laptrinhcuocsongdotcom/) hoặc [kênh youtube](https://www.youtube.com/channel/UC5CIt5W4kq4ie0KJEdg2ztg) của Lập trình cuộc sống.
+
+
+
 
