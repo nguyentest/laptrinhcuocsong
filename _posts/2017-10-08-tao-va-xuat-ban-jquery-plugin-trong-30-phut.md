@@ -25,6 +25,8 @@ Hoặc cài đặt thông qua composer: `composer require buivannguyen/jpreview`
 
 Mình bắt đầu tạo một thư mục mới cùng các file cần thiết như sau:
 
+![jpreview](images/jpreview-files.png)
+
 - composer.json : Đây là file chứa các thông tin của gói jpreview để sau khi xuất bản có thể cài đặt bằng composer.
 - demo.html : Là file demo sử dụng plugin của chúng ta.
 - jpreview.js : Đây là file javascript chính, thực hiện xử lý việc xem trước ảnh
@@ -70,6 +72,7 @@ Thế nên chúng ta sẽ viết hàm jPreview, nó được nằm trong `$.fn`
 
 Để có thể hiện ảnh, trước hết phải viết một hàm đọc image data url từ một file bất kỳ.
 
+```javascript
 var jPreview = this;
 
 jPreview.readImageData = function(file, successCallback){
@@ -79,12 +82,15 @@ jPreview.readImageData = function(file, successCallback){
     }
     reader.readAsDataURL(file);
 }
+```
 
 Và hàm thực hiện hiển thị ảnh này ra.
 
+```javascript
 jPreview.addPreviewImage = function(container, imageDataUrl){
     $(container).append('<div class="jpreview-image" style="background-image: url('+ imageDataUrl +')"></div>');
 }
+```
 
 Hàm trên sẽ thêm các div có background là biến imageDataUrl và hiển thị vào div có id là biến container.
 
