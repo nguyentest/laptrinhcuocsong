@@ -74,12 +74,12 @@ h4 {
 	color: $gray;
 }
 a {
-	color: #4183C4;
+	color: #00a9a1;
 	text-decoration: none;
 	cursor: pointer;
 }
 a:hover, a:active {
-	color: #2c557b;
+	color: #006f6a;
 }
 .container {
 	max-width: 1000px;
