@@ -13,3 +13,11 @@ title: Tổng hợp các bài viết hay trên Blog Lập Trình Cuộc Sống
 [Tổng hợp 9 kênh youtube mà dân công nghệ nên theo dõi](http://laptrinhcuocsong.com/tong-hop-9-kenh-youtube-ma-dan-cong-nghe-nen-theo-doi.html)
 
 [Tổng hợp 9 kênh youtube mà dân công nghệ nên theo dõi - Phần 2](http://laptrinhcuocsong.com/tong-hop-nhung-kenh-youtube-ma-dan-cong-nghe-nen-theo-doi-phan-2.html)
+
+[Học làm hacker](http://laptrinhcuocsong.com/hoc-lam-hacker.html)
+
+[Cùng nhau tạo restful API đơn giản với php](http://laptrinhcuocsong.com/cung-nhau-tao-restful-api-don-gian-voi-php.html)
+
+[Tôi đã hack Chợ Tốt như thế nào](http://laptrinhcuocsong.com/toi-da-hack-cho-tot-nhu-the-nao.html)
+
+
