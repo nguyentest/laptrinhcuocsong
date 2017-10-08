@@ -19,7 +19,7 @@ Jquery có lẽ không còn xa lạ với các bạn web developer, nó là mộ
 
 Bạn có thể xem code trên github: [tại đây](https://github.com/buivannguyen/jpreview)
 
-Hoặc cài đặt thông qua composer: composer require buivannguyen/jpreview
+Hoặc cài đặt thông qua composer: `composer require buivannguyen/jpreview`
 
 ## Các file cần thiết
 
@@ -34,7 +34,7 @@ Mình bắt đầu tạo một thư mục mới cùng các file cần thiết nh
 
 Ok, chúng ta bắt đầu với đoạn code tạo plugin kinh điển, nó là anonymous function nhận object jQuery là tham số.
 
-```
+```javascript
 (function ( $ ) {
 
     $.fn.jPreview = function() {
@@ -47,15 +47,15 @@ Ok, chúng ta bắt đầu với đoạn code tạo plugin kinh điển, nó là
 
 Tiếp theo là viết hàm chính jPreview, chúng ta muốn rằng sau khi plugin hoàn thành, nó có thể được gọi như thế này:
 
-```
+```javascript
 $(document).ready(function(){
 	$('.demo').jPreview();
 });
 ```
 
-Thế nên chúng ta sẽ viết hàm jPreview, nó được nằm trong $.fn
+Thế nên chúng ta sẽ viết hàm jPreview, nó được nằm trong `$.fn`
 
-```
+```javascript
 (function ( $ ) {
 
     $.fn.jPreview = function() {
@@ -90,7 +90,7 @@ Hàm trên sẽ thêm các div có background là biến imageDataUrl và hiển
 
 Tiếp theo chúng ta sẽ viết hàm hiển thị ảnh của một cái input bất kỳ, kịch bản là khi input đó thay đổi (change event) thì sẽ lấy từng file của nó, đọc image data url, rồi hiển thị nó ra.
 
-```
+```javascript
 jPreview.preview = function(selector){
     var container = $(selector).data('jpreview-container');
 
@@ -105,16 +105,16 @@ jPreview.preview = function(selector){
 }
 ```
 
-Như các bạn thấy, biến container được lấy từ thuộc tính data-jpreview-container, như vậy người dùng sẽ tiện lợi hơn vì muốn hiện ảnh vào div nào cũng được. Kiểu như:
+Như các bạn thấy, biến container được lấy từ thuộc tính `data-jpreview-container`, như vậy người dùng sẽ tiện lợi hơn vì muốn hiện ảnh vào div nào cũng được. Kiểu như:
 
-```
+```javascript
 <input type="file" data-jpreview-container="#some_div_want_to_preview">
 <div id="some_div_want_to_preview"></div>
 ```
 
-Vì selector có thể nhiều hơn một, ví dụ họ chọn bằng class như thế này: $(".class") chẳng hạn. Thế nên chúng ta phải thực hiện lặp qua tất cả selector để preview
+Vì selector có thể nhiều hơn một, ví dụ họ chọn bằng class như thế này: `$(".class")` chẳng hạn. Thế nên chúng ta phải thực hiện lặp qua tất cả selector để preview
 
-```
+```javascript
 // start it
 var selectors = $(this);
 return $.each(selectors, function(index, selector){
@@ -122,13 +122,55 @@ return $.each(selectors, function(index, selector){
 });
 ```
 
-Ok, đến đây chúng ta đã hoàn thành plugin này, bạn có thể viết thêm tí css cho đẹp, cũng như làm vài cái demo vào demo.html cho nó trông chuyên nghiệp tí. Đây là code hoàn chỉnh:
+Ok, đến đây chúng ta đã hoàn thành plugin này, bạn có thể viết thêm tí css cho đẹp, cũng như làm vài cái demo vào `demo.html` cho nó trông chuyên nghiệp tí. Đây là code hoàn chỉnh:
+
+```javascript
+(function ( $ ) {
+ 
+    $.fn.jPreview = function() {
+        var jPreview = this;
+
+        jPreview.preview = function(selector){
+            var container = $(selector).data('jpreview-container');
+
+            $(selector).change(function(){
+                $(container).empty();
+                $.each(selector.files, function(index, file){
+                    var imageData = jPreview.readImageData(file, function(data){
+                        jPreview.addPreviewImage(container, data);
+                    });
+                });
+            });
+        }
+
+        jPreview.readImageData = function(file, successCallback){
+            var reader = new FileReader();
+            reader.onload = function(event){
+                successCallback(event.target.result);
+            }
+            reader.readAsDataURL(file);
+        }
+        
+        jPreview.addPreviewImage = function(container, imageDataUrl){
+            $(container).append('<div class="jpreview-image" style="background-image: url('+ imageDataUrl +')"></div>');
+        }
+
+        // start it
+        var selectors = $(this);
+        return $.each(selectors, function(index, selector){
+            jPreview.preview(selector);
+        });
+ 
+    };
+ 
+}( jQuery ));
+```
 
 ## Xuất bản plugin để cài được bằng composer
 
 Bước đầu tiên để xuất bản plugin này là tạo file composer.json như sau:
 
-```
+```javascript
 {
     "name": "buivannguyen/jpreview",
     "type": "library",
