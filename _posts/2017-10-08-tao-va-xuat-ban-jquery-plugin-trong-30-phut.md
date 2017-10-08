@@ -195,7 +195,7 @@ Bước đầu tiên để xuất bản plugin này là tạo file composer.json
 }
 ```
 
-Mình tạo một repository trên github tại địa chỉ https://github.com/buivannguyen/jpreview và bắt đầu commit code lên repository này, sau đó tạo bản release phiên bản 1.0
+Mình tạo một repository trên github tại địa chỉ `https://github.com/buivannguyen/jpreview` và bắt đầu commit code lên repository này, sau đó tạo bản release phiên bản 1.0
 
 ![Github](images/jpreview-github.png)
 
