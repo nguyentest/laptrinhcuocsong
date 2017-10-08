@@ -39,11 +39,8 @@ Ok, chúng ta bắt đầu với đoạn code tạo plugin kinh điển, nó là
 ```javascript
 (function ( $ ) {
 
-    $.fn.jPreview = function() {
-        console.log('jPreview loaded');
-         // code xử lý ở đây
-    };
-    
+    // code xử lý ở đây
+   
 }( jQuery ));
 ```
 
