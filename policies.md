@@ -4,15 +4,15 @@ title: Thỏa thuận sử dụng
 permalink: /policies.html
 ---
 
-Khi truy cập trang web này xem những điều khoản dưới đây một cách cẩn trọng. Trong trường hợp quý khách không đồng ý với những điều khoản này, xin quý khách vui lòng không sử dụng trang web.
+Khi truy cập trang web này, hãy đọc những điều khoản dưới đây một cách cẩn trọng, trong trường hợp không đồng ý với những điều khoản này, xin vui lòng không tiếp tục sử dụng trang web.
 
-Khi bạn đọc, tham khảo, trích dẫn hay bất kỳ hình thức nào có liên quan đến việc sử dụng những câu, chữ, đoạn văn, hình ảnh, âm thanh hay ý tưởng được công bố trên trang web này tức là bạn đã đồng ý chấp thuận tuân thủ và chịu sự ràng buộc bởi các điều khoản sử dụng dưới đây và không kiện cáo hay phản bác trong bất cứ trường hợp nào:
+Khi bạn đọc, tham khảo, trích dẫn hay bất kỳ hình thức nào có liên quan đến việc sử dụng những câu, chữ, đoạn văn, hình ảnh, âm thanh hay ý tưởng được công bố trên trang web này tức là bạn đã chấp thuận tuân thủ và chịu sự ràng buộc bởi các điều khoản sử dụng dưới đây và không kiện cáo hay phản bác trong bất cứ trường hợp nào:
 
 ## Trang web và tác giả trang web
 
-**Trang web Lập Trình Cuộc Sống** là blog viết về chủ đề lập trình, đời sống lập trình viên cũng như các vấn đề liên quan đến công nghệ. Các bài viết trên trang web được phát hành miễn phí trên internet và được bảo hộ quyền tác giả.
+Trang web Lập Trình Cuộc Sống là blog viết về chủ đề lập trình, đời sống lập trình viên cũng như các vấn đề liên quan đến công nghệ. Các bài viết trên trang web được phát hành miễn phí trên internet và được bảo hộ quyền tác giả.
 
-**Tác giả trang web Lập Trình Cuộc Sống** (sau đây được gọi tắt là tác giả) là người biên soạn nội dung, chịu trách nhiệm hoàn toàn trước các vấn đề liên quan đến trang web này.
+Tác giả trang web Lập Trình Cuộc Sống (sau đây được gọi tắt là tác giả) là người biên soạn nội dung, chịu trách nhiệm hoàn toàn trước pháp luật về các vấn đề liên quan đến trang web này.
 
 ## Về sự truy cập
 
