@@ -14,6 +14,10 @@ Trang web Lập Trình Cuộc Sống là blog viết về chủ đề lập trì
 
 Tác giả trang web Lập Trình Cuộc Sống (sau đây được gọi tắt là tác giả) là người biên soạn nội dung, chịu trách nhiệm hoàn toàn trước pháp luật về các vấn đề liên quan đến trang web này.
 
+## Về trách nhiệm pháp lý
+
+Tác giả chịu trách nhiệm về tất cả mọi nội dung thông tin cung cấp, lưu trữ, truyền đi trên những dịch vụ web của mình, bảo đảm không vi phạm quy định của pháp luật Việt Nam.
+
 ## Về sự truy cập
 
 Tác giả dùng uy tín và năng lực của cá nhân để nỗ lực hết sức mình nhằm bảo đảm sự an toàn cho tất cả người dùng khi những dịch vụ web của anh ta trong mọi trường hợp lây nhiễm virus, sâu mạng, đánh cắp thông tin cá nhân, hay bất cứ phần mềm nào có khả năng gây ra thiệt hại cho người sử dụng.
@@ -22,13 +26,10 @@ Tác giả không đặt bất cứ giới hạn nào về thời gian, không g
 
 Những dịch vụ web này được tác giả xây dựng dựa trên năng lực, tài chính, thời gian, và ý tưởng của cá nhân. Anh ta có toàn quyền định đoạt số phận của mọi thông tin trong những dịch vụ web của mình, nghĩa là anh ta có quyền xóa, sửa, cắt ghép, thêm, bớt, thay đổi nội dung bất cứ thông tin nào trong những dịch vụ web đó vào bất cứ thời điểm nào mà anh ta cảm thấy thích hợp.
 
-## Về trách nhiệm
+## Về bản quyền và sao chép nội dung
 
-Tác giả chịu trách nhiệm về tất cả mọi nội dung thông tin cung cấp, lưu trữ, truyền đi trên những dịch vụ web của mình, bảo đảm không vi phạm quy định của pháp luật Việt Nam.
-
-## Về bản quyền
-
-Tác giả PHẢN ĐÔÍ bất cứ hành động nào (bao gồm và không giới hạn) việc cố tình cắt ghép, sửa đổi, suy diễn, kể lại, rút ngắn, phát triển, biên tập lại, liên tưởng, đặt giả thuyết, kết luận, biến đổi cấu trúc câu chữ nguyên thủy… mà không được sự đồng ý bằng văn bản, email của anh ta, anh ta từ chối nhận trách nhiệm đối với những hệ quả có thể xảy ra bởi các hành động này.
+Tác giả PHẢN ĐỐI bất cứ hành động nào (bao gồm và không giới hạn) việc cố tình cắt ghép, sửa đổi, suy diễn, kể lại, rút ngắn, phát triển, biên tập lại, liên tưởng, đặt giả thuyết, kết luận, biến đổi cấu trúc câu chữ nguyên thủy… mà không được sự đồng ý bằng văn bản, email của anh ta, anh ta từ chối nhận trách nhiệm đối với những hệ quả có thể xảy ra bởi các hành động này.
 
 Tác giả KHÔNG chấp nhận bất kỳ hình thức đăng tải lại, trích dẫn, cắt ghép một phần hay toàn bộ nội dung để đăng lại ở một nơi khác mà không được sự đồng ý bằng văn bản hay email của anh ta. Hành động này sẽ bị coi là Vi phạm Quyền sở hữu trí tuệ và bạn có thể sẽ bị anh ta kiện theo Luật bảo vệ Quyền sở hữu trí tuệ nước Việt Nam.
+
 
