@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Thỏa thuận sử dụng
-permalink: /thoa-thuan.html
+permalink: /policies.html
 ---
 
 ```javascript
