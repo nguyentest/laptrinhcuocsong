@@ -317,6 +317,7 @@ ul.related_posts {
 .related_posts h3 {
     display: inline-block;
     vertical-align: middle;
+    margin-left: 7px;
 }
 .social-share {
 	margin-top: 25px;
