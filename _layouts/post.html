@@ -7,11 +7,17 @@ layout: default
   <div class="post-body" itemprop="articleBody">
     {{ content }}
     {% if page.related_posts %}
-    <h3 class="related_post_heading">Bài viết có thể bạn quan tâm</h3>
     <ul class="related_posts">
-      {% for related_post in page.related_posts %}
-      <li><a href="{{ related_post.link }}" title="{{ related_post.title }}">{{ related_post.title }}</a></li>
-      {% endfor %}
+      {% for related_post in page.related_posts %}{% for post in site.posts %}{% assign full_post_url = site.site_url | append: post.url %}{% if related_post.link == full_post_url %}
+        <li>
+        {% if post.thumbnail %}
+        <a href="{{ post.url }}"><img src="{{ site.site_url }}/images/{{ post.thumbnail }}" alt="{{ post.title }}"></a>
+        {% else %}
+        <a href="{{ post.url }}"><img src="{{ site.site_url }}/images/thumbnail_default.png" alt="{{ post.title }}"></a>
+        {% endif %}
+        <h3 itemprop="name"><a href="{{ post.url }}" title="{{ post.title | xml_escape }}" >{{ post.title | xml_escape }}</a></h3>
+        </li>
+      {% endif %}{% endfor %}{% endfor %}
     </ul>
     {% endif %}
     <div class="facebook-like">
