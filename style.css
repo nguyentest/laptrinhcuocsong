@@ -292,9 +292,31 @@ code.highlighter-rouge {
     background-color: #125044;
 	color: white;
 }
-h3.related_post_heading {
-    padding-top: 15px;
+ul.related_posts {
     border-top: 1px solid #ebebeb;
+    padding-top: 35px;
+    border-bottom: 1px solid #ebebeb;
+    margin-bottom: 30px;
+}
+.related_posts li {
+    display: block;
+}
+.related_posts li:before {
+	display: none;
+}
+.related_posts a {
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 17px;
+}
+.related_posts a img {
+    display: inline;
+    max-width: 50px;
+    height: auto;
+}
+.related_posts h3 {
+    display: inline-block;
+    vertical-align: middle;
 }
 .social-share {
 	margin-top: 25px;
