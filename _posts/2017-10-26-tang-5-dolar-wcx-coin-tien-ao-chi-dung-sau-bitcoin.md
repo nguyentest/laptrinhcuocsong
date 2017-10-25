@@ -3,6 +3,7 @@ layout: post
 title: Tặng 5$ WCX coin – loại tiền ảo mới đứng thứ 2 thế giới chỉ sau Bitcoin
 category: Chuyện bên lề
 thumbnail: bitcoin.png
+excerpt: Đồng tiền WCX coin được một nhóm các kĩ sư cũ của Apple và IBM tách ra phát triển nên cực kì tiềm năng, phục vụ trong lĩnh vực giao dịch điện tử. Hiện đồng tiền đang trong giai đoạn phát triển nên sẽ tặng cho mỗi người đăng ký tài khoản mới là 50 WCX.
 related_posts:
  - title: 
    link: http://laptrinhcuocsong.com/tong-hop-nhung-kenh-youtube-ma-dan-cong-nghe-nen-theo-doi-phan-2.html
