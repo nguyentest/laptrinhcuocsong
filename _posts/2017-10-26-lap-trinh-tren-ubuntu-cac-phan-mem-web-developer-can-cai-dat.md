@@ -22,11 +22,15 @@ Với nhu cầu đó mình chọn [Sublime text](http://www.sublimetext.com/) v�
 
 Ngoài ra còn có nhiều phần mềm khác cho các bạn lựa chọn: [Brackets](http://brackets.io/), [Visual Studio Code](https://code.visualstudio.com/), [Netbeans](https://netbeans.org/), [Eclipse](https://www.eclipse.org/) ...
 
+![sublime](http://laptrinhcuocsong.com/images/vn-ime.png)
+
 ## Trình duyệt:
 
 Hầu hết thời gian web developer làm việc trên trình duyệt, mà trình duyệt thì tào lao mỗi đứa một kiểu, việc thiết kế trang web tương thích với nhiều trình duyệt luôn là vấn đề nan giải, do đó khuyên bạn nên cài nhiều trình duyệt nhất có thể, để còn test.
 
 Mình dùng chủ yếu [Chrome](https://www.google.com/intl/vi_vn/chrome/browser/desktop/index.html) và [Firefox](https://www.mozilla.org/vi/firefox/new/) cho việc hiển thị, debug javascript
+
+![chrome](http://laptrinhcuocsong.com/images/google-chrome-ubuntu.png)
 
 ## Technical stack: tôi chọn LAMP
 
@@ -48,6 +52,8 @@ Quản lý cơ sở dữ liệu cũng là nhu cầu rất cần thiết, nhưng 
 
 Mình dùng [Mysql workbench](https://www.mysql.com/products/workbench/) và Emma (có trên ubuntu software store)
 
+![Mysql workbench](http://laptrinhcuocsong.com/images/mysql-workbench.png)
+
 ## Phần mềm FTP
 
 Phần mềm FTP là ứng dụng hỗ trợ upload, download thông qua giao thức FTP, nôm na là để chuyển file lên server.
@@ -64,11 +70,15 @@ Bạn vẫn có thể cài đặt photoshop trên ubuntu theo như mình đã gi
 
 Ngoài photoshop mình dùng thêm cả [Inkscape](https://inkscape.org/) và [Gimp](https://www.gimp.org/)
 
+![gimp](http://laptrinhcuocsong.com/images/gimp.png)
+
 ## Vẽ wireframe với Pencil project
 
 Khi cần vẽ wireframe và thể hiện ý tưởng, wireframe là bản phác thảo thô mô tả tổng quan về sản phẩm, giúp dễ dàng truyền đạt ý tưởng tăng hiệu quả giao tiếp giữa các thành viên trong team.
 
 Với nhu cầu này, mình dùng [Pencil project](https://pencil.evolus.vn/), đây là một phần mềm rất hay, dễ sử dụng và miễn phí.
+
+![Pencil project](http://laptrinhcuocsong.com/images/pencil-project-wireframe.png)
 
 ## Các thứ lặt vặt khác:
 Ngoài các công cụ trên, còn lặt vặt nhiều phần mềm khác, chỉ cần chịu khó tìm hiểu, sau một thời gian bạn hoàn toàn có thể sử dụng tốt Ubuntu phục vụ công việc của mình.
