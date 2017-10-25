@@ -40,21 +40,21 @@ Sử dụng một hệ thống quản lý phiên bản như Git là rất phổ 
 
 Có nhiều phần mềm quản lý git bằng giao diện, cái nào cũng tuyệt vời như SmartGit, git-cola, gitg, GitEye, Cycligent Git Tool...
 
-Tuy nhiên mình thích dùng Gitkraken và Sourcetree
+Tuy nhiên mình thích dùng [Gitkraken](https://www.gitkraken.com/) và [Sourcetree](https://www.sourcetreeapp.com/)
 
 ## Quản lý cơ sở dữ liệu
 
 Quản lý cơ sở dữ liệu cũng là nhu cầu rất cần thiết, nhưng mỗi loại cơ sở dữ liệu lại có các phần mềm quản lý riêng. Với lập trình viên PHP chúng ta thường làm việc với mysql là chủ yếu.
 
-Mình dùng Mysql workbench và Emma
+Mình dùng [Mysql workbench](https://www.mysql.com/products/workbench/) và Emma (có trên ubuntu software store)
 
 ## Phần mềm FTP
 
 Phần mềm FTP là ứng dụng hỗ trợ upload, download thông qua giao thức FTP, nôm na là để chuyển file lên server.
 
-Mình chọn Filezilla vì dễ sử dụng, cross platform
+Mình chọn [Filezilla](https://filezilla-project.org/) vì dễ sử dụng, cross platform
 
-## Sử dụng terminal tốt hơn với Terminator
+## Sử dụng terminal tốt hơn với [Terminator](https://viblo.asia/p/terminal-bot-te-nhat-va-de-su-dung-voi-terminator-va-zsh-tren-ubuntu-pDOKjkrXzPr)
 
 Với php developer bạn thường xuyên sử dụng command line để build css, chạy package manager và task runner. Ứng dụng Terminal của ubuntu thì cũng có nhiều điểm hạn chế, thế nên bạn cần một Terminal tốt hơn, Terminator là ứng cử viên.
 
@@ -62,16 +62,16 @@ Với php developer bạn thường xuyên sử dụng command line để build 
 
 Bạn vẫn có thể cài đặt photoshop trên ubuntu theo như mình đã giới thiệu trong bài Cài đặt môi trường lập trình web trên ubuntu - Phần 2 . Tuy nhiên vẫn có các phần mềm đồ họa miễn phí nhưng lại rất tốt, nhanh và tiện lợi.
 
-Ngoài photoshop mình dùng thêm cả Inkscape và Gimp
+Ngoài photoshop mình dùng thêm cả [Inkscape](https://inkscape.org/) và [Gimp](https://www.gimp.org/)
 
 ## Vẽ wireframe với Pencil project
 
 Khi cần vẽ wireframe và thể hiện ý tưởng, wireframe là bản phác thảo thô mô tả tổng quan về sản phẩm, giúp dễ dàng truyền đạt ý tưởng tăng hiệu quả giao tiếp giữa các thành viên trong team.
 
-Với nhu cầu này, mình dùng Pencil project, đây là một phần mềm rất hay, dễ sử dụng và miễn phí.
+Với nhu cầu này, mình dùng [Pencil project](https://pencil.evolus.vn/), đây là một phần mềm rất hay, dễ sử dụng và miễn phí.
 
 ## Các thứ lặt vặt khác:
 Ngoài các công cụ trên, còn lặt vặt nhiều phần mềm khác, chỉ cần chịu khó tìm hiểu, sau một thời gian bạn hoàn toàn có thể sử dụng tốt Ubuntu phục vụ công việc của mình.
-Ví dụ: Công cụ chọn màu nhanh Gpick, composer, bower, npm, gulp
+Ví dụ: Công cụ chọn màu nhanh [Gpick](http://www.gpick.org/), [composer](https://getcomposer.org/), [Bower](https://bower.io/), [npm](https://www.npmjs.com/), [gulp](https://gulpjs.com/)
 
 Chúc các bạn thành công.
