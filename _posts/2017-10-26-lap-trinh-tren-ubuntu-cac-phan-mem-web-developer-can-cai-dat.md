@@ -60,9 +60,9 @@ Phần mềm FTP là ứng dụng hỗ trợ upload, download thông qua giao th
 
 Mình chọn [Filezilla](https://filezilla-project.org/) vì dễ sử dụng, cross platform
 
-## Sử dụng terminal tốt hơn với [Terminator](https://viblo.asia/p/terminal-bot-te-nhat-va-de-su-dung-voi-terminator-va-zsh-tren-ubuntu-pDOKjkrXzPr)
+## Sử dụng terminal tốt hơn với Terminator
 
-Với php developer bạn thường xuyên sử dụng command line để build css, chạy package manager và task runner. Ứng dụng Terminal của ubuntu thì cũng có nhiều điểm hạn chế, thế nên bạn cần một Terminal tốt hơn, Terminator là ứng cử viên.
+Với php developer bạn thường xuyên sử dụng command line để build css, chạy package manager và task runner. Ứng dụng Terminal của ubuntu thì cũng có nhiều điểm hạn chế, thế nên bạn cần một Terminal tốt hơn, [Terminator](https://viblo.asia/p/terminal-bot-te-nhat-va-de-su-dung-voi-terminator-va-zsh-tren-ubuntu-pDOKjkrXzPr) là ứng cử viên sáng giá.
 
 ## Phần mềm đồ họa:
 
