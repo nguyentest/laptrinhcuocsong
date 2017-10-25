@@ -18,11 +18,11 @@ WCX – đồng tiền ảo mới dựa trên nền tảng Ethereum (đứng th�
 
 ## Để đăng ký các bạn làm như sau:
 
-– Bước 1: vào link: [https://goo.gl/La8M8i](https://goo.gl/La8M8i)
-– Bước 2: Nhập Email và Password click vào “Đăng ký”
-– Bước 4: Vào email kích hoạt link tài khoản wcex.co, bạn sẽ có 50WCX.
-– Bước 5: Gửi link của bạn cho bạn bè, mỗi người bạn gửi nếu họ đăng ký bạn sẽ được thêm 50WCX
-– Bước 6: Chờ đợi đến 31/10/2017 thôi.
+- Bước 1: vào link: [https://goo.gl/La8M8i](https://goo.gl/La8M8i)
+- Bước 2: Nhập Email và Password click vào “Đăng ký”
+- Bước 4: Vào email kích hoạt link tài khoản wcex.co, bạn sẽ có 50WCX.
+- Bước 5: Gửi link của bạn cho bạn bè, mỗi người bạn gửi nếu họ đăng ký bạn sẽ được thêm 50WCX
+- Bước 6: Chờ đợi đến 31/10/2017 thôi.
 
 ![Đăng ký wcx](images/dang-ky-wcx.jpg)
 
