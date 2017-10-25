@@ -34,7 +34,7 @@ Mình dùng chủ yếu [Chrome](https://www.google.com/intl/vi_vn/chrome/browse
 
 ## Technical stack: tôi chọn LAMP
 
-Bên blog Tôi đi code dạo đã có một bài viết Stack là gì nên mình cũng không phải giới thiệu nhiều, nó là một cục các phần mềm được gom lại với nhau để cài đặt một cách nhanh chóng.
+Bên blog Tôi đi code dạo đã có một bài viết [Stack là gì](https://toidicodedao.com/2017/05/23/giai-thich-technical-stack-la-gi/) nên mình cũng không phải giới thiệu nhiều, nó là một cục các phần mềm được gom lại với nhau để cài đặt một cách nhanh chóng.
 
 Trên Ubuntu, mình dùng stack quen thuộc nhất: LAMP (Linux, Apache, MySQL, PHP)
 
@@ -66,7 +66,7 @@ Với php developer bạn thường xuyên sử dụng command line để build 
 
 ## Phần mềm đồ họa:
 
-Bạn vẫn có thể cài đặt photoshop trên ubuntu theo như mình đã giới thiệu trong bài Cài đặt môi trường lập trình web trên ubuntu - Phần 2 . Tuy nhiên vẫn có các phần mềm đồ họa miễn phí nhưng lại rất tốt, nhanh và tiện lợi.
+Bạn vẫn có thể cài đặt photoshop trên ubuntu theo như mình đã giới thiệu trong bài [Cài đặt môi trường lập trình web trên ubuntu - Phần 2](http://laptrinhcuocsong.com/cai-dat-moi-truong-lap-trinh-web-tren-ubuntu-phan-2.html) . Tuy nhiên vẫn có các phần mềm đồ họa miễn phí nhưng lại rất tốt, nhanh và tiện lợi.
 
 Ngoài photoshop mình dùng thêm cả [Inkscape](https://inkscape.org/) và [Gimp](https://www.gimp.org/)
 
