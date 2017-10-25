@@ -2,6 +2,7 @@
 layout: post
 title: Tặng 5$ WCX coin – loại tiền ảo mới đứng thứ 2 thế giới chỉ sau Bitcoin
 category: Chuyện bên lề
+thumbnail: bitcoin.png
 related_posts:
  - title: 
    link: http://laptrinhcuocsong.com/tong-hop-nhung-kenh-youtube-ma-dan-cong-nghe-nen-theo-doi-phan-2.html
