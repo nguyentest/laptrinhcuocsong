@@ -10,7 +10,7 @@ related_posts:
  - title: 
    link: http://laptrinhcuocsong.com/thay-doi-che-do-io-schedule-de-tang-toc-ubuntu.html
 ---
-Các bạn lập trình viên khi mới chuyển qua môi trường linux, mà cụ thể ở đây là Ubuntu cần phải cài đặt những phần mềm gì để có thể "lập trình được". Đã có rất nhiều bài viết về vấn đề này, ở đây chúng ta sẽ tổng hợp lại, dưới đây là các phần mềm mà bản thân mình đang dùng, có thể tạm gọi là complete setup để lập trình viên PHP lập trình trên Ubuntu.
+Các bạn lập trình viên khi mới chuyển qua môi trường linux, mà cụ thể ở đây là Ubuntu thường hỏi cần phải cài đặt những phần mềm gì để có thể "lập trình được". Đã có rất nhiều bài viết về vấn đề này, ở đây chúng ta sẽ tổng hợp lại, dưới đây là các phần mềm mà bản thân mình đang dùng, có thể tạm gọi là complete setup để lập trình viên PHP lập trình trên Ubuntu.
 
 Lưu ý đây là các phần mềm dành cho PHP developer, các nhu cầu khác như xem phim nghe nhạc, chơi game, chat chit tán gái các bạn tham khảo ở bài [Những phần mềm nên cài đặt trên ubuntu](http://laptrinhcuocsong.com/nhung-phan-mem-nen-cai-dat-tren-ubuntu.html)
 
