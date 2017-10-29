@@ -9,6 +9,10 @@ layout: default
     <div class="post_extra">
       Đăng bởi <a href='https://plus.google.com/104574678671842857033' itemprop='author' rel='author' title='author profile'>Bùi văn Nguyện</a> ngày <a href="{{ site.site_url }}{{page.url}}"  itemprop="url" rel="bookmark"><span itemprop='datePublished'>{{page.date | date: "%d-%m-%Y"}}</span></a>
     </div>
+     <!-- Begin BidVertiser code -->
+<SCRIPT data-cfasync="false" SRC="//bdv.bidvertiser.com/BidVertiser.dbm?pid=788414&bid=1911938" TYPE="text/javascript"></SCRIPT>
+<!-- End BidVertiser code --> 
+    
     {% if page.related_posts %}
     <ul class="related_posts">
       {% for related_post in page.related_posts %}{% for post in site.posts %}{% assign full_post_url = site.site_url | append: post.url %}{% if related_post.link == full_post_url %}
