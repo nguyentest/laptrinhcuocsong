@@ -3,8 +3,15 @@ layout: post
 title: Cài đặt môi trường lập trình web trên ubuntu - Phần 2
 category: Linux - ubuntu
 thumbnail: ubuntu-php.jpg
+related_posts:
+ - title: 
+   link: http://laptrinhcuocsong.com/cai-dat-moi-truong-lap-trinh-web-tren-ubuntu-phan-1.html
+ - title: 
+   link: http://laptrinhcuocsong.com/lap-trinh-tren-ubuntu-cac-phan-mem-web-developer-can-cai-dat.html
+ - title: 
+   link: http://laptrinhcuocsong.com/thay-doi-che-do-io-schedule-de-tang-toc-ubuntu.html
 ---
-Trong phần 1, mình đã hướng dẫn các bạn cài đặt apache, php, mysql trên ubuntu, hôm nay chúng ta sẽ tiếp tục cài đặt các phần mềm liên quan để ubuntu để phục vụ công việc lập trình web.
+Trong [phần 1](http://laptrinhcuocsong.com/cai-dat-moi-truong-lap-trinh-web-tren-ubuntu-phan-1.html), mình đã hướng dẫn các bạn cài đặt apache, php, mysql trên ubuntu, hôm nay chúng ta sẽ tiếp tục cài đặt các phần mềm liên quan để ubuntu để phục vụ công việc lập trình web.
 
 ### Cài đặt và cấu hình sublime text
 
