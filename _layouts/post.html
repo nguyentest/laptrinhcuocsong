@@ -7,7 +7,7 @@ layout: default
   <div class="post-body" itemprop="articleBody">
     {{ content }}
     <div class="post_extra">
-      {{page.date}}
+      {{page.date | date: "%d-%m-%Y"}}
     </div>
     {% if page.related_posts %}
     <ul class="related_posts">
