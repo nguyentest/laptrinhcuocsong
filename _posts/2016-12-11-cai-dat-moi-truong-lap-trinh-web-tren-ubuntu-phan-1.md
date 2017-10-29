@@ -3,6 +3,13 @@ layout: post
 title: Cài đặt môi trường lập trình web trên ubuntu - Phần 1
 category: Linux - ubuntu
 thumbnail: ubuntu-php.jpg
+related_posts:
+ - title: 
+   link: http://laptrinhcuocsong.com/cai-dat-moi-truong-lap-trinh-web-tren-ubuntu-phan-2.html
+ - title: 
+   link: http://laptrinhcuocsong.com/lap-trinh-tren-ubuntu-cac-phan-mem-web-developer-can-cai-dat.html
+ - title: 
+   link: http://laptrinhcuocsong.com/nhung-phan-mem-nen-cai-dat-tren-ubuntu.html
 ---
 Bạn là web developer trên ngôn ngữ php và muốn sử dụng ubuntu trong công việc của mình. Ubuntu hoàn toàn có đủ khả năng và hỗ trợ tốt công việc của bạn. Trong bài viết này mình sẽ giới thiệu cách thiết lập môi trường cho lập trình viên web trên ubuntu.
 
