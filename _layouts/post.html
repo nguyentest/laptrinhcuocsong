@@ -6,6 +6,9 @@ layout: default
   <h1 itemprop="name">{{ page.title }}</h1>
   <div class="post-body" itemprop="articleBody">
     {{ content }}
+    <div class="post_extra">
+      {{page.date}}
+    </div>
     {% if page.related_posts %}
     <ul class="related_posts">
       {% for related_post in page.related_posts %}{% for post in site.posts %}{% assign full_post_url = site.site_url | append: post.url %}{% if related_post.link == full_post_url %}
