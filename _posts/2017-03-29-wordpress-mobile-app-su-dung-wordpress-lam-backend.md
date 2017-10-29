@@ -3,6 +3,15 @@ layout: post
 title: Series tạo app mobile cho website wordpress - Phần 1 - Sử dụng wordpress làm backend
 thumbnail: mobile-app.png
 category: Chuyện lập trình
+related_posts:
+ - title: 
+   link: http://laptrinhcuocsong.com/viet-tinh-nang-tu-dong-cap-nhat-phien-ban-code-php.html
+ - title: 
+   link: http://laptrinhcuocsong.com/tong-hop-nhung-cong-cu-can-thiet-cho-web-developer.html
+ - title: 
+   link: http://laptrinhcuocsong.com/series-nghich-ngom-lap-trinh-phan-mem-paint-ve-tren-web-html5-javascript.html
+ - title: 
+   link: http://laptrinhcuocsong.com/dieu-gi-se-xay-ra-neu-ta-ve-1-trieu-div-len-man-hinh.html
 ---
 Trong series này mình sẽ cùng các bạn lập trình ứng dụng mobile (android, ios) với backend sử dụng website wordpress. Trong thời buổi kết nối di động, có một ứng dụng mobile dành riêng cho website, blog sẽ làm nội dung của bạn tiếp cận người dùng nhanh hơn, tiện hơn. Giống như facebook có ứng dụng facebook, haivl có ứng dụng haivl, chúng ta cũng sẽ làm như họ.
 
