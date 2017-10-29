@@ -2,6 +2,15 @@
 layout: post
 title: Những phần mềm nên cài đặt trên ubuntu
 category: Linux - ubuntu
+related_posts:
+ - title: 
+   link: http://laptrinhcuocsong.com/cai-dat-moi-truong-lap-trinh-web-tren-ubuntu-phan-1.html
+ - title: 
+   link: http://laptrinhcuocsong.com/cai-dat-moi-truong-lap-trinh-web-tren-ubuntu-phan-2.html
+ - title: 
+   link: http://laptrinhcuocsong.com/lap-trinh-tren-ubuntu-cac-phan-mem-web-developer-can-cai-dat.html
+ - title:
+   link: http://laptrinhcuocsong.com/thay-doi-che-do-io-schedule-de-tang-toc-ubuntu.html
 ---
 
 Hệ điều hành ubuntu là một nền tảng mở, nhưng một trong những khó khăn khi mới bắt đầu sử dụng ubuntu là trên ubuntu không có những phần mềm quen thuộc, xin giới thiệu các phần mềm thường dùng trên ubuntu để người dùng dễ tiếp cận hơn.
