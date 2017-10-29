@@ -3,6 +3,15 @@ layout: post
 title: Cùng nhau tạo restful API đơn giản với php
 thumbnail: restful-api.jpg
 category: Chuyện lập trình
+related_posts:
+ - title: 
+   link: http://laptrinhcuocsong.com/tao-va-xuat-ban-jquery-plugin-trong-30-phut.html
+ - title: 
+   link: http://laptrinhcuocsong.com/lam-he-thong-tu-dong-tao-sub-domain-bang-php.html
+ - title: 
+   link: http://laptrinhcuocsong.com/series-nghich-ngom-lap-trinh-phan-mem-paint-ve-tren-web-html5-javascript.html
+ - title: 
+   link: http://laptrinhcuocsong.com/tong-hop-nhung-cong-cu-can-thiet-cho-web-developer.html
 ---
 Như các bạn đã biết, các API (Application Programming Interfaces) được sử dụng rất phổ biến, trong thế giới kết nối như bây giờ, một ứng dụng không thể đứng độc lập mà cần phải kết nối với các ứng dụng khác. Có thể nói một sản phẩm nếu không có các API giống như máy tính không được kết nối Internet vậy. Trong bài viết này,  mình sẽ cùng các bạn tạo một restful API đơn giản với php.
 
