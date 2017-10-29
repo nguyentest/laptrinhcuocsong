@@ -3,6 +3,16 @@ layout: post
 title: Tổng hợp 9 kênh youtube mà dân công nghệ nên theo dõi
 category: Chuyện bên lề
 thumbnail: youtube_colinfurze.jpg
+related_posts:
+ - title: 
+   link: http://laptrinhcuocsong.com/tong-hop-nhung-kenh-youtube-ma-dan-cong-nghe-nen-theo-doi-phan-2.html
+ - title: 
+   link: http://laptrinhcuocsong.com/tai-sao-dan-lap-trinh-thuong-fa.html
+ - title: 
+   link: http://laptrinhcuocsong.com/hoc-lam-hacker.html
+ - title: 
+   link: http://laptrinhcuocsong.com/huong-dan-giai-whitehat-wargame-web-security-bai-1-den-bai-4.html
+   
 ---
 Thời đại viết blog để chia sẻ kinh nghiệm có lẽ đã qua mất rồi, khi mà tốc độ internet không còn là vấn đề, thì rất nhiều các kênh youtube đã xuất hiện, mang đến một phương pháp học tập, chia sẻ mới sinh động và trực quan. Xin giới thiệu 9 kênh youtube rất bổ ích mà mình thường xuyên theo dõi.
 
