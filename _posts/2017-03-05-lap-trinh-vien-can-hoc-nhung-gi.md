@@ -10,6 +10,8 @@ related_posts:
    link: http://laptrinhcuocsong.com/tra-loi-cau-hoi-ban-doc.html
  - title: Giới thiệu fluent interface - một cách để code dễ đọc hơn
    link: http://laptrinhcuocsong.com/gioi-thieu-fluent-interface-cach-de-viet-code-de-doc.html
+ - title: 
+   link: http://laptrinhcuocsong.com/tong-hop-nhung-cong-cu-can-thiet-cho-web-developer.html
 ---
 
 Một trong những câu hỏi được nhiều bạn sinh viên ngành công nghệ quan tâm nhất đó là: Cần học những kiến thức gì, rèn luyện kỹ năng gì để trở thành một lập trình viên? Câu hỏi nghe có vẻ đơn giản nhưng rất khó để trả lời, lập trình là một lĩnh vực rất rộng, có hàng tá ngôn ngữ cần phải học, hàng trăm công nghệ cần nghiên cứu, và môi trường mỗi công ty lại hoàn toàn khác nhau, do đó các thanh niên vẫn cảm thấy rất "mông lung như một trò đùa".
