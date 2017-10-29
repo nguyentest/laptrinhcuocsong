@@ -21,7 +21,7 @@ permalink: linux-ubuntu.html
 		<article class="post" itemscope itemtype="http://schema.org/Article">
   <h1 itemprop="name"><a href="{{ post.url }}" title="{{ post.title | xml_escape }}" >{{ post.title | xml_escape }}</a></h1>
   {% if post.thumbnail %}
-  <a href="{{ post.url }}"><img src="{{ site.baseurl }}images/{{ post.thumbnail }}" alt="{{ post.title | xml_escape }}" class="post_thumbnail"></a>
+  <a href="{{ post.url }}"><img itemprop="image" src="{{ site.baseurl }}images/{{ post.thumbnail }}" alt="{{ post.title | xml_escape }}" class="post_thumbnail"></a>
   {% endif %}
   <div class="excerpt" itemprop="description">
     {{ post.excerpt }}
