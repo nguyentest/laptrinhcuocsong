@@ -292,6 +292,9 @@ code.highlighter-rouge {
     background-color: #125044;
 	color: white;
 }
+.post_extra {
+    margin-bottom: 35px;
+}
 ul.related_posts {
     border-top: 1px solid #ebebeb;
     padding-top: 35px;
