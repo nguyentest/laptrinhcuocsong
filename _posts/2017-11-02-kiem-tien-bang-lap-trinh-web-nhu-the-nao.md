@@ -24,6 +24,8 @@ Thứ hai là lập trình web tương đối dễ học, kiến thức không c
 
 Thứ ba, làm lập trình web không tốn quá nhiều thời gian, bạn có thể làm thêm khi còn là sinh viên, có thể làm một mình hoặc theo nhóm, qua đó học được nhiều thứ. Kiểu như tranh thủ buổi tối làm web cho cửa hàng quần áo của chị gái mưa nào đó chẳng hạn.
 
+![Web developer](images/web-developer-big-banner.png)
+
 ## Những cái khó khi khởi đầu kiếm tiền bằng lập trình web
 
 Tất nhiên không có cái gì dễ dàng hết, ngon ăn như thế thì thiên hạ giàu cả rồi. Bạn cũng sẽ gặp những khó khăn nhất định khi bắt đầu cá kiếm trong lĩnh vực web.
