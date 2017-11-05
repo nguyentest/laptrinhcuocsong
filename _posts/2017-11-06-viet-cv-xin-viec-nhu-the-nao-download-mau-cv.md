@@ -31,7 +31,7 @@ Chúng ta không biết ở bên kia chiến tuyến, nhà tuyển dụng đang 
 
 > Trong suốt thời gian tìm kiếm nhân sự, mình nhận được vô số CV từ các bạn lập trình, phải nói là đủ thể loại, đủ kiểu luôn ạ! Từ CV bay bổng, sáng tạo vô cùng cũng có, mà CV nghêm túc, dài dằng dặc cũng có luôn. Nhưng nhiều nhất phải kể đến những CV không đầu, không cuối, không điểm nhấn, thật sự là không thể chấp nhận được chứ đừng nói là vượt qua phỏng vấn.
 
-Lúc đấy mình mới nhận thức được việc nhiều bạn IT mình có thể giỏi code, nhưng lại không biết làm CV. Mà như mọi người đều biết, không chỉ IT, mà ngành nào cũng phải qua được vòng lọc hồ sơ đã rồi đến đâu mới đến đúng không ạ? CV là nơi để nhà tuyển dụng đánh giá sơ bộ về kinh nghiệm, kỹ năng và cả bộ mặt của bạn. Bạn có muốn trưng ra một bộ mặt để người khác cười chê hay không?!
+> Lúc đấy mình mới nhận thức được việc nhiều bạn IT mình có thể giỏi code, nhưng lại không biết làm CV. Mà như mọi người đều biết, không chỉ IT, mà ngành nào cũng phải qua được vòng lọc hồ sơ đã rồi đến đâu mới đến đúng không ạ? CV là nơi để nhà tuyển dụng đánh giá sơ bộ về kinh nghiệm, kỹ năng và cả bộ mặt của bạn. Bạn có muốn trưng ra một bộ mặt để người khác cười chê hay không?!
 
 Đồng thời, bạn ấy cũng chia sẻ một bộ CV chuẩn dành riêng cho dân DEV, xem qua mình thấy rất giá trị, thấy được những điểm chưa ngon ở CV của mình để sửa kịp thời. Nói chung chẳng có một mẫu CV nào là chuẩn cả, nhưng tham khảo để rút ra kinh nghiệm thì cũng rất nên làm. Bạn có thể tải về bộ CV này ở link dưới
 
