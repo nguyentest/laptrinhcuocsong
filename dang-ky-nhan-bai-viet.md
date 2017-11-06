@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Đăng ký nhận bài viết qua email
+excerpt: Đăng ký nhận bài viết từ blog Lập trình cuộc sống qua email
 ---
 <p>Nếu bạn thấy các bài viết trên blog này có ích, hãy để lại email. Nếu có bài viết mới, chúng tôi sẽ gửi nó cho bạn qua email vào 7h đến 9h sáng hàng ngày.</p>
    
