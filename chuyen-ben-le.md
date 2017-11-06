@@ -2,6 +2,7 @@
 layout: default
 title: Chuyện bên lề
 permalink: chuyen-ben-le.html
+excerpt: Các bài viết về mọi thứ liên quan đến cuộc sống của một lập trình viên
 ---
 
 
