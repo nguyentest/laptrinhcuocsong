@@ -2,6 +2,7 @@
 layout: default
 title: Chuyện nghề nghiệp
 permalink: chuyen-nghe-nghiep.html
+excerpt: Các bài viết về những buồn vui, khó khăn, trăn trở trong nghề lập trình
 ---
 
 
