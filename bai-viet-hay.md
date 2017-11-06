@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tổng hợp các bài viết hay trên Blog Lập Trình Cuộc Sống
-excerpt: Tổng hợp cập nhật các bài viết hay, có ích v được bạn đọc quan tâm nhất
+excerpt: Tổng hợp cập nhật các bài viết hay, có ích và được bạn đọc quan tâm nhất
 ---
 Để các bạn tiện theo dõi, tại trang này sẽ cập nhật các bài viết được bạn đọc quan tâm nhất, cũng như mình cảm thấy có ích cho người đọc nhất.
 
