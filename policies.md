@@ -2,6 +2,7 @@
 layout: page
 title: Thỏa thuận sử dụng
 permalink: /policies.html
+excerpt: Thỏa thuận, điều khoản khi sử dụng blog Lập trình cuộc sống
 ---
 
 Khi truy cập trang web này, hãy đọc những điều khoản dưới đây một cách cẩn trọng, trong trường hợp không đồng ý với những điều khoản này, xin vui lòng không tiếp tục sử dụng trang web.
