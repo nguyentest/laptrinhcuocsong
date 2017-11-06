@@ -2,6 +2,7 @@
 layout: default
 title: Linux - ubuntu
 permalink: linux-ubuntu.html
+excerpt: Các bài viết về học ubuntu, linux, hướng dẫn cài đặt và sử dụng ubuntu vào công việc
 ---
 
 
