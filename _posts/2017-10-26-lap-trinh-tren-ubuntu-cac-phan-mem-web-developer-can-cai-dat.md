@@ -50,7 +50,7 @@ Tuy nhiên mình thích dùng [Gitkraken](https://www.gitkraken.com/) và [Sourc
 
 Quản lý cơ sở dữ liệu cũng là nhu cầu rất cần thiết, nhưng mỗi loại cơ sở dữ liệu lại có các phần mềm quản lý riêng. Với lập trình viên PHP chúng ta thường làm việc với mysql là chủ yếu.
 
-Mình dùng [Mysql workbench](https://www.mysql.com/products/workbench/) và Emma (có trên ubuntu software store)
+Mình dùng [Valentina studio](https://www.valentina-db.com/en/get-free-valentina-studio), [Mysql workbench](https://www.mysql.com/products/workbench/) và Emma (có trên ubuntu software store)
 
 ![Mysql workbench](http://laptrinhcuocsong.com/images/mysql-workbench.png)
 
