@@ -12,8 +12,8 @@
     <meta property="og:description" content="{{ page.excerpt| strip_html | strip_newlines | xml_escape }}" />
     <meta property="og:type" content="article" /> 
     {% else %}
-    <meta name="description" content="{{ site.description | xml_escape }}">
-    <meta property="og:description" content="{{ site.description | xml_escape }}" />
+    <meta name="description" content="{{ site.seo_description | xml_escape }}">
+    <meta property="og:description" content="{{ site.seo_description | xml_escape }}" />
     <meta property="og:type" content="website" /> 
     {% endif %}
     {% if page.title %}
@@ -35,13 +35,6 @@
     <link href="https://plus.google.com/104574678671842857033" rel="author" />   
     <link href="https://plus.google.com/104574678671842857033" rel="publisher" />
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<script>
-  (adsbygoogle = window.adsbygoogle || []).push({
-    google_ad_client: "ca-pub-8923737368733440",
-    enable_page_level_ads: true
-  });
-</script>
 </head>
 <body>
 <div id="header-outer">
