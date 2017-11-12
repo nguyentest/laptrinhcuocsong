@@ -9,6 +9,8 @@ excerpt: Tổng hợp cập nhật các bài viết hay, có ích và được b
 
 [Tại sao dân lập trình thường FA](http://laptrinhcuocsong.com/tai-sao-dan-lap-trinh-thuong-fa.html)
 
+[Lương lập trình viên mới ra trường - sự thật và ảo tưởng](http://laptrinhcuocsong.com/luong-lap-trinh-vien-moi-ra-truong.html)
+
 [Lập trình viên PHP đứng đầy đường](http://laptrinhcuocsong.com/lap-trinh-vien-php-dung-day-duong.html)
 
 [Tổng hợp 9 kênh youtube mà dân công nghệ nên theo dõi](http://laptrinhcuocsong.com/tong-hop-9-kenh-youtube-ma-dan-cong-nghe-nen-theo-doi.html)
