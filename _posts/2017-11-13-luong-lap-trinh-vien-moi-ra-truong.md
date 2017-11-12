@@ -2,7 +2,7 @@
 title: Lương lập trình viên mới ra trường - sự thật và ảo tưởng
 category: Chuyện nghề nghiệp
 thumbnail: fly-get-money.png
-excerpt: Hồi mới ra trường mình cũng như các bạn, tưởng rằng lương lập trình viên cao lắm, giờ thì đỡ nhiều rồi. Đến bây giờ, sau từng ấy năm làm vập mặt mà vẫn chưa đạt được một nửa con số [lương khởi điểm 2000 đô mà một bạn sinh viên kia mong muốn](https://news.zing.vn/sinh-vien-doi-luong-khoi-diem-2000-usd-co-ao-tuong-post702208.html), mình khẳng định rằng chúng ta đã và đang hi vọng quá nhiều vào môi trường làm việc sau khi ra trường.
+excerpt: Hồi mới ra trường mình cũng như các bạn, tưởng rằng lương lập trình viên cao lắm, giờ thì đỡ nhiều rồi. Đến bây giờ, sau từng ấy năm làm vập mặt mà vẫn chưa đạt được một nửa con số lương khởi điểm 2000 đô mà một bạn sinh viên kia mong muốn, mình khẳng định rằng chúng ta đã và đang hi vọng quá nhiều vào môi trường làm việc sau khi ra trường.
 related_posts:
  - title: 
    link: http://laptrinhcuocsong.com/viet-cv-xin-viec-nhu-the-nao-download-mau-cv.html
