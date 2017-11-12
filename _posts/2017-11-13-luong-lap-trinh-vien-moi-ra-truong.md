@@ -59,7 +59,7 @@ Một khi còn chưa có ý thức, chưa chủ động, đổ tội cho ngườ
 
 Lời khuyên của mình, cực kỳ quan trọng, là trong những ngày đầu tiên khi mới đi làm, bạn không được nản, đôi khi còn phải lỳ một tí, lỳ ở đây không phải là chống đối, mà là chưa biết người ta bảo thì không được tự ái. Bạn phải chuẩn bị tâm lý thật vững ở giai đoạn này. 
 
-Nhiều bạn làm sai bị mắng một tí thì dỗi xong nghỉ, đừng thế nhé, phải lỳ hơn tí nữa, chiến đấu hết mình. Chân thành với bản thân và đồng nghiệp, biết chỗ mạnh chỗ yếu của mình, đừng lo gì, sai thì sửa, bug thì fix, nhân viên làm sai, làm hỏng thì doanh nghiệp phải chịu, vẫn phải trả lương. Thấy chưa, bạn chỉ có lợi thôi.
+Nhiều bạn làm sai bị mắng một tí thì dỗi xong nghỉ, đừng thế nhé, phải lỳ hơn tí nữa, chiến đấu hết mình. Chân thành với bản thân và đồng nghiệp, biết chỗ mạnh chỗ yếu của mình, đừng lo gì, sai thì sửa, bug thì fix, nhân viên làm sai, làm hỏng thì doanh nghiệp phải chịu, vẫn phải trả lương. Thấy chưa, bạn chỉ có lợi, tội gì mà không làm.
 
 Bây giờ bạn hãy lấy cái bằng ra, bạn thấy chữ gì không? Nó ghi là "sinh viên ABC đã tốt nghiệp", nó không ghi rằng "sinh viên ABC sẽ có công việc tại cty XYZ với mức lương 2 nghìn đô". Hãy thay đổi bản thân, vì cái gì cũng thay đổi hết, "SQL thì lại có NoSql", căn bản là bạn phải thích nghi theo môi trường thôi.
 
