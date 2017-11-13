@@ -6,9 +6,6 @@ layout: default
   <h1 itemprop="name">{{ page.title }}</h1>
   <div class="post-body" itemprop="articleBody">
     {{ content }}
-    <div class="post_extra">
-      Đăng bởi <a href='https://plus.google.com/104574678671842857033' itemprop='author' rel='author' title='author profile'>Bùi văn Nguyện</a> ngày <a href="{{ site.site_url }}{{page.url}}"  itemprop="url" rel="bookmark"><span itemprop='datePublished'>{{page.date | date: "%d-%m-%Y"}}</span></a>
-    </div>
     {% if page.related_posts %}
     <ul class="related_posts">
       {% for related_post in page.related_posts %}{% for post in site.posts %}{% assign full_post_url = site.site_url | append: post.url %}{% if related_post.link == full_post_url %}
