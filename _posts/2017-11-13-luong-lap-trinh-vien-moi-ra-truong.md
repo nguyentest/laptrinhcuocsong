@@ -23,7 +23,7 @@ Cộng thêm một điểm đặc trưng của ngành IT, đó là nó được 
 
 ![Kiếm tiền](images/fly-get-money-big.png)
 
-Tất nhiên ai cũng có quyền mong muốn một công việc tốt, nhưng làm ơn, hãy xuống mặt đất đi, kẻo lại ngã sml như mình ngày xưa. Bởi vì đến bây giờ, tất cả những người mình quen biết trong nghề, không nhiều người đạt được mức 2000 đô một tháng đâu.
+Tất nhiên ai cũng có quyền mong muốn một công việc tốt, nhưng làm ơn, hãy xuống mặt đất đi, nhìn nhận thực tế đi, kẻo lại ngã sml như mình ngày xưa. Bởi vì đến bây giờ, tất cả những người mình quen biết trong nghề, không nhiều người đạt được mức 2000 đô một tháng đâu.
 
 ## Trước hết là cái tư tưởng
 
@@ -33,7 +33,7 @@ Lúc đi học, chúng ta có thể coi lập trình là theo đuổi đam mê, 
 
 Nhiều bạn sinh viên bây giờ, mới ra trường mắc thêm căn bệnh “ảo tưởng sức mạnh”. Nghĩ làm lập trình nó cao siêu lắm, vào doanh nghiệp lương ít cũng chê, bị sai vặt cũng hậm hực, muốn văn phòng đẹp, giờ giấc thoải mái.
 
-Đi làm là đang tham gia vào thị trường lao động, chứ không phải là làm công việc trong mơ, là theo đuổi đam mê hay bất kỳ một cái gì to lớn vĩ đại cả. Lập trình ở đây là bán sức lao động của mình để lấy tiền, là kiếm miếng cơm manh áo,  đơn giản chỉ có vậy thôi.
+Đi làm là đang tham gia vào thị trường lao động, chứ không phải là làm công việc trong mơ, là theo đuổi đam mê hay bất kỳ một cái gì to lớn vĩ đại cả. Lập trình ở đây là bán sức lao động của mình để lấy tiền, là kiếm miếng cơm manh áo, đơn giản chỉ có vậy thôi.
 
 Nhiều bạn vẫn nghĩ rằng mình đã tốt nghiệp đại học, tức là mình thuộc “tầng lớp trí thức” tách biệt với bọn lao động phổ thông. Điều này sai hoàn toàn, thật ra thì lập trình với làm thợ hồ hay phục vụ bàn cũng chả khác méo gì nhau, đều là bán sức lao động để đổi lấy đồng tiền cả thôi.
 
@@ -41,7 +41,7 @@ Nhiều bạn vẫn nghĩ rằng mình đã tốt nghiệp đại học, tức l
 
 Không thể phủ nhận chất lượng đào tạo ở Việt Nam còn yếu kém, cứ google "đào tạo đại học ở Việt Nam" để biết tôi và bạn đã được đào tạo như thế nào. Ra trường, bạn đã được đào tạo như vậy, nó thế rồi, không quay lại để thay đổi được, thì giờ nghĩ cách xông ra đời để kiếm tiền đi.
 
-Đừng đổ lỗi cho ai cả, cũng đừng đổ lỗi cho hệ thống giáo dục, chúng ta đang ở đây, phải kiếm việc làm để sống. Mình ghét nhất những câu những câu chém gió mang tầm triết lý kiểu như: Đây là vấn đề của toàn hệ thống giáo dục ...rằng ở nước ngoài thế lọ thế chai. Đó là đang đổ lỗi, "không phải lỗi của tôi, tại nền giáo dục yếu kém nên tôi mới yếu kém như thế". 
+Đừng đổ lỗi cho ai cả, cũng đừng đổ lỗi cho hệ thống giáo dục, chúng ta đang ở đây, phải kiếm việc làm để sống. Mình ghét nhất những câu những câu chém gió mang tầm triết lý kiểu như: Đây là vấn đề của toàn hệ thống giáo dục ...rằng ở nước ngoài người ta thế lọ thế chai. Đó là đang đổ lỗi, "không phải lỗi của tôi, tại nền giáo dục yếu kém nên tôi mới yếu kém như thế". 
 
 Lúc đi học có thể vểnh râu mà phán rằng "đây là lỗi ở cả hệ thống giáo dục". Nhưng đi làm, bạn phải nghĩ "nếu hôm nay tôi không làm tốt, ngày mai tôi sẽ có thể bị đuổi việc, tôi sẽ không có cơm để ăn" thế thôi.
 
