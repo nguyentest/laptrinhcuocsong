@@ -56,7 +56,7 @@ Nếu source code của website là tự viết, không dùng mã nguồn mở, 
 
 ## Vẫn có những con đường khác
 
-Thực tế thì vẫn có những con đường khác, cái này thì tùy từng website mà có cách ứng biến phù hợp tùy thuộc vào hiểu biết của bạn về website đó. Một website thường không đứng độc lập, nó có thể tương tác với hệ thống thanh toán bên ngoài, là api dữ liệu cho ứng dụng mobile... và vẫn có những sơ hở khác tồn tại. Bản thân mình đã từng hack bằng cách dịch ngược file apk của một hệ thống và đọc code của nó, gửi mail cho nhân viên cty đó có đính kèm malware... duy chỉ có chat chit, gọi điện khai thác theo hướng social engineering là chưa làm do không có tài chém gió :))
+Thực tế thì vẫn có những con đường khác, cái này thì tùy từng website mà có cách ứng biến phù hợp tùy thuộc vào hiểu biết của bạn về website đó. Một website thường không đứng độc lập, nó có thể tương tác với hệ thống thanh toán bên ngoài, là api dữ liệu cho ứng dụng mobile... và vẫn có những sơ hở khác tồn tại. Bản thân mình đã từng hack bằng cách dịch ngược file apk của một hệ thống và đọc code của nó, gửi mail cho nhân viên cty đó có đính kèm malware, lợi dụng sơ hở của hệ thống DNS... Hoặc có một cách hack khác rất phổ biến, đó là social engineering, khai thác lỗi từ chính yếu tố con người, chat chit, gọi điện, gửi email lừa lọc :)) nó đặc biệt hiệu quả khi kết hợp với phương pháp kỹ thuật đã nói ở trên. Riêng cái này mình chưa làm do không có tài chém gió :))
 
 ## Kết luận
 
