@@ -22,11 +22,11 @@ Họ thương thì cho ít tiền cafe, không thì mình cũng rất vui vì gi
 
 ## Hacker phải biết lập trình
 
-Mình nói thật, không biết lập trình thì bỏ đi, không có hack hiếc gì cả, before you break the rules you have to learn the rules, trước khi làm gì đó với một website, bạn phải biết website nó hoạt động như thế nào, được tạo ra như thế nào. Trước khi tán con bé hàng xóm, cũng phải biết nó thích gì, hay đi đâu, nó có hay xem porn không, nhà có giàu không... Hãy học lập trình thật tốt, bạn sẽ tự biết hack một cách rất tự nhiên thôi.
+Mình nói thật, không biết lập trình thì bỏ đi, không có hack hiếc gì cả, có một câu nói rất hay rằng "Before you break the rules you have to learn the rules", trước khi làm gì đó với một website, bạn phải biết website nó hoạt động như thế nào, được tạo ra như thế nào. Trước khi tán con bé hàng xóm, cũng phải biết nó thích gì, hay đi đâu, nó có hay xem porn không, nhà có giàu không... Hãy học lập trình thật tốt, bạn sẽ tự biết hack một cách rất tự nhiên thôi.
 
 > Tôi không biết lập trình, tôi chỉ muốn thử hack một cái gì đó, để thử cảm giác được làm hacker có được không?
 
-Có, cho vui thì được, hiện có rất nhiều tools, hướng dẫn trên Google để bạn có thể tự mình hack, để đặt avatar mặt nạ anonymous cho ngầu để tán gái, chỉ cần bạn có một đam mê khám phá và tinh thần học hỏi. Nhưng dù gì thì gì, hack vẫn là một hành động phạm tội, và bạn sẽ không tiến xa được với cách tiếp cận này đâu. Mình đã gặp rất nhiều bạn sky's vì xem nhiều phim hacker mà sinh ra ảo tưởng, hừng hực trên con đường "nghiên cứu bảo mật" mà thất vọng, chán nản bất mãn với đời, các bạn đừng như thế nhé :)
+Có, cho vui thì được, hiện có rất nhiều tools, hướng dẫn trên Google để bạn có thể tự mình hack, để đặt avatar mặt nạ anonymous cho ngầu để tán gái, chỉ cần bạn có một đam mê khám phá và tinh thần học hỏi. Nhưng dù gì thì gì, hack vẫn là một hành động phạm tội, và bạn sẽ không tiến xa được với cách tiếp cận này đâu. Mình đã gặp rất nhiều bạn Sky's vì xem nhiều phim hacker mà sinh ra ảo tưởng, hừng hực trên con đường "nghiên cứu bảo mật" mà thất vọng, chán nản bất mãn với đời =)) Cứ thử học một khóa lập trình đi, rồi bạn sẽ thấy ước muốn trở thành hacker của mình nó ngớ ngẩn đến mức nào.
 
 ## Làm thế nào để hack một website?
 
@@ -60,5 +60,4 @@ Thực tế thì vẫn có những con đường khác, cái này thì tùy từ
 
 ## Kết luận
 
-Hack cần tư duy lập trình tốt và sự sáng tạo, tìm hiểu về bảo mật thông tin, Những mánh khóe, thủ thuật mà hacker sử dụng có ích giúp bạn lập trình tốt hơn. Tất cả các lập trình viên nên tạo thói quen "đa nghi", đứng dưới góc nhìn của hacker để lập trình tốt hơn khi xây dựng một ứng dụng an toàn
-
+Hack cần tư duy lập trình tốt và sự sáng tạo, tìm hiểu về bảo mật thông tin, Những mánh khóe, thủ thuật mà hacker sử dụng có ích giúp bạn lập trình tốt hơn. Tất cả các lập trình viên nên tạo thói quen "đa nghi", đứng dưới góc nhìn của hacker để lập trình tốt hơn khi xây dựng một ứng dụng an toàn.
