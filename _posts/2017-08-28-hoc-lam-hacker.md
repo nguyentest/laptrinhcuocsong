@@ -34,7 +34,7 @@ Lảm nhảm khá nhiều mới đến chủ đề chính, chúng ta sẽ tìm h
 
 ## Thu thập thông tin
 
-Khi đã có "ý đồ đen tối" với một website cụ thể, đầu tiên check info server xem website đó đang dùng hosting của dịch vụ nào, hay là dùng VPS - Server riêng, server đó đang chạy hệ điều hành gì, version mấy.... thử xem robots.txt xem họ có giấu giếm cái gì không, thử google xem nó có error nào mà google vô tình thu thập được không.
+Khi đã có "ý đồ đen tối" với một website cụ thể, đầu tiên check info server xem website đó viết bằng gì, dữ liệu sẽ được gửi nhận ra sao, cơ sở dữ liệu ở đâu, giao thức liên lạc, mã hóa bằng gì, đang dùng hosting của dịch vụ nào hay dùng VPS - Server riêng, server đó đang chạy hệ điều hành gì, version mấy.... thử xem robots.txt xem họ có giấu giếm cái gì không, thử google xem nó có error nào mà google vô tình thu thập được không.
 
 Nó đang dùng mã nguồn nào, nếu là dùng mã nguồn mở (wordpress, joomla, drupal...) thì check luôn version của mã nguồn đó nếu có thể. Họ có dùng https không, dùng theme hay plugin nào phụ thêm không? Tên miền của nhà cung cấp nào, ai là chủ nhân tên miền, có các sub-domain nào... vân vân và mây mây, tóm lại là thu thập càng nhiều thông tin càng tốt.
 
