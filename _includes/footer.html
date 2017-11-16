@@ -33,31 +33,30 @@
 
 </script>
 <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async='async'></script>
-  <script>
+<script>
     var OneSignal = window.OneSignal || [];
     OneSignal.push(["init", {
-      appId: "dee57b2d-0b5b-4de1-aa41-7fdc8cd0cdbf",
-      autoRegister: true, /* Set to true to automatically prompt visitors */
-      notifyButton: {
-          enable: true /* Set to false to hide */
-      
-		text: {
-		    'tip.state.unsubscribed': 'Đăng ký nhận thông báo',
-		    'tip.state.subscribed': "Bạn đã đăng ký nhận thông báo bài viết mới thành công",
-		    'tip.state.blocked': "You've blocked notifications",
-		    'message.prenotify': 'Click để đăng ký nhận thông báo bài viết mới',
-		    'message.action.subscribed': "Thanks for subscribing!",
-		    'message.action.resubscribed': "Bạn đã đăng ký nhận thông báo bài viết mới thành công",
-		    'message.action.unsubscribed': "Thành thật xin lỗi đã làm phiền, chúng tôi sẽ không gửi thông báo cho bạn nữa",
-		    'dialog.main.title': 'Manage Site Notifications',
-		    'dialog.main.button.subscribe': 'Đăng ký',
-		    'dialog.main.button.unsubscribe': 'Bỏ đăng ký',
-		    'dialog.blocked.title': 'Bật thông báo',
-		    'dialog.blocked.message': "Làm theo hướng dẫn sau để bật thông báo:"
-		}
-	},
+        appId: "dee57b2d-0b5b-4de1-aa41-7fdc8cd0cdbf",
+        autoRegister: true, /* Set to true to automatically prompt visitors */
+        notifyButton: {
+            enable: true, /* Set to false to hide */
+            text: {
+                'tip.state.unsubscribed': 'Đăng ký nhận thông báo',
+                'tip.state.subscribed': "Bạn đã đăng ký nhận thông báo bài viết mới thành công",
+                'tip.state.blocked': "You've blocked notifications",
+                'message.prenotify': 'Click để đăng ký nhận thông báo bài viết mới',
+                'message.action.subscribed': "Thanks for subscribing!",
+                'message.action.resubscribed': "Bạn đã đăng ký nhận thông báo bài viết mới thành công",
+                'message.action.unsubscribed': "Thành thật xin lỗi đã làm phiền, chúng tôi sẽ không gửi thông báo cho bạn nữa",
+                'dialog.main.title': 'Manage Site Notifications',
+                'dialog.main.button.subscribe': 'Đăng ký',
+                'dialog.main.button.unsubscribe': 'Bỏ đăng ký',
+                'dialog.blocked.title': 'Bật thông báo',
+                'dialog.blocked.message': "Làm theo hướng dẫn sau để bật thông báo:"
+            }
+        },
     }]);
-  </script>
+</script>
 <script src="script.js"></script>
 </body>
 </html>
