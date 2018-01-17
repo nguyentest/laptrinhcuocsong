@@ -2,6 +2,8 @@
 layout: default
 ---
 
+fsdafsdafsdafsdaf
+
 {% for post in paginator.posts %}
 <article class="post" itemscope itemtype="http://schema.org/Article">
   <h1 itemprop="name"><a itemprop="url" href="{{ site.site_url }}{{ post.url }}" title="{{ post.title | xml_escape }}" >{{ post.title | xml_escape }}</a></h1>
